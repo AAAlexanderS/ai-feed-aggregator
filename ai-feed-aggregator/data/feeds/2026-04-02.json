@@ -1,0 +1,436 @@
+{
+  "date": "2026-04-02",
+  "generated_at": "2026-04-02T02:50:29.371684+00:00",
+  "posts": [
+    {
+      "source": "x_twitter",
+      "source_id": "2038593917571195211",
+      "url": "https://twitter.com/PrajwalTomar_/status/2038593917571195211",
+      "author": {
+        "name": "Prajwal Tomar",
+        "username": "PrajwalTomar_",
+        "headline": "I build MVPs for founders in 21 days at @ignytlabs and teach others how to do the same inside @aimvpbuilders.",
+        "followers": 53278
+      },
+      "content": "Stop saying AI can’t design clean UI.\n\nYou just don’t have the right workflow.\n\nThis entire UI took UNDER 45 minutes.\n\nFull breakdown below. https://t.co/KhvVfOYH8Q",
+      "metrics": {
+        "likes": 306,
+        "retweets": 30,
+        "replies": 16,
+        "views": 0,
+        "bookmarks": 508
+      },
+      "published_at": "Mon Mar 30 12:27:19 +0000 2026",
+      "ai": {
+        "domain": "ui_ux_design",
+        "title": "Stop saying AI can't design clean UI. You just don't have the right workflow. This entire UI took UNDER 45 minutes.",
+        "author_role": "Product Designer / MVP Builder",
+        "keywords": [
+          "AI",
+          "UI design",
+          "workflow",
+          "45 minutes"
+        ],
+        "workflow_stage": "asset creation | layout / composition",
+        "tools_mentioned": [
+          "AI"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Demonstrates complete UI creation workflow using AI in under 45 minutes, with full breakdown provided.",
+        "why_important": "Proves AI can create clean UI designs when proper workflow is used.",
+        "learnings": "Specific 45-minute AI UI design workflow that challenges common misconceptions about AI design capabilities.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "x_twitter",
+      "source_id": "2038523236556980252",
+      "url": "https://twitter.com/garrytan/status/2038523236556980252",
+      "author": {
+        "name": "Garry Tan",
+        "username": "garrytan",
+        "headline": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+        "followers": 725475
+      },
+      "content": "Just added a Pretext skill to GStack tonight (Pretext came out a couple days ago, created by the brilliant @_chenglou)\n\nIn Claude Code type:\n&gt; Install GStack\n&gt; /design-html \n\nI think this might be the 2 line fastest way to try Pretext to make hyper-responsive HTML designs https://t.co/31ZKFEyveQ",
+      "metrics": {
+        "likes": 407,
+        "retweets": 16,
+        "replies": 46,
+        "views": 0,
+        "bookmarks": 334
+      },
+      "published_at": "Mon Mar 30 07:46:28 +0000 2026",
+      "ai": {
+        "domain": "ui_ux_design",
+        "title": "Just added a Pretext skill to GStack tonight. In Claude Code type: > Install GStack > /design-html",
+        "author_role": "Product Designer / CEO",
+        "keywords": [
+          "Claude Code",
+          "Pretext",
+          "GStack",
+          "HTML design"
+        ],
+        "workflow_stage": "asset creation | layout / composition",
+        "tools_mentioned": [
+          "Claude Code",
+          "GStack",
+          "Pretext"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Shows 2-line fastest way to create hyper-responsive HTML designs using Claude Code with GStack and Pretext integration.",
+        "why_important": "Demonstrates fastest path from idea to responsive HTML design using AI code generation.",
+        "learnings": "Two-command workflow for rapid HTML design prototyping in Claude Code.",
+        "worth_bookmarking": true,
+        "credibility_score": 9,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "x_twitter",
+      "source_id": "2039011910260293851",
+      "url": "https://twitter.com/figma/status/2039011910260293851",
+      "author": {
+        "name": "Figma",
+        "username": "figma",
+        "headline": "Config 2026 SF June 23-25",
+        "followers": 550905
+      },
+      "content": "Live with Claude Code\n\nJoin Figma's designer advocate, Brett McMillin, and Anthropic's technical staff member, Thariq Shihipar, as they talk through how to move fluidly between Claude Code and Figma. https://t.co/Fx9GgqtKWX",
+      "metrics": {
+        "likes": 1048,
+        "retweets": 109,
+        "replies": 34,
+        "views": 0,
+        "bookmarks": 1216
+      },
+      "published_at": "Tue Mar 31 16:08:17 +0000 2026",
+      "ai": {
+        "domain": "ui_ux_design",
+        "title": "Live with Claude Code. Join Figma's designer advocate and Anthropic's technical staff as they talk through how to move fluidly between Claude Code and Figma.",
+        "author_role": "Product Design Team / Technical Staff",
+        "keywords": [
+          "Claude Code",
+          "Figma",
+          "fluid workflow",
+          "design handoff"
+        ],
+        "workflow_stage": "handoff / production | iteration / refinement",
+        "tools_mentioned": [
+          "Claude Code",
+          "Figma"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Official collaboration session between Figma and Anthropic showing fluid workflows between Claude Code and Figma.",
+        "why_important": "Official guidance on integrating AI code generation with design tools for seamless workflows.",
+        "learnings": "Professional workflow for moving between AI coding and visual design tools.",
+        "worth_bookmarking": true,
+        "credibility_score": 10,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "x_twitter",
+      "source_id": "2039319328038781393",
+      "url": "https://twitter.com/101babich/status/2039319328038781393",
+      "author": {
+        "name": "Nick Babich",
+        "username": "101babich",
+        "headline": "Product designer. Editor-in-chief of @uxplanet",
+        "followers": 24183
+      },
+      "content": "🔥 Figma Skills for Claude Code\n\nFigma recently released a collection of Skills for Claude Code that allow Claude to take actions on the Figma canvas.\n\n🔺 What exactly are Figma skills\n\nThink of Figma skills as a collection of instructions that teach Claude Code how to interact https://t.co/Sf5P9NX2nW",
+      "metrics": {
+        "likes": 258,
+        "retweets": 24,
+        "replies": 8,
+        "views": 0,
+        "bookmarks": 354
+      },
+      "published_at": "Wed Apr 01 12:29:51 +0000 2026",
+      "ai": {
+        "domain": "ui_ux_design",
+        "title": "🔥 Figma Skills for Claude Code. Figma recently released a collection of Skills for Claude Code that allow Claude to take actions on the Figma canvas.",
+        "author_role": "Product Designer / Editor",
+        "keywords": [
+          "Figma Skills",
+          "Claude Code",
+          "canvas actions",
+          "design automation"
+        ],
+        "workflow_stage": "asset creation | iteration / refinement",
+        "tools_mentioned": [
+          "Figma",
+          "Claude Code"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Explains Figma Skills as instructions that teach Claude Code how to interact with Figma canvas for automated design actions.",
+        "why_important": "Enables direct AI manipulation of design files, bridging code and visual design.",
+        "learnings": "How to use Figma Skills to automate design actions through Claude Code integration.",
+        "worth_bookmarking": true,
+        "credibility_score": 9,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "x_twitter",
+      "source_id": "2038917621522092145",
+      "url": "https://twitter.com/mattiapomelli/status/2038917621522092145",
+      "author": {
+        "name": "Mattia",
+        "username": "mattiapomelli",
+        "headline": "Building startups with friends @sleekdotdesign",
+        "followers": 15527
+      },
+      "content": "Claude Code now designs my mobile apps.\n\nJust added one skill and now I vibe design and code from the terminal.\n\nHere's the exact workflow I use: https://t.co/KqVopL3vWS",
+      "metrics": {
+        "likes": 489,
+        "retweets": 25,
+        "replies": 21,
+        "views": 0,
+        "bookmarks": 763
+      },
+      "published_at": "Tue Mar 31 09:53:36 +0000 2026",
+      "ai": {
+        "domain": "ui_ux_design",
+        "title": "Claude Code now designs my mobile apps. Just added one skill and now I vibe design and code from the terminal.",
+        "author_role": "Product Designer / Developer",
+        "keywords": [
+          "Claude Code",
+          "mobile app design",
+          "terminal workflow",
+          "vibe design"
+        ],
+        "workflow_stage": "concept / ideation | asset creation | layout / composition",
+        "tools_mentioned": [
+          "Claude Code"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Shows exact workflow for designing and coding mobile apps directly from terminal using Claude Code with one added skill.",
+        "why_important": "Demonstrates seamless design-to-code workflow for mobile app development.",
+        "learnings": "Terminal-based mobile app design workflow using Claude Code skills.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "x_twitter",
+      "source_id": "2039267460327887219",
+      "url": "https://twitter.com/8co28/status/2039267460327887219",
+      "author": {
+        "name": "852話(hakoniwa)",
+        "username": "8co28",
+        "headline": "hakoniwa is the Executive Director of And Idea Co., Ltd. @AndIdea_jp For work requests, please contact info@andidea.jp. お仕事のご依頼はメールへどうぞ。AIをツールとして活用しています。",
+        "followers": 430920
+      },
+      "content": "一枚絵をAI自動パーツ分けと穴埋めするSee-throughをComfyUIで使用\n1280x1280、RTX 5090で2分程度\nLive2Dのモデルテンプレートを適用5分\n描画順とメッシュの軽微な編集7,8分\n物理や細かい表情なしで、ベースがLive2Dで動かせるようになるまで15～20分くらい？ 画期的だな https://t.co/399oBGEC3o",
+      "metrics": {
+        "likes": 1513,
+        "retweets": 184,
+        "replies": 3,
+        "views": 0,
+        "bookmarks": 1272
+      },
+      "published_at": "Wed Apr 01 09:03:44 +0000 2026",
+      "ai": {
+        "domain": "motion_design",
+        "title": "一枚絵をAI自動パーツ分けと穴埋めするSee-throughをComfyUIで使用。1280x1280、RTX 5090で2分程度。Live2Dのモデルテンプレートを適用5分。描画順とメッシュの軽微な編集7,8分。物理や細かい表情なしで、ベースがLive2Dで動かせるようになるまで15～20分くらい？ 画期的だな",
+        "author_role": "Motion Designer / Creative Technologist",
+        "keywords": [
+          "ComfyUI",
+          "See-through",
+          "Live2D",
+          "AI パーツ分け"
+        ],
+        "workflow_stage": "asset creation | animation / motion",
+        "tools_mentioned": [
+          "ComfyUI",
+          "See-through",
+          "Live2D"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "ComfyUIのSee-throughを使って一枚絵を自動でパーツ分けし、Live2Dアニメーション用に変換する15-20分の完全ワークフロー。",
+        "why_important": "静止画から動的アニメーションまでの時間を劇的に短縮する革新的なワークフロー。",
+        "learnings": "一枚絵からLive2Dアニメーションまでの具体的な時間配分と手順。",
+        "worth_bookmarking": true,
+        "credibility_score": 9,
+        "creative_workflow_value": 10
+      }
+    },
+    {
+      "source": "x_twitter",
+      "source_id": "2039342990024380915",
+      "url": "https://twitter.com/wildmindai/status/2039342990024380915",
+      "author": {
+        "name": "Wildminder",
+        "username": "wildmindai",
+        "headline": "Physicist, Programmer, Designer",
+        "followers": 8749
+      },
+      "content": "ComfyUI-See-through. \nSingle-image layer decomposition for Live2D in ComfyUI!\n\n- splits characters into layers + Marigold depth maps; \n- exports PSDs; \n- smart splitting for eyes/hair;\n- auto-model downloading.\n\nhttps://t.co/KrF22xFSil https://t.co/DfxZSHnWz9",
+      "metrics": {
+        "likes": 96,
+        "retweets": 3,
+        "replies": 1,
+        "views": 0,
+        "bookmarks": 87
+      },
+      "published_at": "Wed Apr 01 14:03:52 +0000 2026",
+      "ai": {
+        "domain": "motion_design",
+        "title": "ComfyUI-See-through. Single-image layer decomposition for Live2D in ComfyUI! splits characters into layers + Marigold depth maps; exports PSDs; smart splitting for eyes/hair; auto-model downloading.",
+        "author_role": "Creative Technologist / Developer",
+        "keywords": [
+          "ComfyUI",
+          "See-through",
+          "Live2D",
+          "layer decomposition"
+        ],
+        "workflow_stage": "asset creation | animation / motion",
+        "tools_mentioned": [
+          "ComfyUI",
+          "See-through",
+          "Marigold"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Single-image layer decomposition tool for Live2D in ComfyUI that automatically splits characters, creates depth maps, and exports PSDs with smart splitting features.",
+        "why_important": "Automates complex character rigging process for 2D animation workflows.",
+        "learnings": "Complete pipeline for converting static images to layered Live2D-ready assets.",
+        "worth_bookmarking": true,
+        "credibility_score": 9,
+        "creative_workflow_value": 10
+      }
+    },
+    {
+      "source": "x_twitter",
+      "source_id": "2038651492719047111",
+      "url": "https://twitter.com/mickmumpitz/status/2038651492719047111",
+      "author": {
+        "name": "Mickmumpitz",
+        "username": "mickmumpitz",
+        "headline": "VFX artist & AI Educator. Exploring new tools from the worlds of AI, digital art, film, and games in a fun and project-oriented way. Tutorials on YouTube!",
+        "followers": 14482
+      },
+      "content": "I built a free workflow that gives VFX artists actual control over AI video.\n\nRuns locally in @ComfyUI. Full tutorial + Downloads👇 https://t.co/wfEbgJMjlV",
+      "metrics": {
+        "likes": 523,
+        "retweets": 46,
+        "replies": 15,
+        "views": 0,
+        "bookmarks": 592
+      },
+      "published_at": "Mon Mar 30 16:16:06 +0000 2026",
+      "ai": {
+        "domain": "film_video",
+        "title": "I built a free workflow that gives VFX artists actual control over AI video. Runs locally in @ComfyUI. Full tutorial + Downloads👇",
+        "author_role": "VFX Artist / AI Educator",
+        "keywords": [
+          "VFX",
+          "AI video",
+          "ComfyUI",
+          "local workflow"
+        ],
+        "workflow_stage": "rendering / export | iteration / refinement",
+        "tools_mentioned": [
+          "ComfyUI"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Free local workflow in ComfyUI designed specifically for VFX artists to maintain control over AI video generation, includes full tutorial and downloads.",
+        "why_important": "Addresses VFX artists' need for precision and control in AI video workflows.",
+        "learnings": "Professional VFX workflow for controlled AI video generation in ComfyUI.",
+        "worth_bookmarking": true,
+        "credibility_score": 9,
+        "creative_workflow_value": 10
+      }
+    },
+    {
+      "source": "x_twitter",
+      "source_id": "2038646975894302792",
+      "url": "https://twitter.com/kotohibi_3d/status/2038646975894302792",
+      "author": {
+        "name": "kotohibi",
+        "username": "kotohibi_3d",
+        "headline": "3D Viz Engineer | SuperSplat: https://t.co/w0HcpelFYv | ArrivalSpace: https://t.co/un0Bl1kYPl | Youtube: https://t.co/NHQugxaFSb | BOOTH: https://t.co/iNkFrX82F3 | Contact me by DM",
+        "followers": 1933
+      },
+      "content": "3DGS of Japanese cherry blossoms(see in 4K video)\n\"OSMO360(just 10min walk )-&gt;Metashape(Tie point clean)-&gt;my tools-&gt;(LFS)LichtFeld Studio(MRNF)\"\nI didn't even do any cleanup!!\nSee my instruction : https://t.co/HYzA35yPNu https://t.co/v3YgNEBhco",
+      "metrics": {
+        "likes": 167,
+        "retweets": 21,
+        "replies": 7,
+        "views": 0,
+        "bookmarks": 108
+      },
+      "published_at": "Mon Mar 30 15:58:09 +0000 2026",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "3DGS of Japanese cherry blossoms(see in 4K video) \"OSMO360(just 10min walk )->Metashape(Tie point clean)->my tools->(LFS)LichtFeld Studio(MRNF)\" I didn't even do any cleanup!!",
+        "author_role": "3D Visualization Engineer",
+        "keywords": [
+          "3DGS",
+          "OSMO360",
+          "Metashape",
+          "LichtFeld Studio"
+        ],
+        "workflow_stage": "asset creation | rendering / export",
+        "tools_mentioned": [
+          "OSMO360",
+          "Metashape",
+          "LichtFeld Studio"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Complete 3D Gaussian Splatting workflow for Japanese cherry blossoms: 10min OSMO360 capture -> Metashape processing -> custom tools -> LichtFeld Studio rendering, no cleanup required.",
+        "why_important": "Demonstrates streamlined photogrammetry to 3DGS pipeline with minimal manual intervention.",
+        "learnings": "End-to-end 3DGS creation workflow with specific tool chain and timing.",
+        "worth_bookmarking": true,
+        "credibility_score": 9,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "x_twitter",
+      "source_id": "2038993071442936211",
+      "url": "https://twitter.com/angelaqdai/status/2038993071442936211",
+      "author": {
+        "name": "Angela Dai",
+        "username": "angelaqdai",
+        "headline": "Associate Professor @ Technical University of Munich",
+        "followers": 9220
+      },
+      "content": "📢Seen2Scene\n\nReal-world 3D is incomplete, typically requiring training on synthetic scene data.\n\n@QTDSMQ introduces visibility-guided flow matching, enabling training on real partial scans for scan completion &amp; text-to-3D scene generation!\n\nCheck it out: https://t.co/jqZ164QX0W https://t.co/GV5Q4ZvBPj",
+      "metrics": {
+        "likes": 721,
+        "retweets": 101,
+        "replies": 5,
+        "views": 0,
+        "bookmarks": 601
+      },
+      "published_at": "Tue Mar 31 14:53:25 +0000 2026",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "📢Seen2Scene. Real-world 3D is incomplete, typically requiring training on synthetic scene data. introduces visibility-guided flow matching, enabling training on real partial scans for scan completion & text-to-3D scene generation!",
+        "author_role": "3D Research Scientist / Professor",
+        "keywords": [
+          "Seen2Scene",
+          "3D scan completion",
+          "text-to-3D",
+          "flow matching"
+        ],
+        "workflow_stage": "asset creation | rendering / export",
+        "tools_mentioned": [
+          "Seen2Scene"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Research breakthrough enabling training on real partial 3D scans instead of synthetic data, supporting both scan completion and text-to-3D scene generation using visibility-guided flow matching.",
+        "why_important": "Addresses fundamental limitation in 3D scene generation by working with real-world incomplete data.",
+        "learnings": "Advanced technique for 3D scene completion and generation from partial real-world scans.",
+        "worth_bookmarking": true,
+        "credibility_score": 10,
+        "creative_workflow_value": 9
+      }
+    }
+  ]
+}
