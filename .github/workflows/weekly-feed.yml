@@ -5,20 +5,14 @@ on:
     - cron: '0 8 * * 1'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   collect:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
-      - name: Debug files
-        run: |
-          echo "=== pwd ==="
-          pwd
-          echo "=== ls root ==="
-          ls -la
-          echo "=== find pipeline ==="
-          find . -name "pipeline.py"
 
       - uses: actions/setup-python@v5
         with:
@@ -34,12 +28,7 @@ jobs:
           echo "ANTHROPIC_API_KEY=${{ secrets.ANTHROPIC_API_KEY }}" >> config/.env
 
       - name: Run pipeline
-        run: |
-          echo "=== files ==="
-          ls config/
-          echo "=== pipeline BASE check ==="
-          python -c "from pathlib import Path; p=Path('scripts/pipeline.py').parent.parent / 'config' / 'keywords.json'; print(f'Checking: {p}'); print(f'Exists: {p.exists()}')"
-          python scripts/pipeline.py --live
+        run: python scripts/pipeline.py --live
 
       - name: Commit results
         run: |
