@@ -10,7 +10,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from dotenv import load_dotenv
 env_path = Path(__file__).parent.parent / "config" / ".env"
 if env_path.exists(): load_dotenv(env_path)
-BASE = Path(__file__).parent.parent
+BASE = Path(__file__).resolve().parent.parent
 
 def load_config():
     with open(BASE / "config" / "keywords.json") as f:
