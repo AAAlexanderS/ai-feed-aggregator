@@ -11,12 +11,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Debug - show files
+      - name: Debug files
         run: |
+          echo "=== pwd ==="
           pwd
+          echo "=== ls root ==="
           ls -la
-          ls -la scripts/ || echo "no scripts dir"
-          ls -la config/ || echo "no config dir"
+          echo "=== find pipeline ==="
+          find . -name "pipeline.py"
 
       - uses: actions/setup-python@v5
         with:
@@ -32,7 +34,7 @@ jobs:
           echo "ANTHROPIC_API_KEY=${{ secrets.ANTHROPIC_API_KEY }}" >> config/.env
 
       - name: Run pipeline
-        run: ls -la && ls scripts/ && python scripts/pipeline.py --live
+        run: python scripts/pipeline.py --live
 
       - name: Commit results
         run: |
