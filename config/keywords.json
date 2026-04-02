@@ -1,0 +1,61 @@
+{
+  "agent": {
+    "name": "AI x Creative Production Intelligence Agent",
+    "posts_per_day": 10,
+    "dedup_window_days": 30
+  },
+  "domains": [
+    {"id":"ui_ux_design","label":"UI/UX & Product Design","emoji":"🎨"},
+    {"id":"3d_rendering","label":"3D Rendering & Generation","emoji":"🧊"},
+    {"id":"film_video","label":"Film & AI Video Editing","emoji":"🎬"},
+    {"id":"motion_design","label":"Motion Design & Animation","emoji":"✨"}
+  ],
+  "workflow_stages": [
+    "concept / ideation","asset creation","layout / composition",
+    "animation / motion","rendering / export","iteration / refinement","handoff / production"
+  ],
+  "priority_content": [
+    "original experience sharing with process detail",
+    "practical workflow breakdown with steps",
+    "content with demo / repo / timeline / scene file / workflow node",
+    "explains HOW AI enters the creative process, not just shows results"
+  ],
+  "exclude_content": [
+    "generic AI news unrelated to creative production",
+    "pure showcase without process explanation",
+    "no-opinion reposts and content farms",
+    "pure marketing posts"
+  ],
+  "platforms": {
+    "x_twitter": {
+      "queries": [
+        "AI design workflow Figma Claude v0 design-to-code min_faves:100",
+        "ComfyUI 3DGS Blender AI 3D workflow min_faves:50",
+        "AI video Runway Kling Sora cinematic workflow min_faves:80",
+        "motion design AI After Effects Rive animation workflow min_faves:50"
+      ],
+      "filters": {"min_likes":50,"days_back":3},
+      "max_per_query": 15
+    },
+    "linkedin": {
+      "queries": [
+        "AI design workflow Figma prototype",
+        "AI 3D Blender ComfyUI workflow",
+        "AI video editing cinematic production",
+        "motion design AI animation workflow"
+      ],
+      "filters": {"min_likes":50,"days_back":3},
+      "max_per_query": 10
+    },
+    "github": {
+      "queries": [
+        "ComfyUI 3D workflow",
+        "AI design tool",
+        "AI video editing",
+        "text-to-3D gaussian splatting"
+      ],
+      "filters": {"min_stars":80,"created_within_days":7},
+      "max_per_query": 5
+    }
+  }
+}
