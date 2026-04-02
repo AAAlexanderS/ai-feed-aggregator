@@ -34,6 +34,7 @@ jobs:
         run: |
           git config user.name "AI Feed Bot"
           git config user.email "bot@ai-feed.local"
+          git pull --rebase origin main
           git add data/feeds/*.json
           git diff --staged --quiet || git commit -m "feed: $(date +%Y-%m-%d)"
           git push
