@@ -34,7 +34,12 @@ jobs:
           echo "ANTHROPIC_API_KEY=${{ secrets.ANTHROPIC_API_KEY }}" >> config/.env
 
       - name: Run pipeline
-        run: python scripts/pipeline.py --live
+        run: |
+          echo "=== files ==="
+          ls config/
+          echo "=== pipeline BASE check ==="
+          python -c "from pathlib import Path; p=Path('scripts/pipeline.py').parent.parent / 'config' / 'keywords.json'; print(f'Checking: {p}'); print(f'Exists: {p.exists()}')"
+          python scripts/pipeline.py --live
 
       - name: Commit results
         run: |
