@@ -1,285 +1,126 @@
 {
   "date": "2026-04-06",
-  "generated_at": "2026-04-06T09:05:32.029129+00:00",
+  "generated_at": "2026-04-06T17:33:19.949395+00:00",
   "posts": [
     {
-      "source": "linkedin",
-      "source_id": "7445948330502946816",
-      "url": "https://www.linkedin.com/posts/jpgsf_hiring-activity-7445948330502946816-GMnm",
+      "source": "github",
+      "source_id": "gh_1201037376",
+      "url": "https://github.com/twwch/comfyui-workflow-skill",
       "author": {
-        "name": "JP Garnier",
-        "username": "jpgsf",
-        "headline": "Head of Product Design @ Midi Health | Building AI-enabled, e2e care experiences | 0→1 Product & Design Leader"
+        "name": "twwch",
+        "username": "twwch",
+        "headline": ""
       },
-      "content": "I’m #hiring! \n\nOur Product Design team at Midi Health is building a code-first design practice, bringing design and engineering closer together, and rethinking how products get made.\n\nWe're looking for those who get goosebumps when hearing things like: \n\n+ Build and evolve design system in code\n+ Create code-first prototypes to accelerate product design & dev\n+ Set up and scale AI-native workflows (Figma ↔ code ↔ LLM(s))\n+ Help define how design and engineering collaborate moving forward\n\nOoh là là!\n\nAt Midi, we’re defining a new standard for women’s healthcare. Design plays a central role in shaping that experience end-to-end. \n\nIf that sounds like you (or someone you know), let’s talk.",
+      "content": "comfyui-workflow-skill: Natural language → ComfyUI workflow JSON. 34 built-in templates, 360+ node definitions, auto model download. Supports txt2img,       img2img, txt2vid, img2vid, audio, 3D generation across SD1.5/SDXL/SD3/FLUX/Wan2.2/HunyuanVideo/LTXV/Mochi/Cosmos + LLM integration.    Works as a skill for Claude Code, Cursor, and other AI coding agents.  ",
       "metrics": {
-        "likes": 0,
-        "comments": 0,
-        "reposts": 0
+        "stars": 82,
+        "forks": 15
       },
-      "published_at": "2026-04-03T21:40:21.022Z",
-      "ai": {
-        "domain": "film_video",
-        "title": "I built a full short film pipeline with Runway + DaVinci Resolve + Claude for scripting — here's every step",
-        "author_role": "Filmmaker / Creative Technologist",
-        "keywords": [
-          "Runway",
-          "DaVinci",
-          "short-film"
-        ],
-        "workflow_stage": "rendering / export",
-        "tools_mentioned": [
-          "Runway Gen-3",
-          "DaVinci Resolve",
-          "Claude"
-        ],
-        "has_demo_or_repo": true,
-        "summary": "Complete breakdown of a 3-minute AI short film production pipeline. Covers prompt iteration for shot consistency, temporal coherence tricks, and how Claude was used to generate shot lists and color grading notes.",
-        "why_important": "One of the first detailed process breakdowns showing AI video gen integrated into a real post-production pipeline with professional NLE.",
-        "learnings": "Shot consistency technique using seed locking + style reference frames; Claude-assisted color script generation.",
-        "worth_bookmarking": true,
-        "credibility_score": 9,
-        "creative_workflow_value": 10
-      }
-    },
-    {
-      "source": "linkedin",
-      "source_id": "7445700267188113408",
-      "url": "https://www.linkedin.com/posts/punitweb_uidesign-design-uxdesign-activity-7445700267188113408-rPb6",
-      "author": {
-        "name": "Punit Chawla",
-        "username": "punitweb",
-        "headline": "UX/UI Designer | Speaker at TedX, IIT, Google & More | 170K+ on Youtube | Design Content Creator & Author"
-      },
-      "content": "Figma just launched its most useful AI feature yet! 😍  You can now import your design system/library into Figma Make and teach the AI your design style and principles! 🎉\n\nLearn more about this update - https://lnkd.in/empwZRVB\n\n#uidesign #design #uxdesign #ux #ui #productdesign #appdesign #webdesign #learndesign #figma #figmatutorial #figmatips #designtips #figmamake #figmaai #ai #aidesign",
-      "metrics": {
-        "likes": 0,
-        "comments": 0,
-        "reposts": 0
-      },
-      "published_at": "2026-04-03T05:14:38.119Z",
+      "topics": [],
+      "published_at": "2026-04-04T05:56:54Z",
       "ai": {
         "domain": "3d_rendering",
-        "title": "ComfyUI + 3DGS: my workflow for turning phone scans into stylized game assets in under 10 minutes",
-        "author_role": "3D Artist / Technical Artist",
+        "title": "comfyui-workflow-skill: Natural language → ComfyUI workflow JSON. 34 built-in templates, 360+ node definitions",
+        "author_role": "Developer/Creative Technologist",
         "keywords": [
           "ComfyUI",
-          "3DGS",
-          "game-assets"
+          "workflow",
+          "natural language",
+          "templates",
+          "automation"
         ],
-        "workflow_stage": "asset creation",
+        "workflow_stage": "asset creation | automation",
         "tools_mentioned": [
           "ComfyUI",
-          "3D Gaussian Splatting",
-          "Blender"
+          "Claude",
+          "Cursor"
         ],
         "has_demo_or_repo": true,
-        "summary": "Detailed node-by-node ComfyUI workflow for processing phone LiDAR scans through 3DGS, then applying style transfer for game-ready assets. Includes downloadable workflow JSON.",
-        "why_important": "Bridges the gap between casual 3D capture and production-ready game assets using an entirely open-source pipeline.",
-        "learnings": "ComfyUI node chain for 3DGS post-processing; style transfer technique that preserves geometric detail.",
+        "summary": "A GitHub repo that converts natural language descriptions into ComfyUI workflow JSON files. Features 34 built-in templates, 360+ node definitions, and supports various AI models including SD1.5, SDXL, FLUX, and video generation models.",
+        "why_important": "This bridges the gap between creative intent and technical execution in ComfyUI workflows.",
+        "learnings": "How to automate ComfyUI workflow creation through natural language processing and integrate it with AI coding agents.",
         "worth_bookmarking": true,
-        "credibility_score": 9,
+        "credibility_score": 8,
         "creative_workflow_value": 9
       }
     },
     {
       "source": "linkedin",
-      "source_id": "7446584560953389056",
-      "url": "https://www.linkedin.com/posts/zbaumel_curious-how-other-designers-are-actually-activity-7446584560953389056-qFaZ",
+      "source_id": "7443373640630390784",
+      "url": "https://www.linkedin.com/posts/kendrick-chan-uxui_just-designed-an-interactive-cti-radar-chart-activity-7443373640630390784-iikR",
       "author": {
-        "name": "Zack Baumel",
-        "username": "zbaumel",
-        "headline": "Product Design Leader"
+        "name": "Kendrick Chan",
+        "username": "kendrick-chan-uxui",
+        "headline": "UX/UI Designer | Figma | Prototyping | Data-Informed B2B & B2C SaaS Product Design | AI Tools (Figma Make, Builder, & Framer) | Agentic AI | Vibe Coding"
       },
-      "content": "Curious how other designers are actually using AI in their workflow right now… \n\nMy team’s been leaning into it, and honestly it has completely changed how I work. I’m spending way less time in Figma than I used to. More time prompting in Claude Code and Cursor, building prototypes that behave like real products.\n\nA typical flow for me now looks like this…Start with a rough draft or mockup in Figma. Bring it into Claude to spin up working prototypes with toggles for variations. Iterate in code. Then back to Figma to clean things up, lay out flows, and make it presentable.\n\nWe’re not trying to turn designers into engineers. But we are starting to hand off code artifacts alongside Figma. Where it starts to get messy is around design systems.\n\nThings look right… but aren’t actually connected to anything. In Claude, it’s not using our actual components or props. Coming back into Figma, components are lookalikes instead of true DS components. We can use tokens or a design.md file, though it’s still just referencing the system, not plugged into it. \n\nIt’s faster for sure, but at either end, someone has to reconcile it…designers swapping things back to real components or engineers interpreting what it should map to.\n\nWhat’s the right mental model is here?\n\nIs the goal to force tighter connections between AI ↔ design system ↔ code? Or do we accept that this middle layer is a bit “detached” and design around that?\n\nWould love to hear how others are handling this…especially if you’ve found a way to keep things truly connected end-to-end.",
+      "content": "Just designed an interactive CTI radar chart and heat map for security teams to track and risk exposure in real time. \n\nHere's how I built it using vibe coding workflows:\n\n- Figma Make: Turned static screens into interactive design-to-code prototypes.\n\n- Cursor: Generated Markdown files via AI prompts for rapid iteration.\n\n- Markdown: Enforced design system guidelines for Figma Make’s AI output.",
       "metrics": {
         "likes": 0,
         "comments": 0,
         "reposts": 0
       },
-      "published_at": "2026-04-05T15:48:30.182Z",
+      "published_at": "2026-03-27T19:09:27.121Z",
       "ai": {
         "domain": "ui_ux_design",
-        "title": "How I use Figma AI + Claude to go from user research notes to interactive prototype in one afternoon",
-        "author_role": "Senior Product Designer",
+        "title": "Interactive CTI radar chart and heat map for security teams using vibe coding workflows",
+        "author_role": "UX/UI Designer",
         "keywords": [
-          "Figma-AI",
-          "Claude",
-          "prototyping"
+          "vibe coding",
+          "Figma Make",
+          "Cursor",
+          "design-to-code",
+          "interactive prototypes"
         ],
-        "workflow_stage": "layout / composition",
+        "workflow_stage": "layout / composition | handoff / production",
         "tools_mentioned": [
-          "Figma AI",
-          "Claude",
-          "v0"
-        ],
-        "has_demo_or_repo": false,
-        "summary": "Step-by-step process: research synthesis with Claude → information architecture → Figma AI layout generation → v0 for interactive prototype. Shows real before/after of each stage.",
-        "why_important": "Demonstrates a complete AI-augmented design workflow that maintains design judgment while dramatically reducing mechanical work.",
-        "learnings": "Prompt structure for Claude research synthesis; Figma AI layout generation best practices; when to switch from AI to manual design.",
-        "worth_bookmarking": true,
-        "credibility_score": 8,
-        "creative_workflow_value": 9
-      }
-    },
-    {
-      "source": "linkedin",
-      "source_id": "7446798856840822784",
-      "url": "https://www.linkedin.com/posts/mike-newsletters-3b64523b3_the-design-to-engineering-handoff-is-dying-activity-7446798856840822784-VlBk",
-      "author": {
-        "name": "Mike Newsletters",
-        "username": "mike-newsletters-3b64523b3",
-        "headline": "Chief Executive Officer at Intuo"
-      },
-      "content": "The design-to-engineering handoff is dying. AI-native startups no longer wait for high-fidelity Figma files to start building. Engineers now use LLMs to generate functional UI components directly from sketches or prompts. This shift turns designers into curators and removes the translation bottleneck. If your team still requires a three-week design sprint before coding, you are already behind. The future belongs to the AI-augmented builder who handles everything from logic to layout.",
-      "metrics": {
-        "likes": 0,
-        "comments": 0,
-        "reposts": 0
-      },
-      "published_at": "2026-04-06T06:00:02.303Z",
-      "ai": {
-        "domain": "motion_design",
-        "title": "After Effects + Runway + Rive: building a hybrid motion system for product launches",
-        "author_role": "Motion Designer / Art Director",
-        "keywords": [
-          "After-Effects",
-          "Runway",
-          "Rive"
-        ],
-        "workflow_stage": "animation / motion",
-        "tools_mentioned": [
-          "After Effects",
-          "Runway",
-          "Rive",
-          "Lottie"
+          "Figma Make",
+          "Cursor",
+          "Markdown"
         ],
         "has_demo_or_repo": true,
-        "summary": "Shows how to combine traditional After Effects animation with AI-generated backgrounds from Runway, then export interactive components via Rive. Includes project file breakdown.",
-        "why_important": "Practical hybrid workflow that doesn't replace traditional motion design but augments it — the approach most studios will actually adopt.",
-        "learnings": "Compositing AI-generated elements with hand-animated motion; Rive export optimization for web; timeline synchronization technique.",
+        "summary": "Designer built an interactive CTI radar chart using vibe coding workflows. Process involved Figma Make for design-to-code prototypes, Cursor for AI-generated Markdown files, and Markdown for design system enforcement.",
+        "why_important": "Shows practical implementation of AI-assisted design-to-code workflows with design system consistency.",
+        "learnings": "How to use vibe coding workflows to create interactive prototypes while maintaining design system guidelines.",
         "worth_bookmarking": true,
-        "credibility_score": 8,
-        "creative_workflow_value": 9
-      }
-    },
-    {
-      "source": "linkedin",
-      "source_id": "7437203301223292928",
-      "url": "https://www.linkedin.com/posts/roza-turowska_ai-claudecode-prototype-activity-7437203301223292928-2qVJ",
-      "author": {
-        "name": "Róża Turowska",
-        "username": "roza-turowska",
-        "headline": "Senior Product Designer at Clever -​> AI | Authentication | Access & Identity | Threat detection | Cybersecurity | 0-1 products"
-      },
-      "content": "As a product designer, I've been rethinking how I prototype.\nFor years, the workflow was simple: static Figma screens → linked Figma prototype → handoff. And it works. But I started noticing something.\n\nWhen I build a Figma prototype myself, I already know every path. I connected every screen. I made every decision. So when I click through it, I'm not really exploring - I'm just confirming what I already built. My eyes aren't fresh. I know what's coming.\n\nRecently I built an IA redesign proposal using Claude. And something different happened.\n\nBecause I didn't manually wire every single screen, the prototype had gaps I hadn't explicitly designed. Claude filled them in. And suddenly I was clicking through something that could surprise me.\n\nI found myself actually exploring the UI - going off the happy path, trying edge cases, behaving more like a real user. I caught things I would have completely missed in Figma, simply because my brain wasn't on autopilot.\n\nHere's how I think about the three levels now:\n\n↳ Static design: great for visuals, but you're just looking at pictures\n↳ Figma prototype: you can click through, but you built every link, so you already know every answer\n↳ Claude prototype: has real logic, AI fills gaps intelligently, and your eyes stay fresh because you're not fully in control\n\nFamiliarity kills exploration. And sometimes the best thing you can do is build something that can surprise you.\n\nCurious if other designers are experimenting with this - what's your experience?\n\n#ai #claudecode #prototype #neweraindesign #figma",
-      "metrics": {
-        "likes": 0,
-        "comments": 0,
-        "reposts": 0
-      },
-      "published_at": "2026-03-10T18:30:43.567Z",
-      "ai": {
-        "domain": "3d_rendering",
-        "title": "text-to-3D is finally usable: my honest assessment after testing every major tool on real client projects",
-        "author_role": "Freelance 3D Artist",
-        "keywords": [
-          "text-to-3D",
-          "Meshy",
-          "Tripo"
-        ],
-        "workflow_stage": "asset creation",
-        "tools_mentioned": [
-          "Meshy",
-          "Tripo",
-          "Blender",
-          "Substance Painter"
-        ],
-        "has_demo_or_repo": false,
-        "summary": "Comparative review of text-to-3D tools tested on actual client briefs. Covers mesh quality, texture fidelity, and what still requires manual cleanup. Brutally honest about limitations.",
-        "why_important": "Goes beyond hype to show exactly where text-to-3D fits in a professional 3D pipeline and where it still falls short.",
-        "learnings": "Which text-to-3D tool works best for which asset type; manual cleanup workflow for AI-generated meshes; client communication strategy for AI-assisted work.",
-        "worth_bookmarking": true,
-        "credibility_score": 9,
+        "credibility_score": 7,
         "creative_workflow_value": 8
       }
     },
     {
       "source": "linkedin",
-      "source_id": "7438950555860996096",
-      "url": "https://www.linkedin.com/posts/yosefrefaeli_ive-been-experimenting-with-a-local-pipeline-activity-7438950555860996096-Vue6",
+      "source_id": "7442993930079510528",
+      "url": "https://www.linkedin.com/posts/xiaochuan-giovanni-ge_i-had-a-conversation-with-our-head-of-ux-activity-7442993930079510528-crbG",
       "author": {
-        "name": "Yossi Refaeli",
-        "username": "yosefrefaeli",
-        "headline": "Engineering Mindset & Visual ai Design @ Reality Labs"
+        "name": "Xiaochuan (Giovanni) Ge",
+        "username": "xiaochuan-giovanni-ge",
+        "headline": "Member of technical staff"
       },
-      "content": "I’ve been experimenting with a local pipeline that feels a bit like cheating.\n\nInspired by the workflow shared by Mickmumpitz, combine raw Blender renders and cinematography using ComfyUI and the SkyReels V3 + Wan VACE model merge.\n\nThe traditional 3D pipeline is great, but sometimes you just want to play Digital Puppet Theater and let the AI be your VFX department.\n\nThe Workflow \nThe Skeleton (Blender) I block out the scene, camera moves, and basic geometry. No textures, no fancy lighting just the raw clay. \n\nI run a Look Dev pass on a single frame to dial in the vibe before committing to a full render.\n\nThe AI takes my 3D blueprint and fills in the rest generating realistic simulation and textures that stay pinned to my geometry.\n\nWhy this is a game changer\nZero UV Unwrapping, Dynamic FX for Free, Instant Style Swaps",
+      "content": "I had a conversation with our head of UX, Giovanni Piemontese which made me rethink the whole vibe design workflow.\n\nThe conventional flow goes like this: designer uses an AI agent in Figma to generate a mock, then engineers use that mock as the source of truth and translate it into code.\n\nIt works. But there's a handoff problem buried in it.\n\nThe Figma file is an intermediary artifact that has to be interpreted twice — once by the designer reviewing the AI output, and again by the engineer translating it into code. Each interpretation introduces drift. What the designer intended, what Figma captured, and what the engineer built can all diverge, even with AI assisting at every step.\n\nWhat if we go the other way around and have designers started from an empty repo instead?\n\nDesigner starts from a blank repo, uses AI to vibe code the mock directly. They render it in the browser, give feedback to the AI, iterate. No Figma involved. Their deliverable to the engineer is the actual code — a simplified HTML and JS file that represents exactly what they designed, rendered exactly as they intended. In practice they can also provide past design as context to improve design consistency. \n\nThe engineer then asks AI to take that mock and translate it into the existing system — matching the component library, the design tokens, the architecture. No MCP server is needed. The mock isn't a picture of what to build. It's a working prototype of it.\n\n— Thanks to Giovanni Piemontese for the conversation that sparked this.",
       "metrics": {
         "likes": 0,
         "comments": 0,
         "reposts": 0
       },
-      "published_at": "2026-03-15T14:13:41.535Z",
-      "ai": {
-        "domain": "film_video",
-        "title": "Shot consistency in AI video: the techniques that actually work after 200+ generation tests",
-        "author_role": "VFX Supervisor / AI Researcher",
-        "keywords": [
-          "shot-consistency",
-          "Kling",
-          "Sora"
-        ],
-        "workflow_stage": "iteration / refinement",
-        "tools_mentioned": [
-          "Kling",
-          "Sora",
-          "Runway",
-          "ComfyUI"
-        ],
-        "has_demo_or_repo": true,
-        "summary": "Systematic comparison of consistency techniques across AI video platforms. Tests character locking, style reference, seed manipulation, and LoRA training. Quantifies success rates.",
-        "why_important": "Shot consistency is the #1 blocker for professional AI video adoption. This is the most rigorous comparison available.",
-        "learnings": "Seed + reference frame technique for Kling; LoRA training pipeline for character consistency; when to give up on gen AI and use traditional VFX.",
-        "worth_bookmarking": true,
-        "credibility_score": 9,
-        "creative_workflow_value": 9
-      }
-    },
-    {
-      "source": "linkedin",
-      "source_id": "7445936027371761664",
-      "url": "https://www.linkedin.com/posts/activity-7445936027371761664-CxmT",
-      "author": {
-        "name": "Torben Nils V.",
-        "username": "thoughtpollinatorben007",
-        "headline": "Thoughtpollinator"
-      },
-      "content": "Refinement is Ai's Assignment\n\nHuman Role: You = artist\n\nContext: \n\nA clear 2D vision of copying a famous face with your faith, starting with sketching black lines on a white canva confine\n\nAi Role: charcoal\n\nContext:\n\nA crystallizing 3D refiner mission with friction pressure creating grey realistic space lines \n\nTools:\n\nAi tools = pencil, eraser \n\nTask:\n\nCopy and draw a hyper-realistic Brad Pitt face.\n\n\nWhat is important before you start giving Ai a task?\n\nHuman thought clarity breeding ai confined charity.\n\nHuman ai interplay of tension between directing attention and harvesting retention.\n\nAllowing and giving ai a clearly pre-defined space to race, erasing and refining the human black 2D lines into 3D aligned ai lines of grey.\n\nHuman resonance + Ai reasoning\n\n=\n\nHuman Ai transcendence\n\nThe clearer your inner theta and meta thought alignment, the sharper the ai beta assignment for your final consignment.\n\nThe more aligned you are internally, the more refined ai is externally. \n\nWhat \"deep why vision\" crystallizes in your ai beta mission?",
-      "metrics": {
-        "likes": 0,
-        "comments": 0,
-        "reposts": 0
-      },
-      "published_at": "2026-04-03T20:51:27.727Z",
+      "published_at": "2026-03-26T18:00:37.071Z",
       "ai": {
         "domain": "ui_ux_design",
-        "title": "design-tokens-ai: open-source tool that extracts design tokens from any Figma file and generates theme code",
-        "author_role": "Design Engineer",
+        "title": "Rethinking vibe design workflow: conversation with head of UX about handoff problems",
+        "author_role": "Technical Staff",
         "keywords": [
-          "design-tokens",
-          "open-source",
-          "Figma"
+          "vibe design",
+          "handoff",
+          "Figma",
+          "AI agent",
+          "workflow"
         ],
         "workflow_stage": "handoff / production",
         "tools_mentioned": [
-          "Figma API",
-          "Tailwind",
-          "CSS Variables"
+          "Figma"
         ],
-        "has_demo_or_repo": true,
-        "summary": "Open-source CLI tool that reads a Figma file, extracts all design tokens (colors, spacing, typography), and generates Tailwind config, CSS variables, or Swift/Kotlin theme files.",
-        "why_important": "Solves the design-to-dev token handoff problem that every team faces. Production-ready with 1.8K GitHub stars.",
-        "learnings": "Figma API token extraction patterns; multi-platform code generation architecture; how to maintain token parity across platforms.",
+        "has_demo_or_repo": false,
+        "summary": "Discussion about problems in conventional AI design workflow where Figma serves as intermediary artifact requiring dual interpretation. Identifies drift issues between designer review and engineer implementation.",
+        "why_important": "Highlights critical workflow inefficiencies in AI-assisted design handoffs.",
+        "learnings": "Understanding the interpretation drift problem in AI-generated design handoffs and potential solutions.",
         "worth_bookmarking": true,
         "credibility_score": 8,
         "creative_workflow_value": 8
@@ -287,122 +128,285 @@
     },
     {
       "source": "linkedin",
-      "source_id": "7445826560143749120",
-      "url": "https://www.linkedin.com/posts/keith-lietzau-5b116981_aiengineering-softwaredevelopment-teambuilding-activity-7445826560143749120-_yyX",
+      "source_id": "7446882098797367297",
+      "url": "https://www.linkedin.com/posts/ivan-zubko-bb5512253_unrealengine-generativeai-vfx-activity-7446882098797367297-YVHN",
       "author": {
-        "name": "Keith Lietzau",
-        "username": "keith-lietzau-5b116981",
-        "headline": "Building AI-First Operations at Vantaca | Information Services Manager | UC Berkeley ML/AI | USMC Veteran"
+        "name": "Ivan Zubko",
+        "username": "ivan-zubko-bb5512253",
+        "headline": "CG Technical Director | Unreal Engine | Motion Designer| Cinematic Artist | 3D Generalist"
       },
-      "content": "My team at Vantaca has been officially stood up for less than three weeks.\n\nMyself, 1 full-time engineer, 2 product-focused team members, and an intern.\n\nLast 30 days:\n• 205 pull requests opened\n• 1,525 commits\n• 2 transformational products — 1 going to production, 1 in beta with a full roadmap behind it\n\nIndustry average is roughly 40-60 commits per developer per month. We're running at 10x+ that rate per engineer.\n\nWhat makes this possible isn't just the engineering. Non-technical team members are writing specs, reviewing pull requests, and actively shaping what gets built. When everyone on the team contributes to the development lifecycle — not just the developers — this is what the output looks like.\n\nThis is what happens when you pair sharp people with AI-augmented development workflows and get out of their way.\n\nProud of this crew. We're just getting started.\n\n#AIEngineering #SoftwareDevelopment #TeamBuilding #AISDLC #ContextEngineering  #AITransformation",
+      "content": "Unreal Engine vs. AI:\n\nI tested two completely different workflows to create this locomotive transition effect:\n\n🔹 Top (Traditional): Unreal Engine (Materials + Niagara particle systems). ⏱️ Time: Half a day. Result: Offers absolute control, but iterative adjustments are highly time-consuming.\n\n🔹 Bottom (Generative AI): ⏱️ Time: 30 minutes. Result: A massive productivity boost. At 1/8th the time, it delivered a clean, detailed result.\n\nMy Takeaway: Honestly, I'm left in total confusion about what the \"better\" approach actually is now. AI just feels so much easier and faster, making me question when to even justify the traditional grind for tasks like this.\n\nWhat do you guys think? Is the traditional way still worth the time, or is AI just the obvious choice now? Let's discuss in the comments! 👇\n#UnrealEngine #GenerativeAI #VFX #TechnicalArt #MotionDesign #WorkflowEfficiency",
       "metrics": {
         "likes": 0,
         "comments": 0,
         "reposts": 0
       },
-      "published_at": "2026-04-03T13:36:28.706Z",
+      "published_at": "2026-04-06T11:30:48.732Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "Unreal Engine vs. AI: locomotive transition effect comparison - Traditional vs Generative AI workflows",
+        "author_role": "CG Technical Director",
+        "keywords": [
+          "Unreal Engine",
+          "AI",
+          "locomotive",
+          "transition",
+          "workflow comparison"
+        ],
+        "workflow_stage": "rendering / export",
+        "tools_mentioned": [
+          "Unreal Engine",
+          "Niagara",
+          "AI"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Technical director compared traditional Unreal Engine workflow (half day) vs AI workflow (30 minutes) for locomotive transition effect. Traditional offers control but slow iteration, AI delivers 8x speed improvement.",
+        "why_important": "Direct comparison shows dramatic productivity gains while questioning trade-offs between control and speed.",
+        "learnings": "Practical time comparison between traditional 3D workflows and AI alternatives for specific effects.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "linkedin",
+      "source_id": "7445429134509527040",
+      "url": "https://www.linkedin.com/posts/juliamadsen3d_aimovie-aifilm-aireklamefilm-activity-7445429134509527040-xEfw",
+      "author": {
+        "name": "Julia Madsen",
+        "username": "juliamadsen3d",
+        "headline": "High-Fidelity AI Video Production | AI Corporate Training & Courses"
+      },
+      "content": "Let me be honest about what AI film is not.\n\nIt's not a magic button.\nYou don't type a prompt and get a finished commercial.\n\nIt still requires creative direction.\nStory. Visual language. Brand understanding.\nSound design. Editing. A real eye for what works.\n\nThe AI handles the technical execution.\nThe human handles the thinking.\n\nThis is why not every AI video looks cinematic.\nMost look generated — flat, generic, forgettable.\n\nThe difference is whether someone with a background in visual production is directing the process.\n\nI spent years working in 3D visualisation and design before I ever touched an AI tool.\nThat knowledge is what makes the output look like film — not like a tech demo.\n\nIf you're evaluating AI video for your business:\nask to see the work, not just the technology. \n#aimovie #aifilm #AIreklamefilm #aivideo",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-04-02T11:17:15.051Z",
+      "ai": {
+        "domain": "film_video",
+        "title": "Let me be honest about what AI film is not - Creative direction still required for cinematic results",
+        "author_role": "Film Producer",
+        "keywords": [
+          "AI film",
+          "creative direction",
+          "cinematic",
+          "visual production"
+        ],
+        "workflow_stage": "concept / ideation | rendering / export",
+        "tools_mentioned": [],
+        "has_demo_or_repo": false,
+        "summary": "Experienced film professional explains that AI isn't a magic button - requires creative direction, story, visual language, and brand understanding. AI handles technical execution while humans handle creative thinking.",
+        "why_important": "Clarifies the role division between AI and human creativity in professional film production.",
+        "learnings": "Understanding what makes AI video look cinematic vs generic - importance of visual production background.",
+        "worth_bookmarking": true,
+        "credibility_score": 9,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "linkedin",
+      "source_id": "7438151729789186048",
+      "url": "https://www.linkedin.com/posts/asep-yuhana-73a50742_ai-aivideo-cinematicai-activity-7438151729789186048-9S60",
+      "author": {
+        "name": "Asep Yuhana",
+        "username": "asep-yuhana-73a50742",
+        "headline": "3D Artist | Architectural Visualization | 3d visualizer | Virtual Reality / Augmented Reality Specialist | 20+ Years in Immersive & Engineering Visualization | Generative images and video Ai"
+      },
+      "content": "🎬 AI Cinematic Action Short Film – Created with AI Tools\n\nWhat happens when cinematic storytelling meets AI creativity?\n\nI experimented with creating a short action film sequence set in a rain-soaked cargo port at night — combining visual storytelling, atmosphere, and high-intensity action.\n\n⚡ Thunder in the background\n🌧️ Heavy rain environment\n🎥 Dynamic camera angles and cinematic lighting\n💥 Gunfight and close combat sequences\n\nThis project was created using an AI-assisted production workflow:\n\n🖼️ Image generation: Nanobanana\n🎞️ Video generation: Veo Flow grok\n✂️ Editing & compositing: CapCut and After Effects\n🎧 Sound & music: Suno\n\nMy focus in this project was exploring how AI tools can support cinematic storytelling, from character consistency to shot composition, pacing, and action choreography.\n\nAI is not replacing creativity — it’s expanding what creators can produce.\n\nI’m excited to keep exploring how AI + filmmaking techniques can create compelling visual stories.\n\nWould love to hear your thoughts! 🚀\n\n#AI #AIVideo #CinematicAI #Filmmaking #VideoEditing #CreativeAI #GenerativeAI",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-03-13T09:19:26.558Z",
+      "ai": {
+        "domain": "film_video",
+        "title": "AI Cinematic Action Short Film – Created with AI Tools using specific production workflow",
+        "author_role": "3D Artist",
+        "keywords": [
+          "cinematic",
+          "action film",
+          "AI workflow",
+          "Nanobanana",
+          "Veo Flow"
+        ],
+        "workflow_stage": "asset creation | rendering / export",
+        "tools_mentioned": [
+          "Nanobanana",
+          "Veo Flow",
+          "CapCut"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "3D artist created cinematic action short film with rain-soaked cargo port setting. Detailed workflow: Nanobanana for image generation, Veo Flow grok for video generation, CapCut for editing and compositing.",
+        "why_important": "Provides specific tool chain for creating cinematic AI films with atmospheric storytelling.",
+        "learnings": "Complete AI film production pipeline from image generation through final compositing.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "linkedin",
+      "source_id": "7445503892299251712",
+      "url": "https://www.linkedin.com/posts/alexandra-rojo_firefly-mobileapp-aidesign-activity-7445503892299251712-rSaH",
+      "author": {
+        "name": "Alex Rojo",
+        "username": "alexandra-rojo",
+        "headline": "Sr. Product Designer at Adobe"
+      },
+      "content": "AI didn’t make this… but it did make it move.  \n\nI’ve been making analog collages for years, the texture, the fibers, the rips, the imperfections... that’s what gives them life. ✂️ \n\nLately, I’ve been thinking a lot about how AI is changing creativity. With Firefly, I can take a scanned collage and bring it to life in motion, something I could imagined while creating, but would have taken hours to animate manually. AI doesn’t create the art for me, it helps me explore it in new dimensions, faster. \n\nIn a time when the creative process is evolving, AI is amplifying our ideas and giving us the freedom to experiment in ways that weren’t possible before. \n\nThe art was already there. AI just set it in motion.\n\nAdobe #Firefly #MobileApp #AiDesign #DesignCommunity #DesignProcess",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-04-02T16:14:18.697Z",
       "ai": {
         "domain": "motion_design",
-        "title": "I replaced 60% of my After Effects work with Rive + AI — here's what I gained and what I lost",
-        "author_role": "Senior Motion Designer",
+        "title": "AI didn't make this… but it did make it move - Analog collages brought to life with Firefly",
+        "author_role": "Senior Product Designer",
         "keywords": [
-          "Rive",
-          "After-Effects",
-          "workflow-shift"
+          "analog collage",
+          "Firefly",
+          "motion",
+          "texture",
+          "animation"
         ],
         "workflow_stage": "animation / motion",
         "tools_mentioned": [
-          "Rive",
-          "After Effects",
-          "Midjourney"
-        ],
-        "has_demo_or_repo": false,
-        "summary": "Honest account of transitioning from After Effects to Rive for UI animation work, using Midjourney for asset generation. Covers what types of motion work well in each tool.",
-        "why_important": "Rare honest assessment of tool migration costs and benefits from someone with 8+ years of AE experience.",
-        "learnings": "Decision framework for AE vs Rive per project type; Midjourney prompt techniques for motion-ready assets; interactive animation patterns that don't work in traditional video export.",
-        "worth_bookmarking": true,
-        "credibility_score": 8,
-        "creative_workflow_value": 8
-      }
-    },
-    {
-      "source": "linkedin",
-      "source_id": "7446319418739073024",
-      "url": "https://www.linkedin.com/posts/andrewwoan_threejs-threejsjourney-tsl-activity-7446319418739073024-xU-n",
-      "author": {
-        "name": "Andrew Woan",
-        "username": "andrewwoan",
-        "headline": "3D Web Tutor & Lover of cute things"
-      },
-      "content": "Hey everyone! New beginner three.js and Blender tutorial out! Create a cozy cafe portfolio, a little bit of TSL too.\n\nTutorial: https://lnkd.in/ewq7NZ-R \nSite: https://lnkd.in/exdwBuHr \nCode, Credits, Blender file, etc: https://lnkd.in/eW9sTVz2\n\n#threejs #threejsJourney #tsl #b3d",
-      "metrics": {
-        "likes": 0,
-        "comments": 0,
-        "reposts": 0
-      },
-      "published_at": "2026-04-04T22:14:55.352Z",
-      "ai": {
-        "domain": "3d_rendering",
-        "title": "gaussian-splatting-editor: open-source web viewer and editor for 3DGS scenes with AI-powered inpainting",
-        "author_role": "Graphics Engineer",
-        "keywords": [
-          "3DGS",
-          "editor",
-          "open-source"
-        ],
-        "workflow_stage": "iteration / refinement",
-        "tools_mentioned": [
-          "Three.js",
-          "3DGS",
-          "WebGPU"
+          "Firefly"
         ],
         "has_demo_or_repo": true,
-        "summary": "Web-based 3DGS scene editor that runs in-browser with WebGPU. Supports direct manipulation, AI inpainting for scene editing, and export to standard 3D formats.",
-        "why_important": "Makes 3D Gaussian Splatting editable for the first time in a browser — huge for accessibility of this technology to non-engineers.",
-        "learnings": "WebGPU rendering pipeline for 3DGS; AI inpainting integration for scene modification; browser-based 3D editing architecture.",
+        "summary": "Adobe Sr. Product Designer combines traditional analog collage creation with AI motion. Uses Firefly to animate scanned collages, preserving texture and imperfections while adding motion dimension.",
+        "why_important": "Shows how AI can enhance rather than replace traditional creative processes in motion design.",
+        "learnings": "Hybrid workflow combining analog art creation with AI-powered motion enhancement.",
         "worth_bookmarking": true,
-        "credibility_score": 8,
+        "credibility_score": 9,
         "creative_workflow_value": 8
       }
     },
     {
       "source": "linkedin",
-      "source_id": "7446144141090111488",
-      "url": "https://www.linkedin.com/posts/marcello-di-profio-morettoni-204a7313_blender3d-gemma4-activity-7446144141090111488-sIQc",
+      "source_id": "7444414601288413184",
+      "url": "https://www.linkedin.com/posts/iamdeepa_imexcited-to-share-that-turntable-one-activity-7444414601288413184-VBSq",
       "author": {
-        "name": "Marcello Di Profio Morettoni",
-        "username": "marcello-di-profio-morettoni-204a7313",
-        "headline": "Platform Engineer | Sovereign AI & Large-Scale NVIDIA HPC Infrastructure | Kubernetes"
+        "name": "Deepa Subramaniam",
+        "username": "iamdeepa",
+        "headline": "VP @ Adobe / 40 under 40 Forbes"
       },
-      "content": "​I gave an AI agent a body and spatial awareness by bridging a LLMs with Blender’s API. ​The goal is to create a sandbox \"universe\" where the agent can perceive and interact with 3D objects in real-time. ​This is only day two, but she’s already recognizing her environment and reacting with emotive expressions. yes, it's a TRON vibe. #Blender3D #Gemma4",
+      "content": "I’m excited to share that Turntable (one of my favorite new workflows) is now generally available in Adobe Illustrator! \n \nFirst previewed as a MAX Sneak, Turntable has been refined with input from the creative community to deliver  powerful new way for designers and animators to bring their artwork to life. \n \nWith Turntable, you can instantly generate multi-angle views from any vector illustration, bringing motion to characters and designs, and eliminate the need for repetitive manual redraws. What once took hours now happens in seconds, making it easier and more fun for designers and animators to turn static artwork into dynamic, expressive visuals. \n \nCustomers are already telling us how transformative this has been for their creative workflows.  Animation teams can quickly create character turnarounds for pitch decks, game designers can generate 360-degree assets for concept art and social media teams can create GIFs and micro-animations in seconds, all within Illustrator. And with seamless handoff to tools like After Effects, teams can move from design to motion without breaking their flow. \n \nTurntable is part of a broader set of Illustrator innovations, from faster performance to expanded AI-powered workflows like Generative Shape Fill and more seamless motion pipelines with After Effects. These innovations are all designed to help you move faster, explore more ideas, and stay in your creative flow. \n \nMore details below. Can’t wait to see what you all create! \n\nhttps://lnkd.in/gKWSvFGz",
       "metrics": {
         "likes": 0,
         "comments": 0,
         "reposts": 0
       },
-      "published_at": "2026-04-04T10:38:25.904Z",
+      "published_at": "2026-03-30T16:05:51.482Z",
       "ai": {
-        "domain": "ui_ux_design",
-        "title": "The real cost of AI-generated UI: what breaks when you skip the design thinking",
-        "author_role": "Design Director",
+        "domain": "motion_design",
+        "title": "Turntable is now generally available in Adobe Illustrator - multi-angle views from vector illustrations",
+        "author_role": "VP at Adobe",
         "keywords": [
-          "AI-UI",
-          "design-thinking",
-          "critique"
+          "Turntable",
+          "Adobe Illustrator",
+          "vector",
+          "multi-angle",
+          "animation"
         ],
-        "workflow_stage": "concept / ideation",
+        "workflow_stage": "animation / motion",
         "tools_mentioned": [
-          "v0",
-          "Figma AI",
-          "Cursor"
+          "Adobe Illustrator",
+          "Turntable"
         ],
         "has_demo_or_repo": false,
-        "summary": "Critical analysis of AI-generated interfaces from a design leadership perspective. Shows specific examples where AI output looked polished but failed usability testing, and proposes a hybrid QA framework.",
-        "why_important": "Counter-narrative to 'AI replaces designers' — provides the quality framework for when and how to use AI generation responsibly.",
-        "learnings": "Usability testing framework for AI-generated UI; specific failure patterns to watch for; hybrid human-AI design review process.",
+        "summary": "Adobe VP announces Turntable feature in Illustrator that generates multi-angle views from vector illustrations. Eliminates manual redrawing for character animation and brings motion to designs in seconds.",
+        "why_important": "Significant workflow improvement for designers and animators working with vector-based motion.",
+        "learnings": "How Turntable automates multi-angle view generation for vector animation workflows.",
         "worth_bookmarking": true,
-        "credibility_score": 9,
+        "credibility_score": 10,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "linkedin",
+      "source_id": "7438923962505482240",
+      "url": "https://www.linkedin.com/posts/keerthi-vardhan-53a53436b_gsap-webanimation-frontenddevelopment-activity-7438923962505482240-L6OU",
+      "author": {
+        "name": "Keerthi Vardhan",
+        "username": "keerthi-vardhan-53a53436b",
+        "headline": "Web Developer | Helping Brands Build Fast, Modern Websites | Exploring AI & App Development"
+      },
+      "content": "AI can generate layouts, components, and even full websites now. But when it comes to building high-quality animated web experiences, it still falls short.\n\nI’m currently working on a project where I’m experimenting with GSAP, and it made something clear — the gap between generating code and crafting motion on the web is still huge.\n\nAI can scaffold things quickly, but complex animation workflows, timing control, and scroll-driven interactions still require real problem solving.\n\nThe narrative that AI will instantly replace creative web development feels exaggerated.\n\nTools will keep improving, but developers who understand motion and interaction design are still very much in the game.\n\n#GSAP #WebAnimation #FrontendDevelopment #AI #WebDevelopment",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-03-15T12:28:01.185Z",
+      "ai": {
+        "domain": "ui_ux_design",
+        "title": "AI can generate layouts but falls short on animated web experiences - GSAP animation workflow gaps",
+        "author_role": "Web Developer",
+        "keywords": [
+          "GSAP",
+          "animation",
+          "web development",
+          "motion",
+          "scroll-driven"
+        ],
+        "workflow_stage": "animation / motion",
+        "tools_mentioned": [
+          "GSAP",
+          "AI"
+        ],
+        "has_demo_or_repo": false,
+        "summary": "Web developer experimenting with GSAP identifies gap between AI code generation and crafting quality motion on web. Complex animation workflows, timing control, and scroll-driven interactions still require human problem solving.",
+        "why_important": "Realistic assessment of current AI limitations in web animation and motion design.",
+        "learnings": "Understanding where AI excels (scaffolding) vs where human expertise remains essential (complex motion).",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
         "creative_workflow_value": 7
+      }
+    },
+    {
+      "source": "linkedin",
+      "source_id": "7440487718666522624",
+      "url": "https://www.linkedin.com/posts/activity-7440487718666522624-6ADr",
+      "author": {
+        "name": "Lucy L.",
+        "username": "lucy-long-marret",
+        "headline": "Ai-1st marketing🌟 | Ex-okx/Alibaba/Ledger| East × West | Scaling Brands from $0 → $10M+✨|1M+ views on LinkedIn"
+      },
+      "content": "I use AI motion design videos to double the view rate of my clients' ads. :)\n\nHere's the uncomfortable truth about content in 2026:\nBeing on-brand is no longer enough. Being beautiful is no longer enough. AI has made \"good looking\" the baseline for everyone.\n\nThe only content that still wins is content that entertains, surprises, or teaches something people didn't know.\n\nMotion design does all three. It used to cost a fortune. Now it doesn't.\nI made this video to explain the gut-brain connection — probably the most important science of the last 20 years that nobody is talking about clearly.\n\nBuilt with Pletor. In 2 hours. Alone.\nThe workflow: \n→ Claude for narrative and script \n→ Nano Banana for storyboard \n→ Veo 3.1 for animation \n→ Pletor nodes for final edit and subtitles\n→ ElevenLabs for VO effect.\nALL WITHIN ONE PLATFORM.\n\nIf you have a complex product, a dry subject, or a message that never seems to land visually — this format is for you.\nComment 👇 \"GUT POWER\" and I'll share the exact template. You can ship your first video in the next 2 hours.\n\nThis art work is a collab with minimiil ✨",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-03-19T20:01:49.707Z",
+      "ai": {
+        "domain": "motion_design",
+        "title": "I use AI motion design videos to double the view rate of my clients' ads",
+        "author_role": "Marketing Specialist",
+        "keywords": [
+          "motion design",
+          "AI",
+          "ads",
+          "view rate",
+          "entertainment"
+        ],
+        "workflow_stage": "asset creation | animation / motion",
+        "tools_mentioned": [
+          "AI"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Marketing specialist uses AI motion design to double ad view rates. Explains that AI has made good-looking content baseline, so winning content must entertain, surprise, or teach. Motion design achieves all three at lower cost.",
+        "why_important": "Shows measurable business impact of AI motion design in advertising performance.",
+        "learnings": "How AI motion design can significantly improve ad engagement rates and content strategy.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
       }
     }
   ]
