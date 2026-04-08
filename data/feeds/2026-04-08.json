@@ -1,0 +1,226 @@
+{
+  "date": "2026-04-08",
+  "generated_at": "2026-04-08T16:37:22.310511+00:00",
+  "posts": [
+    {
+      "source": "linkedin",
+      "source_id": "7447168357440589824",
+      "url": "https://www.linkedin.com/posts/artemiipogodin_motiondesign-ai-comfyui-activity-7447168357440589824-Rilk",
+      "author": {
+        "name": "Artemii Pogodin",
+        "username": "artemiipogodin",
+        "headline": "Motion Designer & AI Workflow Specialist | 3D & 2D | After Effects, Blender, C4D | UK Global Talent Visa"
+      },
+      "content": "The Battle for the Best AI Render Engine & Breakdown:\nWhy personal workflows beat cloud giants 🤖🥊\n\nWhen it comes to AI video generation, the biggest tradeoff is usually control versus convenience. In this breakdown of my experimental project, I put a custom ComfyUI pipeline head-to-head with Seedance 2.0, Kling AI, Weavy, and Higgsfield AI to test how different models handle complex 3D abstractions.\n\nThe main issue with cloud-based \"black boxes\" is that they are primarily optimized for human characters and cinematic shots. When you give them abstract geometry like this glass aquarium cube, they often struggle with the physics. This can lead to flickering, artifacts, and a loss of volume during 360-degree rotations.\n\n🏆 The clear winner for this specific task is a custom WAN 2.1🥇 workflow. Using ControlNet with Depth and Canny maps creates a reliable bridge from raw 3D exports in Cinema 4d, Blender, or After Effects to a photorealistic render. It allows for a level of precision that is currently hard to achieve with one-click generations.\n\nIn this breakdown, you can see how a personalized pipeline preserves complex details like the water sloshing inside the ice head due to centrifugal force. Credits to Mick Mahler for the workflow and VACE logic and that makes this level of control possible.\nCheck out the side-by-side comparison in the video. Are you leaning more toward cloud solutions right now, or building out local workflows? Let's discuss below! 👇\n\n#MotionDesign #AI #ComfyUI #3DRender #VFX #Breakdown #MotionGraphics #KlingAI #Seedance #Weavy #Higgsfield #AfterEffects #Houdini #Blender3D",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-04-07T06:28:18.111Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "ComfyUI vs cloud AI: testing custom pipelines against Seedance 2.0, Kling, Weavy for 3D abstractions",
+        "author_role": "Motion Designer & AI Workflow Specialist",
+        "keywords": [
+          "ComfyUI",
+          "Seedance 2.0",
+          "Kling AI",
+          "Weavy",
+          "Higgsfield",
+          "3D rendering",
+          "workflow comparison"
+        ],
+        "workflow_stage": "rendering / export",
+        "tools_mentioned": [
+          "ComfyUI",
+          "Seedance 2.0",
+          "Kling AI",
+          "Weavy",
+          "Higgsfield AI"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Author tested custom ComfyUI pipeline against multiple cloud AI platforms (Seedance 2.0, Kling, Weavy, Higgsfield) for rendering abstract 3D geometry. Found cloud services optimized for human characters/cinematic shots struggle with abstract forms like glass aquarium cubes.",
+        "why_important": "Reveals practical limitations of black-box cloud AI versus custom local pipelines when handling non-standard 3D content.",
+        "learnings": "Cloud AI video generators fail on abstract 3D geometry because they're trained primarily on human subjects and cinematic footage, making custom ComfyUI pipelines necessary for experimental work.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "linkedin",
+      "source_id": "7438950555860996096",
+      "url": "https://www.linkedin.com/posts/yosefrefaeli_ive-been-experimenting-with-a-local-pipeline-activity-7438950555860996096-Vue6",
+      "author": {
+        "name": "Yossi Refaeli",
+        "username": "yosefrefaeli",
+        "headline": "Engineering Mindset & Visual ai Design @ Reality Labs"
+      },
+      "content": "I’ve been experimenting with a local pipeline that feels a bit like cheating.\n\nInspired by the workflow shared by Mickmumpitz, combine raw Blender renders and cinematography using ComfyUI and the SkyReels V3 + Wan VACE model merge.\n\nThe traditional 3D pipeline is great, but sometimes you just want to play Digital Puppet Theater and let the AI be your VFX department.\n\nThe Workflow \nThe Skeleton (Blender) I block out the scene, camera moves, and basic geometry. No textures, no fancy lighting just the raw clay. \n\nI run a Look Dev pass on a single frame to dial in the vibe before committing to a full render.\n\nThe AI takes my 3D blueprint and fills in the rest generating realistic simulation and textures that stay pinned to my geometry.\n\nWhy this is a game changer\nZero UV Unwrapping, Dynamic FX for Free, Instant Style Swaps",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-03-15T14:13:41.535Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "Blender raw renders + ComfyUI SkyReels V3 + Wan VACE workflow for cinematic 3D output",
+        "author_role": "Engineering & Visual AI Designer",
+        "keywords": [
+          "Blender",
+          "ComfyUI",
+          "SkyReels V3",
+          "Wan VACE",
+          "model merge",
+          "3D pipeline",
+          "cinematography"
+        ],
+        "workflow_stage": "rendering / export",
+        "tools_mentioned": [
+          "Blender",
+          "ComfyUI",
+          "SkyReels V3",
+          "Wan VACE"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Author built local pipeline combining raw Blender renders with ComfyUI using SkyReels V3 and Wan VACE model merge for cinematography. Workflow blocks scenes in Blender with basic geometry (no textures/lighting), runs Look Dev pass on single frame, then processes through AI models.",
+        "why_important": "Shows practical hybrid workflow where 3D blocking handles structure while AI handles final visual refinement, skipping traditional texturing/lighting phases.",
+        "learnings": "Can use Blender for geometry and camera work only, then hand off raw renders to ComfyUI with merged models (SkyReels V3 + Wan VACE) to generate final cinematic output without traditional 3D finishing work.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "linkedin",
+      "source_id": "7447316372868489216",
+      "url": "https://www.linkedin.com/posts/scottfegette_mcp-claudecode-figma-activity-7447316372868489216-JRgx",
+      "author": {
+        "name": "Scott Fegette",
+        "username": "scottfegette",
+        "headline": "I help tech companies build content, product and learning strategies for creative audiences. 30 years inside Macromedia, Adobe, Lynda.com, and LinkedIn."
+      },
+      "content": "How do you REALLY put AI models to work for you creatively? Although it can burn tokens like a campfire, using MCP apps in your workflow puts the real power of AI into the tools you use the most.  In this case, rebuilding a set of CMS views I'd built out in code quickly, so weren't reflected in the Figma design file.   What to do?  MCP to the rescue!  \n\nClaude + GitHub + Figma x MCP = complete harmony between my design surface and my codebase... even when I'm working faster than my better judgement.\n#mcp #claudecode #figma",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-04-07T16:16:27.739Z",
+      "ai": {
+        "domain": "ui_ux_design",
+        "title": "Using Claude MCP to sync Figma design files with GitHub codebase automatically",
+        "author_role": "Content & Product Strategy Lead",
+        "keywords": [
+          "Claude",
+          "MCP",
+          "Figma",
+          "GitHub",
+          "design-to-code",
+          "workflow automation"
+        ],
+        "workflow_stage": "handoff / production",
+        "tools_mentioned": [
+          "Claude",
+          "GitHub",
+          "Figma",
+          "MCP"
+        ],
+        "has_demo_or_repo": false,
+        "summary": "Author rebuilt CMS views in code faster than updating Figma files. Used Claude with MCP (Model Context Protocol) to sync GitHub repository with Figma design surface, maintaining harmony between codebase and design files when iterating quickly.",
+        "why_important": "Demonstrates practical use of MCP to solve real design-dev handoff problems when code moves faster than design files.",
+        "learnings": "MCP can bridge the gap between rapid code iteration and design documentation by automatically syncing changes across Claude, GitHub, and Figma.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "linkedin",
+      "source_id": "7447244312020410368",
+      "url": "https://www.linkedin.com/posts/aaronrandallart_aivideo-aifilmmaking-claude-activity-7447244312020410368-Cdq4",
+      "author": {
+        "name": "Aaron Randall",
+        "username": "aaronrandallart",
+        "headline": "Visual AI Artist & AI Filmmaker | 20+ Years in Concept Art, Illustration & Design | Educator"
+      },
+      "content": "I never thought I'd say this but Claude might be the best fight choreographer I've ever worked with in the Ai space.\n\nI've been testing a custom system prompt I built specifically for Seedance 2.0 and the results are kind of ridiculous. The fight scene I created has weight to it. The movements connect. The choreography actually flows like someone thought about it instead of the usual AI flailing we've all seen.\n\nIn my experience Claude writes better prompts for AI video than anything else out there. There's something about how it structures motion and timing that just clicks. Pair that with Seedance 2.0 and you've got a dynamic duo that punches way above what you'd expect from AI generated video right now.\n\nDirecting and collaborating with Claude has been one of the more efficient and enjoyable parts of my workflow. It's not perfect but when you know how to art direct the process the results speak for themselves.\n\nI broke down the whole process on The Sketch Lab. Link to the episode in the comments below.\n\n#AIVideo #AIFilmmaking #Claude #Seedance #PromptEngineering #CreativeAI #GenerativeAI #TheSketchLab",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-04-07T11:30:07.094Z",
+      "ai": {
+        "domain": "film_video",
+        "title": "Claude custom system prompt for Seedance 2.0 generates fight choreography with weight and flow",
+        "author_role": "Visual AI Artist & AI Filmmaker",
+        "keywords": [
+          "Claude",
+          "Seedance 2.0",
+          "system prompt",
+          "fight choreography",
+          "AI video",
+          "motion timing"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "Claude",
+          "Seedance 2.0"
+        ],
+        "has_demo_or_repo": false,
+        "summary": "Author built custom system prompt for Claude specifically optimized for Seedance 2.0 fight scenes. Claude's prompt structure for motion and timing produces choreography with weight and flow that connects properly, unlike typical AI video flailing.",
+        "why_important": "Demonstrates that prompt engineering quality varies dramatically between LLMs for video generation tasks, with Claude excelling at motion structure.",
+        "learnings": "Claude writes superior prompts for AI video generation compared to other LLMs due to how it structures motion timing and choreography sequencing, making it valuable as a prompt intermediary even when not generating the video itself.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "linkedin",
+      "source_id": "7447657904435855360",
+      "url": "https://www.linkedin.com/posts/purvanshi-mehta_today-were-releasing-graphic-design-bench-activity-7447657904435855360-wSot",
+      "author": {
+        "name": "Purvanshi Mehta",
+        "username": "purvanshi-mehta",
+        "headline": "Founder @Lica | Foundational graphic design models"
+      },
+      "content": "Today we're releasing Graphic-Design-Bench (GDB) - the first comprehensive benchmark for evaluating AI on professional graphic design tasks.\n\n49 tasks. \n5 categories. \n7 frontier models. \n\nThe 5 domains we test: \n🖼️ Layout: spatial reasoning, component detection, layer ordering \n✍️ Typography: font, size, weight, color, spacing \n📊 Infographics: SVG understanding, editing, vector generation\n 🎨 Template Semantics: intent classification, template variants \n🎬 Animation: keyframes, motion types, trajectory generation\n\nWe tested against state of the art closed source models from Google, OpenAI and Anthropic.\n\n→ Only 2 of 49 tasks are solved \n→ 22 tasks remain completely unsolved \nand the ones that aren't? Still too imprecise to be useful in any real design workflow. \nPaper and Github link in comments.",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-04-08T14:53:35.210Z",
+      "ai": {
+        "domain": "ui_ux_design",
+        "title": "Graphic-Design-Bench: 49-task benchmark testing 7 AI models on layout, typography, SVG, templates",
+        "author_role": "AI research / Design tooling founder",
+        "keywords": [
+          "benchmark",
+          "layout reasoning",
+          "typography evaluation",
+          "SVG generation",
+          "template understanding",
+          "animation keyframes"
+        ],
+        "workflow_stage": "concept / ideation",
+        "tools_mentioned": [
+          "Graphic-Design-Bench",
+          "Google models",
+          "OpenAI models"
+        ],
+        "has_demo_or_repo": false,
+        "summary": "Released Graphic-Design-Bench (GDB), a 49-task benchmark evaluating 7 frontier AI models across 5 graphic design domains: layout spatial reasoning, typography parameters, SVG editing, template semantics, and animation keyframes. Tested state-of-the-art models from Google and OpenAI against professional design tasks.",
+        "why_important": "First standardized way to measure AI model performance on real graphic design tasks beyond generic image generation.",
+        "learnings": "AI evaluation for design work requires domain-specific benchmarks covering layout logic, vector formats, typography precision, and motion understanding—not just aesthetic output.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 7
+      }
+    }
+  ]
+}
