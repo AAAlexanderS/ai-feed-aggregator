@@ -203,12 +203,15 @@ def run_pipeline(live=False):
         json.dump(daily,f,ensure_ascii=False,indent=2)
     print(f"\n  Saved {len(top)} posts -> {out_file.name}\n")
     for i,p in enumerate(top):
-        ai = p.get("ai",{})
-        src = {"x_twitter":"X","linkedin":"in","github":"GH"}.get(p["source"],"?")
-        title = ai.get("title", p.get("content","")[:80])
-        print(f"  {i+1:2d}. [{src}] {title[:80]}")
-        if ai.get("tools_mentioned"):
-            print(f"      tools: {', '.join(ai['tools_mentioned'][:4])} | value: {ai.get('creative_workflow_value','?')}/10")
+        try:
+            ai = p.get("ai",{}) or {}
+            src = {"x_twitter":"X","linkedin":"in","github":"GH"}.get(p.get("source",""),"?")
+            title = ai.get("title") or (p.get("content") or "")
+            print(f"  {i+1:2d}. [{src}] {str(title)[:80]}")
+            if ai.get("tools_mentioned"):
+                print(f"      tools: {', '.join(ai['tools_mentioned'][:4])} | value: {ai.get('creative_workflow_value','?')}/10")
+        except Exception as e:
+            print(f"  {i+1:2d}. [print error] {e}")
     return daily
 
 if __name__ == "__main__":
