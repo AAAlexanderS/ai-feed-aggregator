@@ -1,42 +1,217 @@
 {
   "date": "2026-04-08",
-  "generated_at": "2026-04-08T16:45:36.814694+00:00",
+  "generated_at": "2026-04-08T17:29:00.383272+00:00",
   "posts": [
     {
       "source": "linkedin",
-      "source_id": "7447658445450731520",
-      "url": "https://www.linkedin.com/posts/mrkevanlin_i-dont-know-about-you-but-im-finding-it-activity-7447658445450731520-sm14",
+      "source_id": "7447168357440589824",
+      "url": "https://www.linkedin.com/posts/artemiipogodin_motiondesign-ai-comfyui-activity-7447168357440589824-Rilk",
       "author": {
-        "name": "Kevan Lin",
-        "username": "mrkevanlin",
-        "headline": "Turning user research, SQL, and AI-built prototypes into products people actually use"
+        "name": "Artemii Pogodin",
+        "username": "artemiipogodin",
+        "headline": "Motion Designer & AI Workflow Specialist | 3D & 2D | After Effects, Blender, C4D | UK Global Talent Visa"
       },
-      "content": "I don’t know about you but I’m finding it much easier to design and iterate quicker when I’ve fired up Cursor and built my initial concept in the browser. Honestly it’s no different than my design practice of starting in the browser generally. AI has just sped up the process by 10x. My question though - why are we round tripping our design work back into Figma (assuming you started there to begin with)? \n\nAdmittedly, I should figure out a way to get my prototype back to Figma using a MCP server or something. But right now I’m iterating on the prototype based on product/engineering/user feedback while also updating the Figma file for internal commenting. Is this what your process looks like now too? How have you cut down on time with the “production” work of updating Figma files?",
+      "content": "The Battle for the Best AI Render Engine & Breakdown:\nWhy personal workflows beat cloud giants 🤖🥊\n\nWhen it comes to AI video generation, the biggest tradeoff is usually control versus convenience. In this breakdown of my experimental project, I put a custom ComfyUI pipeline head-to-head with Seedance 2.0, Kling AI, Weavy, and Higgsfield AI to test how different models handle complex 3D abstractions.\n\nThe main issue with cloud-based \"black boxes\" is that they are primarily optimized for human characters and cinematic shots. When you give them abstract geometry like this glass aquarium cube, they often struggle with the physics. This can lead to flickering, artifacts, and a loss of volume during 360-degree rotations.\n\n🏆 The clear winner for this specific task is a custom WAN 2.1🥇 workflow. Using ControlNet with Depth and Canny maps creates a reliable bridge from raw 3D exports in Cinema 4d, Blender, or After Effects to a photorealistic render. It allows for a level of precision that is currently hard to achieve with one-click generations.\n\nIn this breakdown, you can see how a personalized pipeline preserves complex details like the water sloshing inside the ice head due to centrifugal force. Credits to Mick Mahler for the workflow and VACE logic and that makes this level of control possible.\nCheck out the side-by-side comparison in the video. Are you leaning more toward cloud solutions right now, or building out local workflows? Let's discuss below! 👇\n\n#MotionDesign #AI #ComfyUI #3DRender #VFX #Breakdown #MotionGraphics #KlingAI #Seedance #Weavy #Higgsfield #AfterEffects #Houdini #Blender3D",
       "metrics": {
         "likes": 0,
         "comments": 0,
         "reposts": 0
       },
-      "published_at": "2026-04-08T14:55:44.198Z",
+      "published_at": "2026-04-07T06:28:18.111Z",
+      "ai": {
+        "domain": "motion_design",
+        "title": "ComfyUI pipeline vs cloud AI render engines: handling complex 3D abstractions",
+        "author_role": "Motion Designer & AI Workflow Specialist",
+        "keywords": [
+          "ComfyUI",
+          "Seedance",
+          "Kling AI",
+          "Weavy",
+          "Higgsfield",
+          "3D rendering",
+          "video generation"
+        ],
+        "workflow_stage": "rendering / export",
+        "tools_mentioned": [
+          "ComfyUI",
+          "Seedance 2.0",
+          "Kling AI",
+          "Weavy",
+          "Higgsfield AI"
+        ],
+        "has_demo_or_repo": false,
+        "summary": "Compared custom ComfyUI pipeline against multiple cloud AI video generators for rendering abstract 3D geometry. Found cloud services optimized for human characters/cinematic shots struggle with complex abstract forms like glass aquarium cubes.",
+        "why_important": "Reveals critical limitations of black-box cloud AI tools when working with non-standard 3D content, validating need for custom local pipelines.",
+        "learnings": "Custom ComfyUI workflows provide better control for abstract 3D renders than cloud-based AI video generators optimized for human-centric content.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "linkedin",
+      "source_id": "7438950555860996096",
+      "url": "https://www.linkedin.com/posts/yosefrefaeli_ive-been-experimenting-with-a-local-pipeline-activity-7438950555860996096-Vue6",
+      "author": {
+        "name": "Yossi Refaeli",
+        "username": "yosefrefaeli",
+        "headline": "Engineering Mindset & Visual ai Design @ Reality Labs"
+      },
+      "content": "I’ve been experimenting with a local pipeline that feels a bit like cheating.\n\nInspired by the workflow shared by Mickmumpitz, combine raw Blender renders and cinematography using ComfyUI and the SkyReels V3 + Wan VACE model merge.\n\nThe traditional 3D pipeline is great, but sometimes you just want to play Digital Puppet Theater and let the AI be your VFX department.\n\nThe Workflow \nThe Skeleton (Blender) I block out the scene, camera moves, and basic geometry. No textures, no fancy lighting just the raw clay. \n\nI run a Look Dev pass on a single frame to dial in the vibe before committing to a full render.\n\nThe AI takes my 3D blueprint and fills in the rest generating realistic simulation and textures that stay pinned to my geometry.\n\nWhy this is a game changer\nZero UV Unwrapping, Dynamic FX for Free, Instant Style Swaps",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-03-15T14:13:41.535Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "Blender + ComfyUI + SkyReels V3 + Wan VACE: raw renders to cinematic shots",
+        "author_role": "Engineering Mindset & Visual AI Designer",
+        "keywords": [
+          "Blender",
+          "ComfyUI",
+          "SkyReels V3",
+          "Wan VACE",
+          "model merge",
+          "cinematography",
+          "VFX"
+        ],
+        "workflow_stage": "rendering / export",
+        "tools_mentioned": [
+          "Blender",
+          "ComfyUI",
+          "SkyReels V3",
+          "Wan VACE"
+        ],
+        "has_demo_or_repo": false,
+        "summary": "Workflow combining raw Blender renders with ComfyUI using SkyReels V3 + Wan VACE model merge for cinematography. Blocks out scenes in Blender with basic geometry, no textures, then runs Look Dev pass on single frame before full render to dial in aesthetic.",
+        "why_important": "Demonstrates hybrid pipeline where AI handles VFX and cinematography while artist controls composition and camera work through traditional 3D tools.",
+        "learnings": "Raw Blender geometry can be used as compositional skeleton, letting merged AI models handle lighting, texturing and cinematic effects through ComfyUI.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "linkedin",
+      "source_id": "7444376807933595648",
+      "url": "https://www.linkedin.com/posts/david-roberts-1b05a1367_i-built-an-ai-system-that-turns-listing-photos-activity-7444376807933595648-g2aS",
+      "author": {
+        "name": "David Roberts",
+        "username": "david-roberts-1b05a1367",
+        "headline": "Building AI Ads and Agents (Let’s connect)"
+      },
+      "content": "I built an AI system that turns listing photos into cinematic property videos. Just paste a Zillow link.\n\nGenerated this one for an apartment complex for $12 in credits. 10 minutes. No videographer. No editor.\n\nThe average property manager pays $200–$600 for professional video production.\n\nHere's how it works inside Calico AI:\n\n→ Pick your video length (20s, 40s, or 60s) and upload listing photos\n→ Paste the listing URL — Calico scrapes the property details, neighborhood, and listing data\n→ AI writes an optimized voiceover script based on the listing highlights\n→ Generate a custom background music track from a text description\n→ Each photo gets animated into a cinematic walkthrough-style clip\n→ Calico stitches everything together with auto-generated captions\n\nThe output looks like a $1,000 production.\n\nProperty managers are posting these to socials, embedding them on listings, and sending them to prospective renters.\n\nNo film crew.\nNo editing software.\nNo waiting days for delivery.\n\nComment \"LISTING\" and I'll send you the full tutorial video & prompts (must be connected so I can DM you).",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-03-30T13:35:40.844Z",
+      "ai": {
+        "domain": "film_video",
+        "title": "AI system converts Zillow listings to cinematic property videos for $12 in 10 minutes",
+        "author_role": "AI systems builder",
+        "keywords": [
+          "Calico AI",
+          "property video",
+          "listing automation",
+          "voiceover generation",
+          "cost optimization"
+        ],
+        "workflow_stage": "asset creation | rendering / export",
+        "tools_mentioned": [
+          "Calico AI",
+          "Zillow API"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Built an AI system that scrapes Zillow listings, generates optimized voiceover scripts from property data, and produces cinematic property videos in 10 minutes for $12 vs traditional $200-600 production costs. System automates the entire pipeline from URL input to final video with custom background music.",
+        "why_important": "Demonstrates complete workflow automation for real estate video production with concrete cost and time savings compared to traditional methods.",
+        "learnings": "Property listing data can be automatically converted to video content by combining web scraping, AI script generation, and automated video assembly at 5-10% of traditional production costs.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "linkedin",
+      "source_id": "7447657904435855360",
+      "url": "https://www.linkedin.com/posts/purvanshi-mehta_today-were-releasing-graphic-design-bench-activity-7447657904435855360-wSot",
+      "author": {
+        "name": "Purvanshi Mehta",
+        "username": "purvanshi-mehta",
+        "headline": "Founder @Lica | Foundational graphic design models"
+      },
+      "content": "Today we're releasing Graphic-Design-Bench (GDB) - the first comprehensive benchmark for evaluating AI on professional graphic design tasks.\n\n49 tasks. \n5 categories. \n7 frontier models. \n\nThe 5 domains we test: \n🖼️ Layout: spatial reasoning, component detection, layer ordering \n✍️ Typography: font, size, weight, color, spacing \n📊 Infographics: SVG understanding, editing, vector generation\n 🎨 Template Semantics: intent classification, template variants \n🎬 Animation: keyframes, motion types, trajectory generation\n\nWe tested against state of the art closed source models from Google, OpenAI and Anthropic.\n\n→ Only 2 of 49 tasks are solved \n→ 22 tasks remain completely unsolved \nand the ones that aren't? Still too imprecise to be useful in any real design workflow. \nPaper and Github link in comments.",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-04-08T14:53:35.210Z",
       "ai": {
         "domain": "ui_ux_design",
-        "title": "AI-powered browser prototyping with Cursor speeds up design iteration 10x",
-        "author_role": "Product Designer & Developer",
+        "title": "Graphic-Design-Bench (GDB): First comprehensive benchmark for AI on professional graphic design",
+        "author_role": "Founder",
         "keywords": [
-          "Cursor",
-          "browser prototyping",
-          "design iteration",
-          "MCP server"
+          "Graphic-Design-Bench",
+          "GDB",
+          "layout evaluation",
+          "typography testing",
+          "SVG generation",
+          "animation keyframes"
+        ],
+        "workflow_stage": "concept / ideation | layout / composition | animation / motion",
+        "tools_mentioned": [
+          "Google models",
+          "OpenAI models",
+          "Anthropic models"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Released Graphic-Design-Bench with 49 tasks across 5 categories testing frontier AI models on professional design work: layout spatial reasoning, typography parameters, SVG editing, template semantics, and animation trajectory generation. Evaluated 7 state-of-the-art models from Google, OpenAI and Anthropic.",
+        "why_important": "Provides quantifiable framework for evaluating AI performance on concrete design tasks rather than subjective assessment.",
+        "learnings": "Professional graphic design can be broken into measurable tasks across layout, typography, vector graphics, templates and animation that AI models can be systematically benchmarked against.",
+        "worth_bookmarking": true,
+        "credibility_score": 9,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_992578965",
+      "url": "https://github.com/bytedance/comfyui-lumi-batcher",
+      "author": {
+        "name": "bytedance",
+        "username": "bytedance",
+        "headline": ""
+      },
+      "content": "comfyui-lumi-batcher: ComfyUI Lumi Batcher is a batch processing extension plugin designed for ComfyUI, aiming to improve workflow debugging efficiency. Traditional debugging methods require adjusting parameters one by one, while this tool significantly enhances work efficiency through batch processing capabilities.",
+      "metrics": {
+        "stars": 560,
+        "forks": 34
+      },
+      "topics": [],
+      "published_at": "2025-05-29T11:36:41Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "ComfyUI Lumi Batcher: Batch processing extension for efficient workflow debugging",
+        "author_role": "ComfyUI workflow developer",
+        "keywords": [
+          "ComfyUI",
+          "batch processing",
+          "debugging",
+          "parameter testing",
+          "workflow optimization"
         ],
         "workflow_stage": "iteration / refinement",
         "tools_mentioned": [
-          "Cursor",
-          "Figma"
+          "ComfyUI"
         ],
-        "has_demo_or_repo": false,
-        "summary": "Designer shares workflow of starting design concepts directly in browser using Cursor AI, which speeds up iteration by 10x compared to traditional Figma-first approach. Currently iterating on prototypes based on product/engineering/user feedback without round-tripping to Figma, though considering MCP server integration for syncing.",
-        "why_important": "Demonstrates practical shift from design tools to code-first workflows, questioning the necessity of traditional design handoff processes.",
-        "learnings": "Browser-first prototyping with AI coding assistants can eliminate the Figma-to-code translation step while maintaining rapid iteration.",
+        "has_demo_or_repo": true,
+        "summary": "ByteDance's ComfyUI extension that enables batch parameter testing instead of one-by-one adjustments. Significantly reduces debugging time by running multiple parameter configurations simultaneously.",
+        "why_important": "Eliminates the tedious manual process of testing different settings sequentially, allowing artists to compare outputs from multiple parameter sets in one pass.",
+        "learnings": "Batch parameter testing through dedicated tooling can dramatically speed up ComfyUI workflow optimization compared to traditional iterative debugging approaches.",
         "worth_bookmarking": true,
         "credibility_score": 8,
         "creative_workflow_value": 8
@@ -44,78 +219,292 @@
     },
     {
       "source": "linkedin",
-      "source_id": "7445700267188113408",
-      "url": "https://www.linkedin.com/posts/punitweb_uidesign-design-uxdesign-activity-7445700267188113408-rPb6",
+      "source_id": "7447244312020410368",
+      "url": "https://www.linkedin.com/posts/aaronrandallart_aivideo-aifilmmaking-claude-activity-7447244312020410368-Cdq4",
       "author": {
-        "name": "Punit Chawla",
-        "username": "punitweb",
-        "headline": "UX/UI Designer | Speaker at TedX, IIT, Google & More | 170K+ on Youtube | Design Content Creator & Author"
+        "name": "Aaron Randall",
+        "username": "aaronrandallart",
+        "headline": "Visual AI Artist & AI Filmmaker | 20+ Years in Concept Art, Illustration & Design | Educator"
       },
-      "content": "Figma just launched its most useful AI feature yet! 😍  You can now import your design system/library into Figma Make and teach the AI your design style and principles! 🎉\n\nLearn more about this update - https://lnkd.in/empwZRVB\n\n#uidesign #design #uxdesign #ux #ui #productdesign #appdesign #webdesign #learndesign #figma #figmatutorial #figmatips #designtips #figmamake #figmaai #ai #aidesign",
+      "content": "I never thought I'd say this but Claude might be the best fight choreographer I've ever worked with in the Ai space.\n\nI've been testing a custom system prompt I built specifically for Seedance 2.0 and the results are kind of ridiculous. The fight scene I created has weight to it. The movements connect. The choreography actually flows like someone thought about it instead of the usual AI flailing we've all seen.\n\nIn my experience Claude writes better prompts for AI video than anything else out there. There's something about how it structures motion and timing that just clicks. Pair that with Seedance 2.0 and you've got a dynamic duo that punches way above what you'd expect from AI generated video right now.\n\nDirecting and collaborating with Claude has been one of the more efficient and enjoyable parts of my workflow. It's not perfect but when you know how to art direct the process the results speak for themselves.\n\nI broke down the whole process on The Sketch Lab. Link to the episode in the comments below.\n\n#AIVideo #AIFilmmaking #Claude #Seedance #PromptEngineering #CreativeAI #GenerativeAI #TheSketchLab",
       "metrics": {
         "likes": 0,
         "comments": 0,
         "reposts": 0
       },
-      "published_at": "2026-04-03T05:14:38.119Z",
+      "published_at": "2026-04-07T11:30:07.094Z",
       "ai": {
-        "domain": "ui_ux_design",
-        "title": "Figma Make now imports design systems to teach AI your style and principles",
-        "author_role": "UX/UI Designer & Educator",
+        "domain": "film_video",
+        "title": "Custom Claude system prompt for Seedance 2.0 generates choreographed fight scenes with flow",
+        "author_role": "Visual AI Artist & AI Filmmaker",
         "keywords": [
-          "Figma Make",
-          "design system",
-          "AI training",
-          "design library"
+          "Claude",
+          "Seedance 2.0",
+          "system prompt",
+          "fight choreography",
+          "motion timing"
+        ],
+        "workflow_stage": "ideation | asset creation",
+        "tools_mentioned": [
+          "Claude",
+          "Seedance 2.0"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Developed a custom system prompt specifically engineered for Seedance 2.0 that produces fight choreography with weight and flow. Claude's prompt structure for motion and timing outperforms other AI tools for video generation, creating connected movements instead of typical AI flailing.",
+        "why_important": "Shows how prompt engineering for specific AI video tools can dramatically improve motion quality and choreography coherence in action scenes.",
+        "learnings": "Claude's approach to structuring motion and timing in prompts produces superior results for AI video generation when paired with specialized tools like Seedance 2.0.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_672678720",
+      "url": "https://github.com/pydn/ComfyUI-to-Python-Extension",
+      "author": {
+        "name": "pydn",
+        "username": "pydn",
+        "headline": ""
+      },
+      "content": "ComfyUI-to-Python-Extension: A powerful tool that translates ComfyUI workflows into executable Python code.",
+      "metrics": {
+        "stars": 2299,
+        "forks": 206
+      },
+      "topics": [
+        "ai-art",
+        "comfyui",
+        "generative-art",
+        "image-generation",
+        "pytorch",
+        "stable-diffusion"
+      ],
+      "published_at": "2023-07-30T22:23:43Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "ComfyUI-to-Python-Extension: Translates ComfyUI workflows into executable Python",
+        "author_role": "ComfyUI developer",
+        "keywords": [
+          "ComfyUI",
+          "Python",
+          "workflow",
+          "code generation",
+          "automation"
+        ],
+        "workflow_stage": "iteration / refinement",
+        "tools_mentioned": [
+          "ComfyUI",
+          "Python"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "A tool that converts visual ComfyUI node-based workflows into standalone Python code. Enables developers to export and execute ComfyUI workflows programmatically outside the visual interface.",
+        "why_important": "Allows technical artists to version control, automate, and integrate ComfyUI workflows into production pipelines without manual node recreation.",
+        "learnings": "Converting visual workflows to code enables batch processing, CI/CD integration, and programmatic parameter control for production-scale image generation.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1130731589",
+      "url": "https://github.com/jtydhr88/ComfyUI-qwenmultiangle",
+      "author": {
+        "name": "jtydhr88",
+        "username": "jtydhr88",
+        "headline": ""
+      },
+      "content": "ComfyUI-qwenmultiangle: A ComfyUI custom node for 3D camera angle control. Provides an interactive Three.js viewport to adjust camera angles and outputs formatted prompt strings for multi-angle image generation.",
+      "metrics": {
+        "stars": 1085,
+        "forks": 59
+      },
+      "topics": [],
+      "published_at": "2026-01-08T23:39:38Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "ComfyUI-qwenmultiangle: Interactive 3D camera control for multi-angle generation",
+        "author_role": "3D workflow developer",
+        "keywords": [
+          "ComfyUI",
+          "3D camera",
+          "Three.js",
+          "multi-angle",
+          "prompt generation",
+          "viewport"
         ],
         "workflow_stage": "concept / ideation",
         "tools_mentioned": [
-          "Figma Make"
+          "ComfyUI",
+          "Three.js",
+          "Qwen"
         ],
-        "has_demo_or_repo": false,
-        "summary": "Figma launched a feature allowing designers to import their design system or library into Figma Make, teaching the AI their specific design style and principles. This enables AI-generated designs that align with existing brand guidelines and component libraries.",
-        "why_important": "Bridges the gap between AI design generation and real-world design system consistency, making AI tools more practical for production work.",
-        "learnings": "You can now feed your existing design libraries into Figma's AI to maintain brand consistency in AI-generated work.",
+        "has_demo_or_repo": true,
+        "summary": "Custom ComfyUI node providing an interactive Three.js viewport for visual camera angle adjustment. Outputs formatted prompt strings that drive multi-angle image generation for 3D workflows.",
+        "why_important": "Bridges visual 3D camera manipulation with text-to-image generation, eliminating the need to manually write complex camera position prompts.",
+        "learnings": "Interactive 3D viewports can generate precise camera angle prompts for AI image generation, making multi-view character/object creation more intuitive than text-based approaches.",
         "worth_bookmarking": true,
         "credibility_score": 7,
         "creative_workflow_value": 8
       }
     },
     {
-      "source": "linkedin",
-      "source_id": "7441828360860762112",
-      "url": "https://www.linkedin.com/posts/david-roberts-1b05a1367_i-built-an-ai-system-that-creates-luxury-activity-7441828360860762112-M8b6",
+      "source": "github",
+      "source_id": "gh_905471442",
+      "url": "https://github.com/pollockjj/ComfyUI-MultiGPU",
       "author": {
-        "name": "David Roberts",
-        "username": "david-roberts-1b05a1367",
-        "headline": "Building AI Ads and Agents (Let’s connect)"
+        "name": "pollockjj",
+        "username": "pollockjj",
+        "headline": ""
       },
-      "content": "I built an AI system that creates luxury real estate listing videos for $12 of credits (just from a Zillow link).\n\nThe average agent pays $200–$800 per property for professional video production. Sell this output to realtors and agents and make $$$.\n\nHere's how it works:\n\n→ Drop listing photos into Calico AI Listing Generator and paste the property URL\n→ The AI researches comps, neighborhood, and the most marketable features\n→ It writes a voiceover script optimized for your target video length\n→ Select an AI voice actor — multiple voices and dialects available\n→ Custom background music generated from a single text prompt\n→ Every photo transforms into a cinematic 4-second video clip\n→ Auto-captioned, combined, and ready to publish. No editing required.\n\nThe result: every listing gets a professional video tour, not just the $800K+ properties that justify a videographer.\n\n35% more buyer inquiries on listings using these videos.\n\nToday, the agents using this have an unfair advantage.\n\nTomorrow, every agent will have it and it'll be table stakes.\n\nThese windows of opportunity always only last so long...\n\nComment \"LISTING\" and I'll send you a full video tutorial breaking down how to do this and the tools I'm using (must be connected so I can DM you).",
+      "content": "ComfyUI-MultiGPU: This custom_node for ComfyUI adds one-click \"Virtual VRAM\" for any UNet and CLIP loader as well MultiGPU integration in WanVideoWrapper, managing the offload/Block Swap of layers to DRAM *or* VRAM to maximize the latent space of your card. Also includes nodes for directly loading entire components (UNet, CLIP, VAE) onto the device you choose",
       "metrics": {
-        "likes": 0,
-        "comments": 0,
-        "reposts": 0
+        "stars": 841,
+        "forks": 64
       },
-      "published_at": "2026-03-23T12:49:03.714Z",
+      "topics": [
+        "comfyui",
+        "comfyui-nodes",
+        "comfyui-workflow",
+        "ggml",
+        "gguf-models",
+        "pytorch",
+        "stable-diffusion",
+        "unet-pytorch",
+        "wanvideowrapper"
+      ],
+      "published_at": "2024-12-18T22:34:38Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "ComfyUI-MultiGPU: Virtual VRAM and multi-GPU layer management for ComfyUI",
+        "author_role": "ComfyUI optimization developer",
+        "keywords": [
+          "ComfyUI",
+          "multi-GPU",
+          "VRAM",
+          "memory management",
+          "UNet",
+          "CLIP",
+          "block swap"
+        ],
+        "workflow_stage": "rendering / export",
+        "tools_mentioned": [
+          "ComfyUI"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Custom nodes enabling virtual VRAM expansion through layer offloading to DRAM or secondary GPUs. Includes one-click integration for UNet/CLIP loaders and manual device assignment for model components.",
+        "why_important": "Solves VRAM limitations that prevent running large models, enabling complex workflows on consumer hardware through intelligent memory management.",
+        "learnings": "Layer-level offloading and block swap strategies can maximize usable VRAM by strategically moving model components between GPU memory, system RAM, and multiple GPUs during inference.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_616620075",
+      "url": "https://github.com/tin2tin/Pallaidium",
+      "author": {
+        "name": "tin2tin",
+        "username": "tin2tin",
+        "headline": ""
+      },
+      "content": "Pallaidium: PALLAIDIUM — a generative AI movie studio, seamlessly integrated into the Blender Video Editor (VSE), enabling end-to-end production from script to screen and back.",
+      "metrics": {
+        "stars": 1363,
+        "forks": 123
+      },
+      "topics": [
+        "ai",
+        "aicinema",
+        "blender",
+        "chatterbox",
+        "diffusion",
+        "flux",
+        "generative",
+        "ltx",
+        "movie",
+        "qwen",
+        "studio",
+        "text2audio",
+        "text2image",
+        "text2speech",
+        "text2video",
+        "turbo",
+        "wan",
+        "z-image"
+      ],
+      "published_at": "2023-03-20T18:40:16Z",
       "ai": {
         "domain": "film_video",
-        "title": "AI video workflow creates luxury real estate listings from Zillow links for $12",
-        "author_role": "AI Systems Builder",
+        "title": "Pallaidium: generative AI movie studio integrated into Blender VSE for script-to-screen production",
+        "author_role": "Developer",
         "keywords": [
-          "Calico AI",
-          "real estate video",
-          "automated voiceover",
-          "AI voice actor"
+          "Blender",
+          "VSE",
+          "generative AI",
+          "video editing",
+          "end-to-end production"
+        ],
+        "workflow_stage": "iteration / refinement",
+        "tools_mentioned": [
+          "Blender",
+          "Pallaidium",
+          "VSE"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Open-source tool that integrates generative AI capabilities directly into Blender's Video Sequence Editor. Enables complete film production workflow from script generation through final editing within a single environment.",
+        "why_important": "Eliminates context switching between multiple tools by bringing AI generation directly into the editing timeline.",
+        "learnings": "AI-powered video production can be fully integrated into existing 3D/video editing environments rather than relying on separate cloud services.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_983846239",
+      "url": "https://github.com/sakalond/StableGen",
+      "author": {
+        "name": "sakalond",
+        "username": "sakalond",
+        "headline": ""
+      },
+      "content": "StableGen: Transform your 3D texturing workflow with the power of generative AI, directly within Blender!",
+      "metrics": {
+        "stars": 728,
+        "forks": 60
+      },
+      "topics": [
+        "blender",
+        "controlnet",
+        "flux1-dev",
+        "ipadapter",
+        "stable-diffusion",
+        "texture"
+      ],
+      "published_at": "2025-05-15T02:27:38Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "StableGen: Generative AI texturing workflow directly in Blender",
+        "author_role": "Developer",
+        "keywords": [
+          "Blender",
+          "texturing",
+          "generative AI",
+          "3D workflow",
+          "Stable Diffusion"
         ],
         "workflow_stage": "asset creation",
         "tools_mentioned": [
-          "Calico AI Listing Generator",
-          "Zillow"
+          "Blender",
+          "StableGen"
         ],
-        "has_demo_or_repo": false,
-        "summary": "Built system using Calico AI that converts Zillow listing photos into professional real estate videos for $12 vs. $200-800 traditional cost. Process: uploads photos, pastes URL, AI researches comps/neighborhood, writes optimized voiceover script, generates custom music, and selects from multiple AI voice actors.",
-        "why_important": "Shows complete automated video production workflow with specific cost savings and concrete steps, making professional video accessible to individual agents.",
-        "learnings": "Calico AI can scrape property data, generate contextual scripts, and produce complete listing videos by combining listing photos with AI-generated voiceover and music.",
+        "has_demo_or_repo": true,
+        "summary": "Blender addon that brings generative AI texturing capabilities into the 3D workflow. Allows artists to generate and apply textures without leaving their primary 3D environment.",
+        "why_important": "Removes friction from 3D texturing by eliminating the need to export/import between external AI tools and 3D software.",
+        "learnings": "Generative AI texture generation can be integrated directly into Blender's native material workflow for seamless iteration.",
         "worth_bookmarking": true,
         "credibility_score": 7,
         "creative_workflow_value": 8
@@ -123,39 +512,136 @@
     },
     {
       "source": "linkedin",
-      "source_id": "7445154522659770369",
-      "url": "https://www.linkedin.com/posts/eugenio-zabell_formula-1-teams-spend-100000-on-production-activity-7445154522659770369-KEGr",
+      "source_id": "7447316372868489216",
+      "url": "https://www.linkedin.com/posts/scottfegette_mcp-claudecode-figma-activity-7447316372868489216-JRgx",
       "author": {
-        "name": "Eugenio Zabell",
-        "username": "eugenio-zabell",
-        "headline": "AI & Creative Strategy // Powering the next generation of E-commerce brands through viral creatives and new client acquisition."
+        "name": "Scott Fegette",
+        "username": "scottfegette",
+        "headline": "I help tech companies build content, product and learning strategies for creative audiences. 30 years inside Macromedia, Adobe, Lynda.com, and LinkedIn."
       },
-      "content": "Formula 1 teams spend $100,000+ on production films.\n\nI made one in 4 minutes.\n\nIn 2026, cinematic video content doesn't require a massive budget and a production crew.\n\nI've been testing an AI workflow that generates video ads that look like they cost thousands to produce - and I documented the exact process.\n\nWhat's inside:\n\n→ 7 copy-and-paste prompts for high-converting video ads\n→ The exact AI platforms to use and which ones to combine\n→ How to generate images and animate them seamlessly\n→ The workflow sequence that gets it done in minutes\n→ Real examples with prompts that drove results\n\nThis is the same process I use to create ads for clients without touching a camera.\n\nWithout production crews, Adobe Suite or agency retainers.\n\nJust the right prompts in the right sequence.\n\nThe results:\n\n• Cinematic video content without filming\n• Multiple ad variations in minutes, not weeks\n• Zero video editing skills required\n• Works for any brand in any category\n\nWant the full breakdown with all 7 prompts?\n\nComment \"PROMPTS\" and I'll send it over.\n\n♻️ Repost for priority access",
+      "content": "How do you REALLY put AI models to work for you creatively? Although it can burn tokens like a campfire, using MCP apps in your workflow puts the real power of AI into the tools you use the most.  In this case, rebuilding a set of CMS views I'd built out in code quickly, so weren't reflected in the Figma design file.   What to do?  MCP to the rescue!  \n\nClaude + GitHub + Figma x MCP = complete harmony between my design surface and my codebase... even when I'm working faster than my better judgement.\n#mcp #claudecode #figma",
       "metrics": {
         "likes": 0,
         "comments": 0,
         "reposts": 0
       },
-      "published_at": "2026-04-01T17:06:02.484Z",
+      "published_at": "2026-04-07T16:16:27.739Z",
       "ai": {
-        "domain": "film_video",
-        "title": "7-prompt workflow generates Formula 1 production-quality ads in 4 minutes",
-        "author_role": "AI Creative Strategist",
+        "domain": "ui_ux_design",
+        "title": "Claude + GitHub + Figma x MCP = complete harmony between my design surface and my codebase",
+        "author_role": "Product leader",
         "keywords": [
-          "prompt engineering",
-          "video ads",
-          "image generation",
-          "animation workflow"
+          "MCP",
+          "Claude",
+          "Figma",
+          "GitHub",
+          "design-to-code",
+          "workflow integration"
         ],
-        "workflow_stage": "asset creation",
-        "tools_mentioned": [],
-        "has_demo_or_repo": true,
-        "summary": "Documented complete workflow for creating cinematic video ads that replicate $100K+ production quality. Includes 7 specific prompts, platform combinations for image generation and animation, and workflow sequence that produces results in minutes.",
-        "why_important": "Provides reproducible workflow for high-end video ad creation, demonstrating specific prompt strategies rather than vague AI claims.",
-        "learnings": "Combining specific AI platforms with optimized prompt sequences can replicate high-budget production aesthetics at minimal cost.",
+        "workflow_stage": "handoff / production",
+        "tools_mentioned": [
+          "Claude",
+          "GitHub",
+          "Figma",
+          "MCP"
+        ],
+        "has_demo_or_repo": false,
+        "summary": "Used Model Context Protocol (MCP) to connect Claude, GitHub, and Figma for rebuilding CMS views that were coded but not reflected in design files. MCP enabled synchronization between design surface and codebase when working at high speed.",
+        "why_important": "Shows practical implementation of MCP for keeping design and code in sync during rapid iteration cycles.",
+        "learnings": "MCP apps can bridge the gap between Figma designs and code repositories to maintain consistency when development moves faster than design documentation.",
         "worth_bookmarking": true,
         "credibility_score": 7,
         "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_707265118",
+      "url": "https://github.com/playcanvas/supersplat",
+      "author": {
+        "name": "playcanvas",
+        "username": "playcanvas",
+        "headline": ""
+      },
+      "content": "supersplat: 3D Gaussian Splat Editor",
+      "metrics": {
+        "stars": 4101,
+        "forks": 485
+      },
+      "topics": [
+        "3d-gaussian-splatting",
+        "3dgs",
+        "gaussian-splatting",
+        "pcui",
+        "playcanvas",
+        "typescript",
+        "webgl",
+        "webgpu"
+      ],
+      "published_at": "2023-10-19T14:45:07Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "SuperSplat: 3D Gaussian Splat Editor",
+        "author_role": "3D graphics developer",
+        "keywords": [
+          "3D Gaussian Splatting",
+          "editor",
+          "3DGS",
+          "interactive editing"
+        ],
+        "workflow_stage": "iteration / refinement",
+        "tools_mentioned": [
+          "SuperSplat",
+          "PlayCanvas"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "PlayCanvas' dedicated editor for 3D Gaussian Splat scenes. Provides interactive tools for inspecting, editing, and refining 3DGS captures beyond initial reconstruction.",
+        "why_important": "Addresses the gap between capturing 3DGS scenes and making them production-ready by offering dedicated editing capabilities for this emerging format.",
+        "learnings": "Specialized editors for 3D Gaussian Splatting enable post-capture refinement, suggesting the format is moving beyond research into practical creative workflows requiring editorial control.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 7
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1125543211",
+      "url": "https://github.com/jtydhr88/ComfyUI-HY-Motion1",
+      "author": {
+        "name": "jtydhr88",
+        "username": "jtydhr88",
+        "headline": ""
+      },
+      "content": "ComfyUI-HY-Motion1: A ComfyUI plugin based on HY-Motion 1.0 for text-to-3D human motion generation.",
+      "metrics": {
+        "stars": 274,
+        "forks": 24
+      },
+      "topics": [],
+      "published_at": "2025-12-30T23:18:33Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "ComfyUI-HY-Motion1: Text-to-3D human motion generation in ComfyUI",
+        "author_role": "Developer",
+        "keywords": [
+          "ComfyUI",
+          "text-to-3D",
+          "motion generation",
+          "HY-Motion",
+          "animation"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "ComfyUI",
+          "HY-Motion 1.0"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "ComfyUI plugin implementing HY-Motion 1.0 model for generating 3D human motion from text descriptions. Integrates motion generation into existing ComfyUI node-based workflows.",
+        "why_important": "Enables text-driven character animation within ComfyUI's visual workflow system that many AI artists already use.",
+        "learnings": "Text-to-3D motion can be incorporated into ComfyUI pipelines alongside image generation for unified creative workflows.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 7
       }
     }
   ]
