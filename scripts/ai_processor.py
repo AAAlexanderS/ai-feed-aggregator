@@ -68,15 +68,16 @@ def _build_user_prompt(posts: list[dict]) -> str:
     """Format posts list into a prompt for Claude."""
     lines = []
     for i, post in enumerate(posts):
+        author = post.get("author", {})
         lines.append(f"=== POST {i} ===")
-        lines.append(f"Author: {post.get('author', {}).get('name', 'Unknown')}")
-        lines.append(f"Text: {post.get('text', post.get('content', ''))}")
+        lines.append(f"Platform: {post.get('source', '?')}")
+        lines.append(f"Author: {author.get('name', 'Unknown')} | {author.get('headline', '')}")
+        lines.append(f"Content: {post.get('content', post.get('text', ''))[:600]}")
         url = post.get('url', post.get('postUrl', ''))
         if url:
             lines.append(f"URL: {url}")
         lines.append("")
     return "\n".join(lines)
-
 
 def _call_claude(posts: list[dict]) -> list[dict]:
     """Call Claude API and return parsed JSON results."""
