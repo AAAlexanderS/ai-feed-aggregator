@@ -111,13 +111,13 @@ def _call_claude(posts: list[dict]) -> list[dict]:
 def process_posts(posts: list[dict], config: dict = None) -> list[dict]:
     """
     Live mode: screen posts through Claude API.
-    Returns only posts where pass=True, sorted by score desc.
+    Returns enriched posts with ai field populated, sorted by score desc.
     """
     if not posts:
         return []
 
     BATCH_SIZE = 30
-    passed = []
+    enriched = []
 
     for i in range(0, len(posts), BATCH_SIZE):
         batch = posts[i:i + BATCH_SIZE]
@@ -125,20 +125,42 @@ def process_posts(posts: list[dict], config: dict = None) -> list[dict]:
         try:
             results = _call_claude(batch)
             for result in results:
-                if result.get("pass") is True:
-                    idx = result.get("index", 0)
-                    if idx < len(batch):
-                        result["_original"] = batch[idx]
-                    passed.append(result)
+                if result.get("pass") is not True:
+                    continue
+                idx = result.get("index")
+                if idx is None or idx >= len(batch):
+                    continue
+                # Preserve original post structure, attach AI fields under "ai"
+                post = batch[idx].copy()
+                post["ai"] = {
+                    "domain": result.get("domain", "ui_ux_design"),
+                    "title": result.get("title", post.get("content", "")[:100]),
+                    "author_role": result.get("author_role", ""),
+                    "keywords": result.get("keywords", []),
+                    "workflow_stage": result.get("workflow_stage", ""),
+                    "tools_mentioned": result.get("tools_mentioned", []),
+                    "has_demo_or_repo": result.get("has_demo_or_repo", False),
+                    "summary": result.get("summary", ""),
+                    "why_important": result.get("why_important", ""),
+                    "learnings": result.get("learnings", ""),
+                    "worth_bookmarking": result.get("worth_bookmarking", False),
+                    "credibility_score": result.get("credibility_score", 5),
+                    "creative_workflow_value": result.get("creative_workflow_value", 5),
+                }
+                enriched.append(post)
         except json.JSONDecodeError as e:
             print(f"    [AI] JSON parse error: {e}")
         except Exception as e:
             print(f"    [AI] Error: {e}")
 
-    passed.sort(
-        key=lambda x: (x.get("credibility_score", 0) + x.get("creative_workflow_value", 0)),
+    # Sort by combined score
+    enriched.sort(
+        key=lambda p: (
+            p.get("ai", {}).get("credibility_score", 0)
+            + p.get("ai", {}).get("creative_workflow_value", 0)
+        ),
         reverse=True
     )
 
-    print(f"    [AI] {len(passed)} posts passed out of {len(posts)} screened")
-    return passed
+    print(f"    [AI] {len(enriched)} posts passed out of {len(posts)} screened")
+    return enriched
