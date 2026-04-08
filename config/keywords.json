@@ -49,13 +49,19 @@
     },
     "github": {
       "queries": [
-        "ComfyUI 3D workflow",
+        "ComfyUI workflow",
+        "ComfyUI custom node",
+        "gaussian splatting",
+        "AI video generation",
+        "blender AI",
+        "stable diffusion workflow",
+        "figma plugin AI",
         "AI design tool",
-        "AI video editing",
-        "text-to-3D gaussian splatting"
+        "text to 3d",
+        "AI animation"
       ],
-      "filters": {"min_stars":80,"created_within_days":7},
-      "max_per_query": 5
+      "filters": {"min_stars": 200, "pushed_within_days": 30},
+      "max_per_query": 8
     }
   }
 }
