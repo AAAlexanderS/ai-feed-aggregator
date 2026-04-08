@@ -34,10 +34,11 @@ def load_seen_ids(window_days=30):
 def fetch_github(config):
     gh = config["platforms"]["github"]
     filters = gh["filters"]
-    since = (datetime.now(timezone.utc) - timedelta(days=filters["created_within_days"])).strftime("%Y-%m-%d")
+    days = filters.get("pushed_within_days", filters.get("created_within_days", 30))
+    since = (datetime.now(timezone.utc) - timedelta(days=days)).strftime("%Y-%m-%d")
     all_repos = []
     for query in gh["queries"]:
-        q = f"{query} created:>{since} stars:>={filters['min_stars']}"
+        q = f"{query} pushed:>{since} stars:>={filters['min_stars']}"
         url = f"https://api.github.com/search/repositories?q={urllib.parse.quote(q)}&sort=stars&order=desc&per_page={gh['max_per_query']}"
         try:
             req = urllib.request.Request(url, headers={"Accept":"application/vnd.github.v3+json","User-Agent":"AI-Feed"})
