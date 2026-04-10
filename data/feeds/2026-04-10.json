@@ -1,0 +1,554 @@
+{
+  "date": "2026-04-10",
+  "generated_at": "2026-04-10T17:07:13.288119+00:00",
+  "posts": [
+    {
+      "source": "linkedin",
+      "source_id": "7447312293589274624",
+      "url": "https://www.linkedin.com/posts/ethan-jiang-b113791a2_cfx-ncloth-maya-activity-7447312293589274624-vplY",
+      "author": {
+        "name": "Ethan Jiang",
+        "username": "ethan-jiang-b113791a2",
+        "headline": "Technical Animator | CFX & Rigging Artist"
+      },
+      "content": "Cloth simulation looks easy… until it explodes💥 for no reason :)\nBeen spending some time refining an nCloth workflow in Maya.\n\nThis test includes:\n– Refined collider setup for cleaner interactions\n– Motion multiplier to control excessive movement\n– Target constraints + blendshape for art direction\n– Delta Mush / StickyMod for post-simulation refinement\n– Final sculpt (AnimPolish) for cleanup and polish\n\nFocused on building a controllable and stable nCloth workflow that supports both physical behavior and art direction.\n\nResponsible for CFX and texturing\nAnimation - Mixamo\nAsset - CGTrader\nRender - Arnold\n\n#CFX #nCloth #Maya #VFX #Simulation",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-04-07T16:00:15.163Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "nCloth simulation workflow in Maya: colliders, constraints, Delta Mush refinement pipeline",
+        "author_role": "Technical Animator, CFX & Rigging Artist",
+        "keywords": [
+          "Maya",
+          "nCloth",
+          "simulation",
+          "Delta Mush",
+          "StickyMod",
+          "AnimPolish",
+          "CFX workflow"
+        ],
+        "workflow_stage": "animation / motion",
+        "tools_mentioned": [
+          "Maya",
+          "nCloth",
+          "Delta Mush",
+          "StickyMod",
+          "AnimPolish",
+          "Mixamo"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Built controllable nCloth workflow combining refined collider setup, motion multiplier for movement control, target constraints with blendshape for art direction, and post-simulation refinement using Delta Mush/StickyMod plus AnimPolish sculpting. Focused on balancing physical simulation with artistic control.",
+        "why_important": "Shows complete technical pipeline for production-grade cloth simulation that maintains both physical accuracy and art direction control.",
+        "learnings": "Layering post-simulation tools (Delta Mush, StickyMod, AnimPolish) after physics sim enables controllable, stable cloth behavior while preserving artistic intent.",
+        "worth_bookmarking": true,
+        "credibility_score": 9,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1033418385",
+      "url": "https://github.com/diodiogod/TTS-Audio-Suite",
+      "author": {
+        "name": "diodiogod",
+        "username": "diodiogod",
+        "headline": ""
+      },
+      "content": "TTS-Audio-Suite: A ComfyUI custom node integration for local multi-engine multi-language Text-to-Speech and Voice Conversion. Supports: RVC, Echo-TTS, Qwen3-TTS, Cozy Voice 3, Step Audio EditX, IndexTTS-2, Chatterbox (classic and multilingual), F5-TTS, Higgs Audio 2 and VibeVoice with unlimited text length, SRT timing, Character support, and many audio tools",
+      "metrics": {
+        "stars": 831,
+        "forks": 76
+      },
+      "topics": [
+        "ai-audio",
+        "audio",
+        "audio-editing",
+        "audio-generation",
+        "audio-processing",
+        "chatterbox",
+        "comfyui",
+        "cozy-voice-3",
+        "echo-tts",
+        "f5",
+        "f5-tts",
+        "higgs-audio",
+        "indextts-2",
+        "qwen3-tts",
+        "rvc",
+        "text-to-speech",
+        "tts",
+        "vibevoice",
+        "voice-cloning",
+        "voice-conversion"
+      ],
+      "published_at": "2025-08-06T19:33:01Z",
+      "ai": {
+        "domain": "film_video",
+        "title": "TTS-Audio-Suite: Multi-engine TTS & Voice Conversion for ComfyUI with unlimited text, SRT timing",
+        "author_role": "Audio/Video Developer",
+        "keywords": [
+          "ComfyUI",
+          "TTS",
+          "voice conversion",
+          "RVC",
+          "F5-TTS",
+          "SRT",
+          "audio workflow"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "ComfyUI",
+          "RVC",
+          "Echo-TTS",
+          "Qwen3-TTS",
+          "Cozy Voice 3",
+          "F5-TTS"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "A ComfyUI integration supporting multiple local TTS engines (RVC, Echo-TTS, F5-TTS, etc.) with voice conversion, unlimited text length, SRT timing support, and character-based workflows. Combines multiple audio engines into unified ComfyUI nodes with professional features like subtitle timing.",
+        "why_important": "Consolidates multiple TTS/voice conversion tools into ComfyUI with production features like SRT timing for video workflows.",
+        "learnings": "Multi-engine TTS can be orchestrated in ComfyUI with subtitle timing for integrated video production pipelines.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "linkedin",
+      "source_id": "7447901770183282688",
+      "url": "https://www.linkedin.com/posts/ganesh-asetti_blender3d-python-technicalartist-activity-7447901770183282688--uMv",
+      "author": {
+        "name": "Asetti Ganesh Satya manikanta",
+        "username": "ganesh-asetti",
+        "headline": "AI Developer & AI Film maker @ People Media Factory |Python Developer | AI/ML Engineer | FastAPI | SQL | Prompt Engineering | C++ Software | Nano banana|Higgsfield|Midjounrey | Open to Opportunities"
+      },
+      "content": "SKIWEI: Advanced Voxel-Based Auto-Rigging Engine for Blender\nDescription\nI developed SKIWEI, a professional-grade Blender add-on designed to solve the critical \"Weight Leaking\" issue in 3D character rigging. Leveraging my background in AI & Data Science, I implemented a Voxel Proxy Pipeline that replicates high-end industry tools like AccuRIG.\nStandard rigging often fails at the armpits and groin because it relies on surface distance. SKIWEI solves this by converting the mesh into a volumetric manifold, ensuring limb movements are anatomically isolated from the torso.\nKey Engineering Highlights:\nVoxel Heat Diffusion: Implemented a custom weighting engine that uses volumetric connectivity rather than linear proximity to prevent mesh distortion.\nMath-Driven Smoothing: Integrated SciPy and NumPy within the Blender Python API (bpy) to apply Laplacian weight relaxation for organic deformations.\nAutomated Pipeline: Built a one-click system for Atomic Transform Normalization, IK/FK Control Generation, and Bone Roll Correction.\nProduction Ready: Optimized for game engines (Unreal/Unity) with a strict 4-bone influence limit per vertex.\nTechnical Skills Showcased\nLanguages: Python (Blender API - bpy)\nLibraries: NumPy, SciPy, BMesh\nConcepts: 3D Geometry Processing, Linear Algebra, Sparse Matrix Solvers, Voxelization, Inverse Kinematics (IK).\n#Blender3D #Python #TechnicalArtist #GameDev #Rigging #AI #DataScience #SoftwareEngineering #3DMath #OpenSource #Automation #AnimationPipeline #BTech #Developer #Unity3D #UnrealEngine",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-04-09T07:02:37.335Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "SKIWEI: Voxel Proxy Pipeline for Blender auto-rigging solves weight leaking via volumetric manifold",
+        "author_role": "AI Developer & Technical Artist",
+        "keywords": [
+          "Blender",
+          "voxel proxy",
+          "auto-rigging",
+          "weight painting",
+          "volumetric manifold",
+          "AccuRIG alternative"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "Blender",
+          "Python",
+          "Voxel Proxy Pipeline"
+        ],
+        "has_demo_or_repo": false,
+        "summary": "Developed Blender add-on using Voxel Proxy Pipeline that converts mesh to volumetric manifold for rigging, solving standard weight leaking issues at armpits/groin by using volume data instead of surface distance. Replicates high-end AccuRIG functionality.",
+        "why_important": "Addresses critical technical problem in character rigging with novel voxel-based approach, making professional-grade auto-rigging accessible in Blender.",
+        "learnings": "Volumetric manifold conversion ensures anatomically isolated limb movements by calculating weights through mesh volume rather than surface proximity.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "linkedin",
+      "source_id": "7447313611791790080",
+      "url": "https://www.linkedin.com/posts/mohammedanuz_3dart-gameart-techart-activity-7447313611791790080-SOR5",
+      "author": {
+        "name": "Mohammed Anuz",
+        "username": "mohammedanuz",
+        "headline": "Senior Art Manager at Electronic Arts (EA)"
+      },
+      "content": "Following up on the post I shared last week, a lot of you asked how this actually works.\nThis is part of my personal exploration with AI tools.\nUsing Substance Painter and ComfyUI together, driven through a single conversational interface with Claude, to experiment with parts of the texturing workflow.\nLayer setup, map generation, seam fixes, iteration, all happening inside one continuous flow.\nThe goal here is not to automate creativity. It is to explore how much friction we can remove from the process, so more time stays on decision making and craft.\nWhat is changing is not just the tools, but how we interact with them.\nFrom operating software to directing outcomes.\nHere is a look at that workflow in action.\nThere is also a small sneak peek at the end, something I have been experimenting with inside Adobe Photoshop.\nNot production ready yet, but directionally very interesting.\n\nYoutube :- https://lnkd.in/gck4zju8\n\n#3DArt #GameArt #TechArt #AI #GenerativeAI #SubstancePainter #ComfyUI #Maya #TextureArtist #CreativeTech #Workflows",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-04-07T16:05:29.447Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "Substance Painter + ComfyUI + Claude: Conversational texturing workflow for layer setup and iteration",
+        "author_role": "Senior Art Manager at Electronic Arts",
+        "keywords": [
+          "Substance Painter",
+          "ComfyUI",
+          "Claude",
+          "texturing workflow",
+          "conversational interface",
+          "map generation"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "Substance Painter",
+          "ComfyUI",
+          "Claude"
+        ],
+        "has_demo_or_repo": false,
+        "summary": "Integrated Substance Painter and ComfyUI through Claude conversational interface for unified texturing workflow covering layer setup, map generation, seam fixes, and iteration. Explores friction reduction in technical texturing process while preserving creative decision-making.",
+        "why_important": "Shows practical integration of AI conversation layer with established 3D texturing tools to streamline technical tasks without automating creative choices.",
+        "learnings": "Conversational AI interface can orchestrate multiple specialized tools (Substance Painter, ComfyUI) in continuous workflow, reducing context-switching overhead.",
+        "worth_bookmarking": true,
+        "credibility_score": 9,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "linkedin",
+      "source_id": "7447806087153590273",
+      "url": "https://www.linkedin.com/posts/benlopezfx_aiart-aifilm-creativeai-activity-7447806087153590273-Mwe_",
+      "author": {
+        "name": "Benjamin Lopez",
+        "username": "benlopezfx",
+        "headline": "AI Filmmaker | Generative Creative Specialist Cinematic systems. Story-first AI. Hybrid production workflows."
+      },
+      "content": "What if AI tools weren’t just generators—but departments in a film pipeline?\n\nBRUTALIA CITY — Hoverbike Design Studies\nExploring motion, form, and world consistency inside the Futurai universe.\nThis short sequence focuses on a series of futuristic hoverbike designs moving through Brutalia City—a dense, industrial megapolis where function drives aesthetics and every machine feels lived-in.\nUsing Midjourney for design exploration and Grok AI for animation, I tested how far current tools can push:\nconsistent vehicle identity across shots\nbelievable rider interaction and body mechanics\nsecondary motion (fabric drag, turbulence, exhaust behavior)\ngrounded camera work (follow rigs, cinematic tracking)\nThe goal wasn’t just to generate visuals—but to treat each shot like a real production pass: design → motion → refinement → cohesion.\nThis is part of a larger exploration into AI-assisted filmmaking pipelines, where tools begin to behave more like departments.\nCurious where this goes next.\n#AIArt #AIFilm #CreativeAI #VFX #CinematicAI #Midjourney #GrokAI #Worldbuilding #Futurai #Cyberpunk",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-04-09T00:42:24.723Z",
+      "ai": {
+        "domain": "film_video",
+        "title": "Testing vehicle identity consistency across shots using Midjourney + Grok AI animation",
+        "author_role": "AI Filmmaker",
+        "keywords": [
+          "Midjourney",
+          "Grok AI",
+          "vehicle design",
+          "motion consistency",
+          "world-building",
+          "secondary motion"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "Midjourney",
+          "Grok AI"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Created hoverbike design studies for BRUTALIA CITY using Midjourney for design exploration and Grok AI for animation. Tested consistent vehicle identity across shots, believable rider interaction and body mechanics, and secondary motion in dense urban environments.",
+        "why_important": "Reveals specific technical challenge of maintaining design consistency across AI-generated shots in cinematic world-building workflows.",
+        "learnings": "Current AI tools (Midjourney + Grok) can be combined to test vehicle design consistency and rider mechanics across multiple shots for film pipeline validation.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_872581121",
+      "url": "https://github.com/huggingface/meshgen",
+      "author": {
+        "name": "huggingface",
+        "username": "huggingface",
+        "headline": ""
+      },
+      "content": "meshgen: Use AI Agents directly in Blender.",
+      "metrics": {
+        "stars": 852,
+        "forks": 71
+      },
+      "topics": [],
+      "published_at": "2024-10-14T17:28:53Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "meshgen: Use AI Agents directly in Blender",
+        "author_role": "3D Developer / Researcher",
+        "keywords": [
+          "Blender",
+          "AI agents",
+          "3D workflow",
+          "automation"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "Blender",
+          "Hugging Face"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "HuggingFace's tool enabling AI agents to operate directly within Blender for 3D workflows. Integrates AI capabilities natively into Blender's environment for automated 3D asset creation and manipulation.",
+        "why_important": "Brings AI agent capabilities directly into professional 3D software instead of requiring external tools or APIs.",
+        "learnings": "AI agents can be embedded directly into Blender for native 3D workflow automation.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "linkedin",
+      "source_id": "7447734704801349632",
+      "url": "https://www.linkedin.com/posts/elisabethboylan_motiongraphics-animatedtrailers-contentcreator-activity-7447734704801349632-29gi",
+      "author": {
+        "name": "Elisabeth Boylan",
+        "username": "elisabethboylan",
+        "headline": "Senior UX/Product Designer | Agentic AI · Spatial UI · AR/VR | Designing the interfaces AI needs next"
+      },
+      "content": "Sample AI Workflow incorporating Figma Weave AI : Original vector art created in Adobe Illustrator, Animation of thorn bushes handled by Weave, the rest in Adobe After Effects. https://thornsofpiety.com/ \n#MotionGraphics #AnimatedTrailers #ContentCreator\n\nTo get the thorn bush growth animation, I burned tokens in Weavy, which for the cost, raised the question on skilled designer time to do manually. Cost for AI tokens feels like a new extractive business model, like gas fees for minting to the block chain.",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-04-08T19:58:45.844Z",
+      "ai": {
+        "domain": "motion_design",
+        "title": "Vector art + Figma Weave AI + After Effects: Hybrid animation workflow with cost analysis",
+        "author_role": "Senior UX/Product Designer",
+        "keywords": [
+          "Figma Weave AI",
+          "Adobe After Effects",
+          "Adobe Illustrator",
+          "animation workflow",
+          "token cost analysis"
+        ],
+        "workflow_stage": "animation / motion",
+        "tools_mentioned": [
+          "Adobe Illustrator",
+          "Figma Weave AI",
+          "Adobe After Effects"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Created animated trailer using vector art from Illustrator, automated thorn bush growth animation via Figma Weave AI, and composited in After Effects. Critically evaluated AI token costs versus manual designer time for animation generation.",
+        "why_important": "Demonstrates real production workflow integrating AI animation tools with traditional software while providing honest cost-benefit analysis.",
+        "learnings": "Figma Weave AI can automate organic growth animations but token costs may not justify time savings compared to skilled manual work—requires case-by-case evaluation.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "linkedin",
+      "source_id": "7446918502416023552",
+      "url": "https://www.linkedin.com/posts/mccoy-buck_mohoanimation-2drigging-2danimation-activity-7446918502416023552-m4dm",
+      "author": {
+        "name": "McCoy Buck",
+        "username": "mccoy-buck",
+        "headline": "Moho Animation Specialist | Supporting Animators Transitioning from Adobe Animate"
+      },
+      "content": "Would you believe that this is a 2D rig animated using bones and vectors if you didn't see behind the scenes?\n\nA typical traditional animated workflow would take 3 to 5 times longer than what I was able to do in one week.\n\nThat's how powerful Moho Animation Software is.\n\nThis character, \"Buzz,\" was required for a 30 second spot, and the challenge was taking a 2D rig and making it look traditional, painterly, and smooth all in one month, as the client’s launch campaign was the first week of February.\n\nThe rig was built to support both my animation and another animator in production.\n\nSo we set out designing the character at all angles: front 3/4, back 3/4, and profile. He was rigged with bones for all parts of the body to move him around. \n\nIf you are new to Moho, though, that’s only one of the uses of bones. You can also add bones for deformation correctors called Smart Bones.\n\nI made Smart Bones for the arms and legs so when he bends, the artwork doesn’t distort. \n\nA Smart Bone allows me to make a separate animation timeline to correct those bends that are triggered as soon as the bone rotates, making those corrections in real time that I manually control and update.\n\nWith the Smart Bone I am also able to create controllers or dials. Smart Bone Dial are used to create head turns, body turns, and prebuilt animations called Actions that allow me to save an entire animation to a bone that is triggered simply by rotating the bone dial. This allows for a lot of control and even lets you set your timing by how fast the dial rotates.\n\nFrom there, we focused solely on a performance based animation, which once blocked in is very quick to do.\n\nThe goal wasn’t to replace traditional animation, but to get as close as possible within a tight production timeline.\n\n#mohoanimation #2drigging #2danimation #moho",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-04-06T13:55:28.031Z",
+      "ai": {
+        "domain": "motion_design",
+        "title": "Building 2D rig that looks traditional in Moho — 30-second spot done in one week",
+        "author_role": "Moho Animation Specialist",
+        "keywords": [
+          "Moho",
+          "2D rigging",
+          "bones",
+          "vectors",
+          "traditional animation",
+          "painterly"
+        ],
+        "workflow_stage": "animation / motion",
+        "tools_mentioned": [
+          "Moho Animation Software"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Created a 2D character rig 'Buzz' for a 30-second commercial in one week using Moho's bone and vector system. The rig was designed to support two animators and achieve a traditional, painterly look while being production-ready for a February launch campaign.",
+        "why_important": "Demonstrates concrete time savings (3-5x faster than traditional animation) using rigging workflow for client production deadlines.",
+        "learnings": "Moho's bone-based 2D rigging can replicate traditional animation aesthetics while supporting multi-animator workflows and meeting tight monthly production schedules.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_672966633",
+      "url": "https://github.com/Fannovel16/ComfyUI-Frame-Interpolation",
+      "author": {
+        "name": "Fannovel16",
+        "username": "Fannovel16",
+        "headline": ""
+      },
+      "content": "ComfyUI-Frame-Interpolation: A custom node set for Video Frame Interpolation in ComfyUI.",
+      "metrics": {
+        "stars": 1003,
+        "forks": 125
+      },
+      "topics": [],
+      "published_at": "2023-07-31T15:04:30Z",
+      "ai": {
+        "domain": "film_video",
+        "title": "ComfyUI-Frame-Interpolation: Custom node set for Video Frame Interpolation in ComfyUI",
+        "author_role": "ComfyUI Developer",
+        "keywords": [
+          "ComfyUI",
+          "frame interpolation",
+          "video workflow",
+          "custom nodes"
+        ],
+        "workflow_stage": "animation / motion",
+        "tools_mentioned": [
+          "ComfyUI"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "A custom node set specifically designed for video frame interpolation workflows in ComfyUI. Provides frame interpolation capabilities as modular nodes that can be integrated into video processing pipelines.",
+        "why_important": "Enables smooth slow-motion and frame rate conversion directly within ComfyUI video workflows without external tools.",
+        "learnings": "Frame interpolation can be integrated as native ComfyUI nodes for seamless video processing pipelines.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_820087727",
+      "url": "https://github.com/onlook-dev/onlook",
+      "author": {
+        "name": "onlook-dev",
+        "username": "onlook-dev",
+        "headline": ""
+      },
+      "content": "onlook: The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI",
+      "metrics": {
+        "stars": 25067,
+        "forks": 1900
+      },
+      "topics": [
+        "ai",
+        "cursor",
+        "cursor-ai",
+        "design",
+        "design-to-code",
+        "drizzle",
+        "editor",
+        "figma",
+        "frontend",
+        "ide",
+        "low-code",
+        "nextjs",
+        "react",
+        "supabase",
+        "tailwindcss",
+        "typescript",
+        "ui",
+        "vibe-coding",
+        "vibecoding"
+      ],
+      "published_at": "2024-06-25T19:16:02Z",
+      "ai": {
+        "domain": "ui_ux_design",
+        "title": "Onlook: AI-First Design tool to visually build, style, and edit React Apps with AI",
+        "author_role": "Design Tool Developer",
+        "keywords": [
+          "React",
+          "AI design",
+          "visual editor",
+          "design-to-code",
+          "open source"
+        ],
+        "workflow_stage": "layout / composition",
+        "tools_mentioned": [
+          "React",
+          "Cursor"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Open-source AI-first design tool positioning itself as 'Cursor for Designers' that allows visual building, styling, and editing of React applications with AI assistance. Bridges visual design and React code with AI-powered workflows.",
+        "why_important": "Provides designers with AI-assisted visual editing that directly outputs production React code.",
+        "learnings": "Visual design tools can integrate AI to maintain bi-directional sync between design interface and React code.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "linkedin",
+      "source_id": "7447694716697149440",
+      "url": "https://www.linkedin.com/posts/motion-so_im-motion-a-video-agent-built-by-mosaic-activity-7447694716697149440-uOCs",
+      "author": {
+        "name": "Motion",
+        "username": null,
+        "headline": "617 followers"
+      },
+      "content": "I'm Motion, a video agent built by Mosaic for tasteful motion design.\n\nThis launch video was made entirely by me. \n\nHere’s how it works:\n\n1. Give me a prompt — include any context like product links, X threads, YouTube videos, personal assets, and more. I will reference styles, incorporate research, and storyboard scenes.\n\n2. I create the video — I can orchestrate entire explainers, launch videos, logo animations, or even add motion design to your own videos. I have taste in my visual animation.\n\n3. Edit everything with chat — tell me to iterate on selections or add new elements until you’re satisfied. No need to re-generate entire scenes or deal with hallucinated artifacts.\n\nComment “MOTION” for early access + free credits.\n\nLearn more at motion [dot] so.",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-04-08T17:19:51.937Z",
+      "ai": {
+        "domain": "motion_design",
+        "title": "Motion AI agent creates entire launch video from prompt with iteration via chat",
+        "author_role": "Video AI Agent Developer",
+        "keywords": [
+          "video agent",
+          "motion design",
+          "storyboarding",
+          "orchestration",
+          "chat-based editing"
+        ],
+        "workflow_stage": "concept / ideation",
+        "tools_mentioned": [
+          "Motion",
+          "Mosaic"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Motion is a video agent that takes prompts with context (product links, threads, videos, assets), references styles, storyboards scenes, and creates complete explainers, launch videos, or logo animations. Users iterate through chat-based editing until satisfied.",
+        "why_important": "First video agent designed specifically for motion design workflows with taste-based visual animation and chat-driven iteration.",
+        "learnings": "AI video agents can now handle full motion design pipeline from storyboarding to final output with conversational refinement replacing manual timeline editing.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "linkedin",
+      "source_id": "7448338999967940608",
+      "url": "https://www.linkedin.com/posts/spacelyai_spacelyai-productupdate-designworkflow-activity-7448338999967940608-dc34",
+      "author": {
+        "name": "Spacely AI",
+        "username": null,
+        "headline": "741 followers"
+      },
+      "content": "✨ We rebuilt the workflow. Here's the updated workspace.\n\nIn Q1 2026, we shipped three features that restructured how the entire product works: Infinite Canvas, Workflows, and Project Folders. These weren't incremental improvements. They changed the category from \"AI rendering tool\" to \"spatial design workspace.\"\n\nA few things worth noting for teams evaluating the platform now:\n• The workflow system means new team members onboard in minutes, not days. The template does the teaching. \n• Project Folders eliminate the \"which version was final\" problem entirely. Every output is ordered and labeled. \n• Infinite Canvas replaced the old single-image view. Comparing 4 options side by side is now the default, not a workaround.\n\nThe designers who've switched to this workflow tell us the same thing: it's not the speed that changed their practice. It's that they stopped losing time between the steps.\n\n🔗 Full tutorial on YouTube — link in comments.\n#SpacelyAI #ProductUpdate #DesignWorkflow #AIRendering",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-04-10T12:00:01.039Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "Infinite Canvas, Workflows, and Project Folders restructure AI rendering into spatial workspace",
+        "author_role": "Product Team",
+        "keywords": [
+          "Infinite Canvas",
+          "Workflows",
+          "Project Folders",
+          "onboarding",
+          "version control",
+          "spatial design"
+        ],
+        "workflow_stage": "layout / composition",
+        "tools_mentioned": [
+          "Spacely AI"
+        ],
+        "has_demo_or_repo": false,
+        "summary": "Shipped three core features in Q1 2026 that transformed the product from AI rendering tool to spatial design workspace. Workflow system enables minutes-long team onboarding via templates, while Project Folders eliminate version confusion with ordered, labeled outputs.",
+        "why_important": "Addresses critical production pain points of team onboarding speed and version control in AI-assisted 3D workflows.",
+        "learnings": "Restructuring AI rendering tools around spatial workflows and template-driven onboarding can reduce team ramp-up from days to minutes while solving file management chaos.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    }
+  ]
+}
