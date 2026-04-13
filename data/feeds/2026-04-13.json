@@ -1,0 +1,454 @@
+{
+  "date": "2026-04-13",
+  "generated_at": "2026-04-13T09:53:31.795961+00:00",
+  "posts": [
+    {
+      "source": "linkedin",
+      "source_id": "7448789622001668096",
+      "url": "https://www.linkedin.com/posts/alonsojon_how-blender-mcp-connects-claude-ai-to-3d-activity-7448789622001668096-TxtE",
+      "author": {
+        "name": "Jonathan Alonso",
+        "username": "alonsojon",
+        "headline": "Digital Marketing GeeK, SEO Ninja"
+      },
+      "content": "I just published a deep dive on one of the most exciting open-source tools I've found this year: Blender MCP. It connects Claude AI directly to Blender through Anthropic's Model Context Protocol, letting you create, modify, and control 3D scenes with natural language commands. Not a text-to-3D generator — a genuine bidirectional bridge between AI and your existing Blender workflow. With 16,300+ GitHub stars, this isn't a toy. I covered the architecture, real capabilities, honest limitations, and what this pattern means for the future of creative tooling. If you work in 3D, game dev, or creative tech — worth a read: https://lnkd.in/eypfPumf",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-04-11T17:50:37.704Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "Blender MCP connects Claude AI directly to Blender via Model Context Protocol for natural language 3D control",
+        "author_role": "Digital Marketing / Technical Writer",
+        "keywords": [
+          "Blender",
+          "Claude",
+          "MCP",
+          "Model Context Protocol",
+          "natural language",
+          "3D workflow"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "Blender",
+          "Claude",
+          "MCP"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Deep dive on Blender MCP, an open-source tool with 16,300+ GitHub stars that creates bidirectional bridge between Claude AI and Blender. Enables natural language commands to create, modify, and control 3D scenes, not as text-to-3D generator but as workflow integration.",
+        "why_important": "First concrete implementation of AI-native control layer for professional 3D tool via MCP protocol pattern.",
+        "learnings": "MCP protocol enables bidirectional communication between AI and existing creative tools, different from one-way text-to-3D generation.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "linkedin",
+      "source_id": "7448412930930262016",
+      "url": "https://www.linkedin.com/posts/marta-soto-morr%C3%A1s-56570a96_creativecoding-motiondesign-webdev-activity-7448412930930262016-mOIv",
+      "author": {
+        "name": "Marta Soto Morrás",
+        "username": "marta-soto-morrás-56570a96",
+        "headline": "Creative technologist | Design engineer"
+      },
+      "content": "What if animations felt more like you? Not perfectly smooth. Not mathematically “correct”. But human.\n\nMost motion we see today (maybe also the internet 🙂) follows the same patterns: ease-in, ease-out, cubic-beziers. Reliable… but predictable.\n\nSo I built Tweener.\nIt turns human input into animation curves 📈:\n→ Draw a gesture with your mouse or record a sound\n→ It fits a function and turns it into motion\n→ Preview it with particles or loaders \nSuddenly transitions feel messy, expressive… even a bit weird.\nOnce you like it, export directly to JavaScript, GLSL, HLSL, Java, C++, or C#.\n\nThe fun part?\nI originally built this in Processing back in 2016 with Christian Mio Loclair during my time at Waltz Binaire in Berlin.\nTen years later (with some help from AI tools), I brought it back as a web app.\n\nGive it a try it here, drag and drop to see your motion applied to digital transitions, and don't miss the icons in the \"play\" tab!\n👉 https://lnkd.in/eQe7h7g9\n\nAlso, here is the original code made public (those 118 icons were written manually one by one, total craft) \n👉 https://lnkd.in/eR3xyeuu\n\n[video of the original demo from 2016]\n\n#creativecoding #motiondesign #webdev #hci #processing",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-04-10T16:53:47.554Z",
+      "ai": {
+        "domain": "motion_design",
+        "title": "Tweener: convert human mouse gestures and sound recordings into custom animation curves with code export",
+        "author_role": "Creative Technologist / Design Engineer",
+        "keywords": [
+          "animation curves",
+          "custom easing",
+          "gesture input",
+          "code export",
+          "motion design tool"
+        ],
+        "workflow_stage": "animation / motion",
+        "tools_mentioned": [
+          "Tweener"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Built Tweener tool that converts human input (mouse gestures or sound recordings) into animation curves. Fits functions to human motion, previews with particles/loaders, exports directly to JavaScript, GLSL, HLSL, Java, C++, or C#.",
+        "why_important": "Addresses limitation of mathematically perfect easing by capturing organic human motion as reusable animation curves across platforms.",
+        "learnings": "Human gesture input can be function-fitted and exported as code-based animation curves to multiple languages, creating expressive alternatives to standard easing.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "linkedin",
+      "source_id": "7448377166305837056",
+      "url": "https://www.linkedin.com/posts/thenatechambers_my-designer-just-shipped-production-code-activity-7448377166305837056-ZBOt",
+      "author": {
+        "name": "Nate Chambers",
+        "username": "thenatechambers",
+        "headline": "Building agentic AI for growth marketers | Product at DTCo & ORCA | AI Growth for GTM to 9 figure brands"
+      },
+      "content": "My designer just shipped production code.\n\nNot a Figma file. Not even a \"working\" prototype in Magic Patterns. \n\nWorking code, in our repo, live on the site.\n\nDustin L. at Ballpark used to design in Figma, then we'd rebuild it, trying to get everything to \"match\". Now he builds directly in Cursor, on our actual codebase.\n\nThe design IS the implementation.\n\nIf it looks wrong, he fixes it. If it breaks, he sees it immediately and can tap us in for help. No more translation layer between design and reality.\n\nTurns out the best way to get the UI you want is to let the person with taste build it themselves.\n\nWhat ways are you seeing or leveraging AI / vibecoding to collapse the workflow?",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-04-10T14:31:40.603Z",
+      "ai": {
+        "domain": "ui_ux_design",
+        "title": "Designer ships production code via Cursor directly to live site, bypassing Figma handoff",
+        "author_role": "Product Lead",
+        "keywords": [
+          "Cursor",
+          "Figma",
+          "design-to-code",
+          "production deployment",
+          "design implementation"
+        ],
+        "workflow_stage": "handoff / production",
+        "tools_mentioned": [
+          "Cursor",
+          "Figma",
+          "Magic Patterns"
+        ],
+        "has_demo_or_repo": false,
+        "summary": "Designer at Ballpark now builds UI directly in Cursor on the actual codebase instead of designing in Figma and handing off. Design becomes the implementation, eliminating translation layer between design and reality.",
+        "why_important": "Demonstrates viable shift from design-handoff model to designers shipping code directly using AI coding tools.",
+        "learnings": "Using Cursor on production codebase allows designers to see breakage immediately and fix UI issues without developer translation layer.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1159938129",
+      "url": "https://github.com/ZSeven-W/openpencil",
+      "author": {
+        "name": "ZSeven-W",
+        "username": "ZSeven-W",
+        "headline": ""
+      },
+      "content": "openpencil: The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.",
+      "metrics": {
+        "stars": 2198,
+        "forks": 202
+      },
+      "topics": [
+        "agent",
+        "agent-team",
+        "ai",
+        "claude",
+        "claude-code",
+        "codex",
+        "fimga",
+        "flutter",
+        "html",
+        "mcp",
+        "opencode",
+        "openpencil",
+        "pencil",
+        "react",
+        "react-native",
+        "svelte",
+        "ui",
+        "vibecoding",
+        "vibedesign",
+        "vue"
+      ],
+      "published_at": "2026-02-17T10:51:46Z",
+      "ai": {
+        "domain": "ui_ux_design",
+        "title": "openpencil: AI-native vector design tool with concurrent Agent Teams and Design-as-Code",
+        "author_role": "Software Developer / Design Tool Creator",
+        "keywords": [
+          "vector design",
+          "AI-native",
+          "Agent Teams",
+          "Design-as-Code",
+          "prompt-to-UI",
+          "canvas"
+        ],
+        "workflow_stage": "concept / ideation",
+        "tools_mentioned": [
+          "openpencil"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "openpencil is an open-source AI-native vector design tool featuring concurrent Agent Teams and Design-as-Code capabilities. It allows users to turn prompts into UI directly on a live canvas, positioning itself as a modern alternative to Pencil.",
+        "why_important": "First open-source tool to combine AI-driven design generation with multi-agent workflows on a live canvas, enabling direct prompt-to-UI translation.",
+        "learnings": "Demonstrates how concurrent AI agents can work together in vector design workflows, with Design-as-Code approach allowing programmatic UI generation from natural language.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "linkedin",
+      "source_id": "7446584560953389056",
+      "url": "https://www.linkedin.com/posts/zbaumel_curious-how-other-designers-are-actually-activity-7446584560953389056-qFaZ",
+      "author": {
+        "name": "Zack Baumel",
+        "username": "zbaumel",
+        "headline": "Product Design Leader"
+      },
+      "content": "Curious how other designers are actually using AI in their workflow right now… \n\nMy team’s been leaning into it, and honestly it has completely changed how I work. I’m spending way less time in Figma than I used to. More time prompting in Claude Code and Cursor, building prototypes that behave like real products.\n\nA typical flow for me now looks like this…Start with a rough draft or mockup in Figma. Bring it into Claude to spin up working prototypes with toggles for variations. Iterate in code. Then back to Figma to clean things up, lay out flows, and make it presentable.\n\nWe’re not trying to turn designers into engineers. But we are starting to hand off code artifacts alongside Figma. Where it starts to get messy is around design systems.\n\nThings look right… but aren’t actually connected to anything. In Claude, it’s not using our actual components or props. Coming back into Figma, components are lookalikes instead of true DS components. We can use tokens or a design.md file, though it’s still just referencing the system, not plugged into it. \n\nIt’s faster for sure, but at either end, someone has to reconcile it…designers swapping things back to real components or engineers interpreting what it should map to.\n\nWhat’s the right mental model is here?\n\nIs the goal to force tighter connections between AI ↔ design system ↔ code? Or do we accept that this middle layer is a bit “detached” and design around that?\n\nWould love to hear how others are handling this…especially if you’ve found a way to keep things truly connected end-to-end.",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-04-05T15:48:30.182Z",
+      "ai": {
+        "domain": "ui_ux_design",
+        "title": "Figma to Claude Code to Cursor workflow: building working prototypes instead of static mockups",
+        "author_role": "Product Design Leader",
+        "keywords": [
+          "Claude Code",
+          "Cursor",
+          "Figma",
+          "prototyping",
+          "code-based design"
+        ],
+        "workflow_stage": "iteration / refinement",
+        "tools_mentioned": [
+          "Figma",
+          "Claude Code",
+          "Cursor"
+        ],
+        "has_demo_or_repo": false,
+        "summary": "Design leader describes shifting from heavy Figma usage to prompting in Claude Code and Cursor. Workflow: rough draft in Figma → Claude for working prototypes with variation toggles → iterate in code → back to Figma to clean up flows.",
+        "why_important": "Shows concrete multi-tool workflow bridging design and code with AI, reducing time in traditional design tools.",
+        "learnings": "Claude can spin up working prototypes with toggle variations from Figma drafts, enabling code-based iteration before final layout.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "linkedin",
+      "source_id": "7448104963496554497",
+      "url": "https://www.linkedin.com/posts/parth-patel-6968601a7_botanical-cards-with-a-focus-on-how-to-create-activity-7448104963496554497-7qqE",
+      "author": {
+        "name": "Parth Patel",
+        "username": "parth-patel-6968601a7",
+        "headline": "Creative technologist"
+      },
+      "content": "Botanical Cards with a focus on how to create a visual interface for scientific information. \n\nBuilding on previous workflow of Google AI Studio and Cavalry, images comes from Nano Banana as first frame and last frame. Using Kling AI, generate a background loop with first and last frame. All the diagrams come from Nano Banana as well, later turned into vector drawings. All of the motion is entirely done in Cavalry including the liquid glass.\n\nAll the text information is retrieved from https://lnkd.in/emCQHmzQ\n\nWhat's the trouble here?\nIts hard to get a real time data in this pipeline, one can still export google data sheets but otherwise its messy to create a system for this workflow. What if this needs to be scaled for thousands of species? Scaling is more interesting problem to solve. The workflow lacks interactivity element as well but this can work great for pre-developed catalogues.",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-04-09T20:30:02.396Z",
+      "ai": {
+        "domain": "motion_design",
+        "title": "Botanical Cards: Google AI Studio + Cavalry workflow with Nano Banana frames and Kling AI background loops",
+        "author_role": "Creative Technologist",
+        "keywords": [
+          "Google AI Studio",
+          "Cavalry",
+          "Nano Banana",
+          "Kling AI",
+          "motion design",
+          "vector animation"
+        ],
+        "workflow_stage": "animation / motion",
+        "tools_mentioned": [
+          "Google AI Studio",
+          "Cavalry",
+          "Nano Banana",
+          "Kling AI"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Creates scientific information cards using Nano Banana for first/last frames, Kling AI for background loops, converts diagrams to vectors, and does all motion in Cavalry including liquid glass effects. Google AI Studio retrieves text information.",
+        "why_important": "Shows concrete multi-tool pipeline integrating AI generation with professional motion design tool for scientific visualization.",
+        "learnings": "Nano Banana can provide keyframe bookends for Kling AI loop generation; Cavalry handles complex motion including liquid glass effects on AI-generated assets.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "linkedin",
+      "source_id": "7448624163679932416",
+      "url": "https://www.linkedin.com/posts/ahmed-elmatarawi-85515622_animation-3d-anim-activity-7448624163679932416-4jJ0",
+      "author": {
+        "name": "Ahmed Elmatarawi",
+        "username": "ahmed-elmatarawi-85515622",
+        "headline": "Filmmaker / Rigger / Animator"
+      },
+      "content": "🎉 AI Experiment #2 Responsible for building an AI pipeline node system that looks at Maya view-port and adds environment, fur, texture, color and render of your choice in under a minute!\n📌 I’ll be sharing a step-by-step breakdown soon once everything is fully organized on this channel:\n\nhttps://lnkd.in/eGRBJGQV\n\n\nBjorn rig can be downloaded here: https://lnkd.in/eEMvg-eE\n\n#animation #3d #anim #animation #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #animation #3d #anim #animation #ai #maya",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-04-11T06:53:09.366Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "AI pipeline node system renders Maya viewport with environment, fur, texture in under 1 minute",
+        "author_role": "Filmmaker / Rigger / Animator",
+        "keywords": [
+          "Maya",
+          "AI pipeline",
+          "viewport rendering",
+          "node system",
+          "automated texturing"
+        ],
+        "workflow_stage": "rendering / export",
+        "tools_mentioned": [
+          "Maya"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Built AI pipeline node system that analyzes Maya viewport and adds environment, fur, texture, color and final render in under a minute. Step-by-step breakdown coming on dedicated channel.",
+        "why_important": "Demonstrates automated AI-driven rendering pipeline for Maya that drastically reduces manual texturing and environment setup time.",
+        "learnings": "Node-based AI system can parse Maya viewport state and apply full rendering pipeline (environment, fur, materials) in sub-minute timeframe.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "linkedin",
+      "source_id": "7447906955081297920",
+      "url": "https://www.linkedin.com/posts/francesca-fini-74606882_aifilmmaking-computationaldesign-generativeai-activity-7447906955081297920-RyGv",
+      "author": {
+        "name": "Francesca Fini",
+        "username": "francesca-fini-74606882",
+        "headline": "AI performance Art | simulation-based video art | Invideo - Dreamina - Kling CPP"
+      },
+      "content": "AI to 3D with Claude, starting from a single image 🦴\n\nOne of the most important things in my AI-generated performances is spatial coherence. Not just making a beautiful image, but building a reusable environment that can hold multiple shots and inevitable actions without collapsing in perspective, proportion, or logic.\nThere are many commercial tools that are heavily addressing this issue (proving my point), especially in workflows based on Gaussian splats. \nBut for me, the most reliable solution is still a more grounded one: rebuilding the space in 3D.\n\nRecently, I found a way to make that process much faster by combining Claude, Python, and Blender. Here’s the workflow.\n\nI started from a single north view of the AI space.\nFrom that image, I generated the other three views — south, east, and west—using Luma Uni-1 model, which, in my experience, understands space, spatial coordinates, and perspective much better than NanoBanana. \nI’ll share that workflow soon, especially because it works very well for building equirectangular scenes for VR or Gaussian splatting applications.\n\nI then created a custom Claude script that takes those four views and generates Python code to reconstruct the architecture inside Blender.\nWhat Claude produces is not just a visual interpretation of the space, but a parametric architectural blueprint in code. That means I can keep refining the environment simply by talking to Claude: adjusting dimensions, proportions, relationships, and details before stepping in manually.\nThe result is not a pixel-perfect copy of the original images, but it is an extremely strong starting point: a fully parametric model, already structured and lit, ready to be refined.\n\nFrom there, I texture the model manually and render the space properly to create a consistent, spatially coherent environment for all shots.\nI also place mannequin placeholders for the characters, which I later replace with final characters rendered through any Image editing tool (Nanobanana Pro, UNI-1, Seedream), using reference datasets to maintain character consistency.\nFor this video experiment, I worked with the raw geometry of the space, still very basic, with simple lighting and no texturing, and used Dreamina AI + Seedance 2 for character animation.\n\nSo the workflow becomes:\nAI-generated concept → parametric 3D reconstruction → manual texturing → placeholder staging → Character re-rendering from placeholders → Animation\nEach step informs the next. It creates a bridge between generative AI and actual spatial construction, which, for now, is still the most effective way I’ve found to achieve cinematic consistency.\nAI can generate a scene.\nBut if you want that scene to behave like a real place across multiple shots, 3D still matters.\n\n#AIFilmmaking #ComputationalDesign #GenerativeAI #CreativeTechnology #DigitalArt #AIWorkflow #VirtualProduction #Python #ParametricArchitecture #VirtualStaging #Blender3D #AITools #Luma #UNI1 #Dreamina #DreaminaCPP",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-04-09T07:23:13.511Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "AI to 3D with Claude: rebuilding spatial environments from single images for multi-shot coherence",
+        "author_role": "AI Performance Artist",
+        "keywords": [
+          "Claude",
+          "3D reconstruction",
+          "spatial coherence",
+          "Gaussian splats",
+          "single image to 3D"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "Claude"
+        ],
+        "has_demo_or_repo": false,
+        "summary": "For AI-generated performances requiring spatial coherence across multiple shots, rebuilt 3D environments from single images using Claude. More reliable than commercial Gaussian splat tools for maintaining perspective, proportion, and logic across reusable environments.",
+        "why_important": "Addresses critical spatial coherence problem in AI video by using 3D reconstruction instead of pure generative approaches.",
+        "learnings": "Claude can assist in rebuilding 3D environments from single images to ensure reusable spatial coherence for multi-shot AI video productions.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "linkedin",
+      "source_id": "7446959163810693120",
+      "url": "https://www.linkedin.com/posts/muskangoyal170_can-ai-replace-ad-filmmaking-from-idea-activity-7446959163810693120-cS41",
+      "author": {
+        "name": "Muskan Goyal",
+        "username": "muskangoyal170",
+        "headline": "AI Generalist | Video Editor | Turning Ideas into AI-Powered Visual Stories | DU"
+      },
+      "content": "Can AI Replace Ad Filmmaking?\n\nFrom idea to final frame, this entire cinematic was crafted using AI.\n\nWorkflow 👇\n🧠 Research & Script: Claude, Google AI Studio, ChatGPT\n🎬 Storyboard & Visual Development: Nano Banana, Cinematic Studio, Seedream 5.0 Lite, Topaz\n🎥 Video Generation: Kling AI, Sora\n🎞️ Post Production: CapCut (editing), ElevenLabs (voiceover), Suno AI (music)\n\nChallenges 🎯\nMaintaining character consistency & achieving a realistic cinematic feel\n\nSolutions 💡\nSeed locking for consistent characters + highly detailed prompting for better visual control\n\nThis isn’t just AI… it’s storytelling reimagined.",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-04-06T16:37:02.463Z",
+      "ai": {
+        "domain": "film_video",
+        "title": "Complete AI Ad Film Workflow: Claude → Kling AI → CapCut with Seed Locking",
+        "author_role": "AI Video Editor",
+        "keywords": [
+          "Kling AI",
+          "Sora",
+          "seed locking",
+          "character consistency",
+          "CapCut",
+          "Claude",
+          "ElevenLabs",
+          "Suno AI"
+        ],
+        "workflow_stage": "concept / ideation | asset creation | rendering / export | iteration / refinement",
+        "tools_mentioned": [
+          "Claude",
+          "Google AI Studio",
+          "ChatGPT",
+          "Nano Banana",
+          "Cinematic Studio",
+          "Seedream 5.0 Lite",
+          "Topaz",
+          "Kling AI",
+          "Sora",
+          "CapCut",
+          "ElevenLabs",
+          "Suno AI"
+        ],
+        "has_demo_or_repo": false,
+        "summary": "Created full cinematic ad using AI end-to-end: Claude/ChatGPT for script, Kling AI/Sora for video generation, CapCut for editing, ElevenLabs for voiceover, Suno AI for music. Solved character consistency challenges using seed locking technique combined with detailed prompting for visual control.",
+        "why_important": "Demonstrates complete production pipeline for AI-generated advertising with specific solution to character consistency problem.",
+        "learnings": "Seed locking combined with highly detailed prompts solves character consistency issues in AI video generation workflows.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "linkedin",
+      "source_id": "7449326610736123905",
+      "url": "https://www.linkedin.com/posts/sriee-sai-saravanan-39033b221_figma-weave-and-higgsfield-are-changing-everything-activity-7449326610736123905-UOmr",
+      "author": {
+        "name": "Sriee Sai Saravanan",
+        "username": "sriee-sai-saravanan-39033b221",
+        "headline": "Motion Graphic Designer | Product Videos & Explainer Videos for SaaS | AI creations and branding | Transforming Complex Ideas into Engaging, Brand-Boosting Visual Stories"
+      },
+      "content": "Figma Weave and Higgsfield are changing everything for motion designers like me.\n\nHere's why I'm obsessed:\n\nFigma Weave lets me:\n→ Turn static designs into animations instantly\n→ Collaborate with my team in real-time\n→ No more exporting files back and forth\n→ Design and animate in one place\n\nHiggsfield blows my mind because:\n→ AI creates video from text prompts\n→ Full control over motion and timing\n→ Generates character animations automatically\n→ Cuts my workflow time in half\n\nThe trend? AI-powered motion is here.\n\nDesigners who adapt now will lead tomorrow.\n\nI'm not replacing my skills.\n\nI'm amplifying them.\n\nMore time for creativity.\nLess time on repetitive tasks.\nBetter results for clients.\n\nThe future of motion design is collaborative AI tools that understand our creative vision.\n\nAre you using AI in your design process yet?\n\nDrop a comment and let me know what tools you're exploring.",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-04-13T05:24:25.795Z",
+      "ai": {
+        "domain": "motion_design",
+        "title": "Figma Weave and Higgsfield are changing everything for motion designers like me.",
+        "author_role": "Motion Graphic Designer",
+        "keywords": [
+          "Figma Weave",
+          "Higgsfield",
+          "AI motion",
+          "real-time collaboration",
+          "character animation"
+        ],
+        "workflow_stage": "animation / motion | iteration / refinement",
+        "tools_mentioned": [
+          "Figma Weave",
+          "Higgsfield"
+        ],
+        "has_demo_or_repo": false,
+        "summary": "Figma Weave enables design-to-animation in one tool with real-time team collaboration, eliminating file exports. Higgsfield generates character animations from text prompts with full motion/timing control, cutting workflow time in half.",
+        "why_important": "Shows how AI motion tools are collapsing traditional design-to-animation handoffs into unified workflows.",
+        "learnings": "Figma Weave eliminates export cycles by combining design and animation; Higgsfield automates character animation generation while maintaining creative control.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 7
+      }
+    }
+  ]
+}
