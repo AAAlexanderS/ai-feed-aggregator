@@ -155,10 +155,16 @@ def process_posts(posts: list[dict], config: dict = None) -> list[dict]:
             print(f"    [AI] Error: {e}")
 
     # Sort by combined score
+    SOURCE_WEIGHT = {
+        "x_twitter": 3,   # X 内容质量更高，加权 +3
+        "github": 2,      # GitHub 也是优质源
+        "linkedin": 0,    # LinkedIn 不加权
+    }
     enriched.sort(
         key=lambda p: (
             p.get("ai", {}).get("credibility_score", 0)
             + p.get("ai", {}).get("creative_workflow_value", 0)
+            + SOURCE_WEIGHT.get(p.get("source", ""), 0)
         ),
         reverse=True
     )
