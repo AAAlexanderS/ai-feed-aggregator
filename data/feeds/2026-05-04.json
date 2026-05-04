@@ -1,287 +1,274 @@
 {
   "date": "2026-05-04",
-  "generated_at": "2026-05-04T08:53:06.114606+00:00",
+  "generated_at": "2026-05-04T10:12:42.479216+00:00",
   "posts": [
     {
-      "source": "linkedin",
-      "source_id": "7455117827314720768",
-      "url": "https://www.linkedin.com/posts/bruce-chen-153976b1_claude-aftereffects-activity-7455117827314720768-IrTk",
+      "source": "x_twitter",
+      "source_id": "2049907755134374068",
+      "url": "https://twitter.com/shedntcare_/status/2049907755134374068",
       "author": {
-        "name": "Bruce Chen",
-        "username": "bruce-chen-153976b1",
-        "headline": "Motion Designer / Supervisor"
+        "name": "Tulsi Soni",
+        "username": "shedntcare_",
+        "headline": "Daily updates about AI | 571k+ AI Community • AI Creator for your Brand • Influencer Marketing • biz : sonitulsi999@gmail.com 📨",
+        "followers": 153125
       },
-      "content": "Imagine the next generation motion designer's workflow✨\n ⠀\nOne sentence → AI scrapes data → AI operates AE → Done & Export\n ⠀\nI spent some time \"teaching\" #Claude how to operate #AfterEffects and build animations.\n\nHere's a quick example to show how AI executes this kind of task ⬇️\n ⠀\n\"Generate a temperature chart for Taipei next week\"\n ⠀\n→ Claude scrapes the weather data on its own\n→ Enters After Effects via AE MCP\n→ Based on what I taught it, auto-generates all the chart elements\n→ Applies motion based on my design preferences, curves, easing...\n→ Exports the video to my desktop\n ⠀\nOutside of cutting the waiting time.\nI didn't click a single button in After Effects.\n\nBasic demo? Sure. But it gave me a lot to think about. 🫨\n———\nCompared to \"prompt lottery\" workflows, throwing prompts at AI and hoping something good comes out.\nI'm more of an AI augmentation type.\n ⠀\nI find the edges of what AE can/can't do, then use AI to push those boundaries a little further.\n ⠀\nFor me, figuring out the next generation of motion design workflow is the most interesting part.\n———\nThe most fun fact:\nThis was something I could pull off in my first week of using Claude.\nNow my AE × AI work is already going places I didn't expect. 🤣\n ⠀\nCurious who else is exploring AI + creative tool integrations like this?",
+      "content": "Claude Code is terrible at UI — everyone knows it.\n\nThis repo fixes it.\n\nIt’s called awesome-design-md by VoltAgent.\n\n→ 31 real DESIGN.md files from Stripe, Vercel, Notion, Apple, NVIDIA\n→ Drop one file into your project\n→ Tell your AI: “build like this”\n→ It actually matches https://t.co/UW1c2Q5zp8",
+      "metrics": {
+        "likes": 103,
+        "retweets": 21,
+        "replies": 20,
+        "views": 0,
+        "bookmarks": 20
+      },
+      "published_at": "Thu Apr 30 17:44:28 +0000 2026",
+      "ai": {
+        "domain": "ui_ux_design",
+        "title": "Claude Code UI 개선: Stripe, Vercel, Notion 등 31개 실제 DESIGN.md 파일 활용",
+        "author_role": "AI Updates Curator / Community Builder",
+        "keywords": [
+          "Claude Code",
+          "DESIGN.md",
+          "VoltAgent",
+          "UI generation",
+          "design systems"
+        ],
+        "workflow_stage": "layout / composition | handoff / production",
+        "tools_mentioned": [
+          "Claude Code",
+          "VoltAgent",
+          "awesome-design-md"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "VoltAgent의 awesome-design-md 레포는 Stripe, Vercel, Notion, Apple, NVIDIA의 31개 실제 DESIGN.md 파일을 제공. 프로젝트에 파일 하나를 추가하고 AI에게 '이처럼 만들어'라고 지시하면 실제 디자인 시스템과 일치하는 UI를 생성.",
+        "why_important": "Claude Code의 UI 생성 약점을 실제 기업의 디자인 시스템 문서로 보완하여 실무 수준의 출력물 생성 가능.",
+        "learnings": "DESIGN.md 파일을 프로젝트에 포함시키면 AI가 구체적인 디자인 시스템 컨텍스트를 기반으로 일관된 UI를 생성할 수 있음.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "x_twitter",
+      "source_id": "2049742274557608100",
+      "url": "https://twitter.com/lucas_flatwhite/status/2049742274557608100",
+      "author": {
+        "name": "lucas",
+        "username": "lucas_flatwhite",
+        "headline": "ai x software engineer / art enthusiast / capitalism x investment / cat in pic\nhttps://t.co/N61jJXagbK",
+        "followers": 13850
+      },
+      "content": "👩🏻‍💻 디자이너를 위한 Claude Skill 6가지\n\nClaude Code에 디자인 특화 스킬을 추가할 수 있죠.\n\n코드 생성부터 Figma 변환, 브랜드 가이드라인 적용까지~~\n\n디자이너의 실무 흐름에 맞춘 6가지 스킬과 플러그인!\n\n1️⃣ Front-end Design\n코드를 짜기 전에 디자인 씽킹 프로세스를 먼저 거쳐요. 구조와 https://t.co/yIXCthToH1",
+      "metrics": {
+        "likes": 268,
+        "retweets": 67,
+        "replies": 1,
+        "views": 0,
+        "bookmarks": 262
+      },
+      "published_at": "Thu Apr 30 06:46:55 +0000 2026",
+      "ai": {
+        "domain": "ui_ux_design",
+        "title": "디자이너를 위한 Claude Skill 6가지 - 코드 생성부터 Figma 변환까지",
+        "author_role": "AI × Software Engineer / Design Enthusiast",
+        "keywords": [
+          "Claude Code",
+          "design skills",
+          "Figma",
+          "brand guidelines",
+          "frontend design"
+        ],
+        "workflow_stage": "concept / ideation | layout / composition | handoff / production",
+        "tools_mentioned": [
+          "Claude Code",
+          "Figma"
+        ],
+        "has_demo_or_repo": false,
+        "summary": "Claude Code에 디자인 특화 스킬 6가지를 추가하여 디자이너의 실무 흐름을 개선. 코드 생성, Figma 변환, 브랜드 가이드라인 적용까지 디자인 씽킹 프로세스를 먼저 거치는 워크플로우를 제시.",
+        "why_important": "디자이너가 Claude Code를 실무에 통합할 수 있도록 구체적인 스킬 세트와 작업 단계를 제공.",
+        "learnings": "AI 코드 생성 전에 디자인 씽킹 프로세스를 먼저 적용하면 Figma로의 변환과 브랜드 일관성 유지가 용이함.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "linkedin",
+      "source_id": "7453910951684116480",
+      "url": "https://www.linkedin.com/posts/kevin-bertelli_petit-test-du-week-end-jai-construit-un-activity-7453910951684116480-uvVr",
+      "author": {
+        "name": "Kevin Bertelli",
+        "username": "kevin-bertelli",
+        "headline": "CG Supervisor - Level UP - UAI - UE Generalist - UE Paris Community Leader"
+      },
+      "content": "Petit test du week-end, j'ai construit un plugin UE 5.7 qui capture le viewport (couleur + depth), envoie tout à un ComfyUI local (SDXL Turbo + LoRA Rough Pencil + ControlNet depth), et compose le résultat directement dans le viewport via un post-process material avec plusieurs modes de fusion.\n\nNiveau performance c'est clairement pas ça, mais l'idée c'est d'avoir un sobel plus graphique. (et il y a clairement de la marge pour l'optimiser)\n\n/\nQuick weekend test — I built a UE 5.7 plugin that captures the viewport (color + depth), sends everything to a local ComfyUI (SDXL Turbo + Rough Pencil LoRA + depth ControlNet), and composites the result directly back into the viewport via a post-process material with several blend modes.\nPerformance is clearly not there yet, but the idea is to get a more graphic sobel. (and there's definitely room to optimize)\n\nEDIT: For context — I don’t have a strong stance for or against generative AI, this is just an exploration.",
       "metrics": {
         "likes": 0,
         "comments": 0,
         "reposts": 0
       },
-      "published_at": "2026-04-29T04:56:39.423Z",
-      "ai": {
-        "domain": "motion_design",
-        "title": "Claude + AE MCP: AI scrapes data → auto-generates AE animations → exports video",
-        "author_role": "Motion Designer / Supervisor",
-        "keywords": [
-          "Claude",
-          "After Effects",
-          "AE MCP",
-          "automation",
-          "data visualization",
-          "AI scripting"
-        ],
-        "workflow_stage": "asset creation | animation / motion | rendering / export",
-        "tools_mentioned": [
-          "Claude",
-          "After Effects",
-          "AE MCP"
-        ],
-        "has_demo_or_repo": true,
-        "summary": "Built workflow teaching Claude to operate After Effects via AE MCP for automated motion graphics. Example: single prompt generates weather chart by scraping data, creating AE elements, applying motion with custom easing, and exporting video autonomously.",
-        "why_important": "Shows emerging workflow where AI handles entire AE production pipeline from data to export based on learned design preferences.",
-        "learnings": "Claude can be taught design preferences and AE workflows via AE MCP to autonomously generate motion graphics from simple prompts including data scraping and export.",
-        "worth_bookmarking": true,
-        "credibility_score": 9,
-        "creative_workflow_value": 10
-      }
-    },
-    {
-      "source": "github",
-      "source_id": "gh_672651553",
-      "url": "https://github.com/MrNeRF/LichtFeld-Studio",
-      "author": {
-        "name": "MrNeRF",
-        "username": "MrNeRF",
-        "headline": ""
-      },
-      "content": "LichtFeld-Studio: Train, inspect, edit, automate, and export 3D Gaussian Splatting scenes from a single native application.",
-      "metrics": {
-        "stars": 2962,
-        "forks": 315
-      },
-      "topics": [
-        "computer-graphics",
-        "computer-vision",
-        "cuda",
-        "gaussian-splatting",
-        "optimization"
-      ],
-      "published_at": "2023-07-30T19:55:48Z",
+      "published_at": "2026-04-25T21:00:57.850Z",
       "ai": {
         "domain": "3d_rendering",
-        "title": "LichtFeld-Studio: Native app for training, editing & exporting 3D Gaussian Splatting scenes",
-        "author_role": "3D Developer / Research Engineer",
+        "title": "Plugin UE 5.7 qui capture le viewport (couleur + depth), envoie tout à un ComfyUI local",
+        "author_role": "CG Supervisor - UE Generalist",
         "keywords": [
-          "3D Gaussian Splatting",
-          "3DGS",
-          "native application",
-          "training",
-          "export"
+          "Unreal Engine",
+          "ComfyUI",
+          "SDXL Turbo",
+          "LoRA",
+          "ControlNet",
+          "depth",
+          "viewport",
+          "post-process",
+          "plugin"
         ],
         "workflow_stage": "rendering / export",
         "tools_mentioned": [
-          "LichtFeld-Studio",
-          "3D Gaussian Splatting"
+          "Unreal Engine 5.7",
+          "ComfyUI",
+          "SDXL Turbo",
+          "ControlNet"
         ],
         "has_demo_or_repo": true,
-        "summary": "Native desktop application that provides end-to-end workflow for 3D Gaussian Splatting scenes including training, inspection, editing, automation and export. Consolidates the entire 3DGS pipeline into a single application rather than requiring multiple tools or command-line workflows.",
-        "why_important": "Eliminates the fragmented toolchain problem for 3DGS workflows by providing a unified interface for the complete production pipeline.",
-        "learnings": "Single native app can handle full 3DGS pipeline from training through export, reducing context switching between CLI tools and viewers.",
+        "summary": "Construit un plugin UE 5.7 qui capture viewport (couleur + profondeur), envoie à ComfyUI local (SDXL Turbo + LoRA Rough Pencil + ControlNet depth), compose le résultat dans le viewport via post-process material avec plusieurs modes de fusion.",
+        "why_important": "Intégration en temps réel entre moteur 3D et pipeline ComfyUI pour stylisation graphique directe du viewport.",
+        "learnings": "Plugin custom UE peut envoyer color+depth à ComfyUI local et réinjecter le résultat via post-process material pour stylisation live.",
         "worth_bookmarking": true,
-        "credibility_score": 7,
-        "creative_workflow_value": 8
-      }
-    },
-    {
-      "source": "github",
-      "source_id": "gh_1145022970",
-      "url": "https://github.com/HBAI-Ltd/Toonflow-app",
-      "author": {
-        "name": "HBAI-Ltd",
-        "username": "HBAI-Ltd",
-        "headline": ""
-      },
-      "content": "Toonflow-app: Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an open-source AI tool that turns stories and scripts into animated short dramas. Features AI scriptwriting, storyboarding, character and video generation. A cross-platform desktop app for efficient content creation.",
-      "metrics": {
-        "stars": 7601,
-        "forks": 1291
-      },
-      "topics": [
-        "ai",
-        "ai-content-creation",
-        "ai-tool",
-        "ai-video-generation",
-        "automation",
-        "content-generation",
-        "desktop-app",
-        "electron",
-        "generative-ai",
-        "image-generation",
-        "llm",
-        "nodejs",
-        "shorts",
-        "text-to-video",
-        "typescript",
-        "video-generation",
-        "vite",
-        "vue3"
-      ],
-      "published_at": "2026-01-29T10:25:45Z",
-      "ai": {
-        "domain": "film_video",
-        "title": "Toonflow：开源AI短剧工具，从小说/剧本到动画的完整流程",
-        "author_role": "AI Video Production Engineer",
-        "keywords": [
-          "AI scriptwriting",
-          "storyboarding",
-          "character generation",
-          "video generation",
-          "animation"
-        ],
-        "workflow_stage": "concept / ideation | asset creation | animation / motion",
-        "tools_mentioned": [
-          "Toonflow"
-        ],
-        "has_demo_or_repo": true,
-        "summary": "开源的一站式AI短剧创作工具，集成AI编剧、智能分镜、角色与视频生成功能，可将小说和剧本转化为动画短剧。跨平台桌面端应用，支持轻量部署，帮助创作者低成本批量产出动画内容。",
-        "why_important": "提供完整的AI驱动动画短剧制作pipeline，从文本到成片的端到端自动化工具链。",
-        "learnings": "AI可以串联编剧、分镜、角色和视频生成的完整动画制作流程，实现桌面端本地部署。",
-        "worth_bookmarking": true,
-        "credibility_score": 7,
-        "creative_workflow_value": 8
-      }
-    },
-    {
-      "source": "github",
-      "source_id": "gh_1174289380",
-      "url": "https://github.com/Forget-C/Jellyfish",
-      "author": {
-        "name": "Forget-C",
-        "username": "Forget-C",
-        "headline": ""
-      },
-      "content": "Jellyfish: An end-to-end production workspace for AI-generated short dramas. From script input to structured storyboarding, consistency management, shot preparation, video generation, and export.",
-      "metrics": {
-        "stars": 3206,
-        "forks": 582
-      },
-      "topics": [
-        "ai",
-        "short-drama"
-      ],
-      "published_at": "2026-03-06T09:20:08Z",
-      "ai": {
-        "domain": "film_video",
-        "title": "Jellyfish: End-to-end production workspace for AI-generated short dramas",
-        "author_role": "AI Video Producer / Pipeline Engineer",
-        "keywords": [
-          "short drama",
-          "storyboarding",
-          "consistency management",
-          "shot preparation",
-          "video generation"
-        ],
-        "workflow_stage": "concept / ideation | layout / composition | rendering / export",
-        "tools_mentioned": [
-          "Jellyfish"
-        ],
-        "has_demo_or_repo": true,
-        "summary": "Complete production workspace for AI-generated short dramas covering script input, structured storyboarding, consistency management, shot preparation, video generation and export. Designed as an integrated environment for managing the entire AI video production pipeline.",
-        "why_important": "Addresses the critical consistency and shot-to-shot continuity challenges in AI video generation through structured workflow management.",
-        "learnings": "AI short drama production requires specialized tools for managing character/scene consistency across multiple generated shots, not just individual generation capabilities.",
-        "worth_bookmarking": true,
-        "credibility_score": 7,
-        "creative_workflow_value": 8
-      }
-    },
-    {
-      "source": "github",
-      "source_id": "gh_1113573066",
-      "url": "https://github.com/hugohe3/ppt-master",
-      "author": {
-        "name": "hugohe3",
-        "username": "hugohe3",
-        "headline": ""
-      },
-      "content": "ppt-master: AI generates natively editable PPTX from any document — real PowerPoint shapes with native animations, not images · by Hugo He",
-      "metrics": {
-        "stars": 11062,
-        "forks": 1155
-      },
-      "topics": [
-        "ai-agent",
-        "aippt",
-        "office",
-        "powerpoint",
-        "powerpoint-generation",
-        "ppt",
-        "pptx",
-        "presentation",
-        "slide",
-        "slides"
-      ],
-      "published_at": "2025-12-10T06:54:33Z",
-      "ai": {
-        "domain": "ui_ux_design",
-        "title": "ppt-master: AI generates natively editable PPTX with real PowerPoint shapes & animations",
-        "author_role": "Presentation / Document Design Engineer",
-        "keywords": [
-          "PPTX",
-          "PowerPoint",
-          "native shapes",
-          "animations",
-          "editable"
-        ],
-        "workflow_stage": "asset creation | layout / composition",
-        "tools_mentioned": [
-          "ppt-master",
-          "PowerPoint"
-        ],
-        "has_demo_or_repo": true,
-        "summary": "AI tool that generates fully editable PowerPoint files from documents, creating actual PowerPoint shapes with native animations rather than static images. Maintains editability and animation capabilities in the output PPTX files.",
-        "why_important": "Solves the critical limitation of most AI presentation tools that output flat images instead of editable native PowerPoint objects.",
-        "learnings": "AI can generate true PowerPoint object primitives (shapes, animations) rather than just image exports, enabling post-generation editing workflows.",
-        "worth_bookmarking": true,
-        "credibility_score": 7,
-        "creative_workflow_value": 8
+        "credibility_score": 9,
+        "creative_workflow_value": 9
       }
     },
     {
       "source": "linkedin",
-      "source_id": "7456301992823484416",
-      "url": "https://www.linkedin.com/posts/yigit-kirca_ai-aivideo-lumaai-activity-7456301992823484416-73AI",
+      "source_id": "7454424611619876864",
+      "url": "https://www.linkedin.com/posts/hala-temmami-ab688422b_aiproduction-generativeai-gaussiansplatting-activity-7454424611619876864-G8uP",
       "author": {
-        "name": "Yigit Kirca",
-        "username": "yigit-kirca",
-        "headline": "Creative Director @ Wonder Studios"
+        "name": "Hala TEMMAMI",
+        "username": "hala-temmami-ab688422b",
+        "headline": "I help bridge AI research and audiovisual production · Generative media"
       },
-      "content": "“But AI does all the work for you!” 😂\n\nI hear this a lot. So I want to show what actually goes into an ad made with AI.\n\nThis is the Premiere timeline for the Luma ad I posted this week.\n\nAI really helps with storyboarding, blocking out scenes and generating the raw material – but that's just footage. From there it's the same process as any project.\n\nSafe to say 90% of my time went into the edit on this one...\n\nComment \"Breakdown\" if I should post a detailed breakdown of this whole project!\n\n#AI #AIVideo #LumaAI #AIFilmmaking #Editing",
+      "content": "🎬 One image. New camera angles.\n\nUsing a ComfyUI workflow, I explored how a single photo can be reconstructed into a 3D scene to generate new viewpoints — no multi-view capture, no LiDAR.\n\nThe pipeline runs in three steps: \n→ Gaussian Splatting reconstructs the scene in 3D from a single image \n→ A new camera angle is manually set in the Gaussian Viewer \n→ Qwen generates a complete image from that new angle — filling in the missing areas that the single-image reconstruction couldn't fully capture.\n\nThis last step is key: since the 3D reconstruction is based on one image only, rotating the camera reveals incomplete regions of the scene. Qwen acts as a completion model, synthesizing the missing geometry and texture to produce a coherent final image.\n\nStill experimental, but the implications are real — imagine generating multiple product angles from a single photo shoot.\n\n📹 Generated with ComfyUI · Source image: 2026 Toyota Corolla Cross | Toyota \n🎓 Workflow based on Matt Hallett Visual\n\n#AIProduction #GenerativeAI #GaussianSplatting #ComputerVision #RnD #AdvertisingTech #ComfyUI",
       "metrics": {
         "likes": 0,
         "comments": 0,
         "reposts": 0
       },
-      "published_at": "2026-05-02T11:22:06.481Z",
+      "published_at": "2026-04-27T07:02:03.922Z",
       "ai": {
-        "domain": "film_video",
-        "title": "Premiere timeline breakdown: 90% editing time on AI-generated Luma ad footage",
-        "author_role": "Creative Director",
+        "domain": "3d_rendering",
+        "title": "One image. New camera angles. Using a ComfyUI workflow with Gaussian Splatting",
+        "author_role": "AI research × audiovisual production specialist",
         "keywords": [
-          "Luma AI",
-          "Premiere Pro",
-          "storyboarding",
-          "editing workflow",
-          "AI video post-production"
+          "ComfyUI",
+          "Gaussian Splatting",
+          "Qwen",
+          "single-image",
+          "3D reconstruction",
+          "camera angle",
+          "viewpoint generation"
         ],
-        "workflow_stage": "iteration / refinement | rendering / export",
+        "workflow_stage": "asset creation",
         "tools_mentioned": [
-          "Luma AI",
-          "Premiere Pro"
+          "ComfyUI",
+          "Gaussian Splatting",
+          "Gaussian Viewer",
+          "Qwen"
         ],
         "has_demo_or_repo": true,
-        "summary": "Shows actual Premiere timeline for Luma AI ad, revealing that 90% of production time went into editing despite AI generating raw footage. AI handled storyboarding and scene blocking, but traditional editing workflow remained essential.",
-        "why_important": "Honest reality check that AI video generation creates raw material but doesn't eliminate the need for skilled editing.",
-        "learnings": "Budget 90% of project time for post-production editing even when using AI video generators like Luma for footage creation.",
+        "summary": "Pipeline ComfyUI en trois étapes: Gaussian Splatting reconstruit la scène 3D depuis une seule image, un nouvel angle de caméra est défini manuellement dans Gaussian Viewer, Qwen génère une image complète depuis ce nouvel angle en remplissant les zones manquantes.",
+        "why_important": "Permet de générer de nouveaux angles de caméra à partir d'une seule photo via reconstruction 3D et génération d'image.",
+        "learnings": "Combiner Gaussian Splatting (reconstruction 3D) avec Qwen (complétion d'image) permet de créer des vues arbitraires depuis une seule image source.",
+        "worth_bookmarking": true,
+        "credibility_score": 9,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "x_twitter",
+      "source_id": "2050159017817690349",
+      "url": "https://twitter.com/marcelkargul/status/2050159017817690349",
+      "author": {
+        "name": "Marcel",
+        "username": "marcelkargul",
+        "headline": "Founder @kargulstudio / Design and dev partner for high-growth startups.",
+        "followers": 48204
+      },
+      "content": "designed on @figma\nanimated on @rive_app\ndeveloped on @nextjs \n\nthis is the perfect tech stack 😁 https://t.co/yqpuZtdNYS",
+      "metrics": {
+        "likes": 245,
+        "retweets": 12,
+        "replies": 13,
+        "views": 0,
+        "bookmarks": 126
+      },
+      "published_at": "Fri May 01 10:22:54 +0000 2026",
+      "ai": {
+        "domain": "ui_ux_design",
+        "title": "Figma + Rive + Next.js: the perfect tech stack for interactive design",
+        "author_role": "Founder of design/dev studio",
+        "keywords": [
+          "Figma",
+          "Rive",
+          "Next.js",
+          "animation",
+          "interactive design",
+          "tech stack"
+        ],
+        "workflow_stage": "animation / motion",
+        "tools_mentioned": [
+          "Figma",
+          "Rive",
+          "Next.js"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Author demonstrates a working tech stack combining Figma for design, Rive for animation, and Next.js for development. Shows a live demo of the integrated workflow in action.",
+        "why_important": "Validates a concrete toolchain for bridging design, animation, and development in production.",
+        "learnings": "Rive serves as the critical bridge layer between Figma design files and Next.js implementation for interactive animations.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 7
+      }
+    },
+    {
+      "source": "linkedin",
+      "source_id": "7453107450234396672",
+      "url": "https://www.linkedin.com/posts/volinga_virtualproduction-ai-3dgs-activity-7453107450234396672-tMbF",
+      "author": {
+        "name": "Volinga",
+        "username": null,
+        "headline": "4,532 followers"
+      },
+      "content": "What if you could 𝗴𝗼 𝗳𝗿𝗼𝗺 𝗮 𝘀𝗶𝗻𝗴𝗹𝗲 𝗶𝗱𝗲𝗮 𝘁𝗼 𝗮 𝗳𝘂𝗹𝗹𝘆 𝗿𝗲𝗮𝗹𝗶𝘇𝗲𝗱 𝟯𝗗 𝗲𝗻𝘃𝗶𝗿𝗼𝗻𝗺𝗲𝗻𝘁 𝗶𝗻 𝗷𝘂𝘀𝘁 𝗮 𝗳𝗲𝘄 𝘀𝘁𝗲𝗽𝘀?🚀\n\nIn our latest experiment, we built a complete workflow that takes you from 𝗰𝗼𝗻𝗰𝗲𝗽𝘁 → 𝗶𝗺𝗮𝗴𝗲 → 𝟯𝟲𝟬° 𝗽𝗮𝗻𝗼𝗿𝗮𝗺𝗮 → 𝟯𝗗 𝗚𝗮𝘂𝘀𝘀𝗶𝗮𝗻 𝗦𝗽𝗹𝗮𝘁 → 𝗿𝗲𝗮𝗹-𝘁𝗶𝗺𝗲 𝗿𝗲𝗻𝗱𝗲𝗿𝗶𝗻𝗴 𝗶𝗻 𝗨𝗻𝗿𝗲𝗮𝗹 𝗘𝗻𝗴𝗶𝗻𝗲.\n\nUsing tools like NanoBanana, WorldLabs, and Volinga, this pipeline shows how AI is transforming environment creation, making it faster, more iterative, and more accessible without sacrificing creative control.\n\n💡 𝗪𝗵𝘆 𝗶𝘁 𝗺𝗮𝘁𝘁𝗲𝗿𝘀:\n🔹Faster environment creation for virtual production & previs\n🔹Lightweight, high-quality scenes with 3DGS\n🔹Seamless integration into real-time pipelines\n\nWe break down the full workflow step-by-step, including what worked, what didn’t, and key tips for getting the best results.\n\n👉🏻 https://lnkd.in/ggEstyAm\n\n#VirtualProduction #AI #3DGS #GaussianSplatting #UnrealEngine #CreativeTech #Filmmaking #Volinga",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-04-23T15:48:08.176Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "What if you could go from a single idea to a fully realized 3D environment in just a few steps?",
+        "author_role": "Virtual production technology company",
+        "keywords": [
+          "NanoBanana",
+          "WorldLabs",
+          "Volinga",
+          "360 panorama",
+          "3D Gaussian Splat",
+          "Unreal Engine",
+          "virtual production"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "NanoBanana",
+          "WorldLabs",
+          "Volinga",
+          "Unreal Engine"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Pipeline complet: concept → image → 360° panorama → 3D Gaussian Splat → rendu temps réel dans Unreal Engine. Utilise NanoBanana, WorldLabs et Volinga pour créer des environnements 3D rapidement et de manière itérative.",
+        "why_important": "Démontre un workflow end-to-end pour la création d'environnements 3D légers et de haute qualité via 3DGS pour production virtuelle et previs.",
+        "learnings": "La combinaison NanoBanana → WorldLabs → Volinga → Unreal permet de transformer un concept en environnement 3D navigable en quelques étapes automatisées.",
         "worth_bookmarking": true,
         "credibility_score": 8,
         "creative_workflow_value": 9
@@ -289,43 +276,88 @@
     },
     {
       "source": "linkedin",
-      "source_id": "7455700026086821888",
-      "url": "https://www.linkedin.com/posts/rory-flynn-ai_chatgpt-ai-innovation-activity-7455700026086821888-31gC",
+      "source_id": "7453140607344205824",
+      "url": "https://www.linkedin.com/posts/roymedina_computationaldesign-rhino3d-grasshopper-activity-7453140607344205824-1Wqj",
       "author": {
-        "name": "Rory Flynn",
-        "username": "rory-flynn-ai",
-        "headline": "AI Workflows for Marketers || Ai Workshops for Creative + Marketing Teams || Ai Keynote Speaker || Helping You Find Practical Usage of Ai in Your Business"
+        "name": "Rodrigo Medina",
+        "username": "roymedina",
+        "headline": "Founder at ThinkParametric"
       },
-      "content": "GPT2 + Seedance 2.0 → Capoeira Sequence.\n\nTesting for more complex choreography.\n\nFULL WORKFLOW: https://lnkd.in/ezkF7vDV\n\nTOOLS:\n+ Weavy: Workflow Build\n+ GPT2: Diagrams\n+ Midjourney: Aesthetic reference\n+ Seedance 2.0: Animation\n\nPROCESS:\n01. Gen sequence diagram w. GPT2\n02. Gen camera motion diagram w. GPT2\n03. Connect those + prompt to SD2 omni-ref\n04. Generate \n\nBuilding on this post: https://lnkd.in/e2T79gf8\n\nCONTEXT:\n+ I wanted to test this process further\n+ Instead of 1 diagram we tried 2\n+ (1) diagram outlining the fight sequence \n+ (1) diagram outlining the camera motion\n+ A Midjourney image to build the environment\n+ To see how much SD2 actually listens \n\nFLAWS:\n+ SD2 did not follow step-by-step\n+ It blended some of the chars. moves together\n+ But nailed around 70% of the flow\n+ I ran this generation (4) times \n+ Each time it would follow 1 of the 2 diagrams more\n+ The trick here might be to combine both diagrams\n+ Into one image and feed that in as a reference\n+ Probably hits info overload at certain point \n\nQUICK THOUGHTS: \n+ Not 100% effective in this run \n+ The visual is still cool + useful \n+ The physics + camera motion is great\n+ Probably need to test diff prompting styles\n+ And test different diagram builds\n+ One thing is clear…SD2 is reading these\n+ It is understanding them…and producing\n+ Even if it’s not 100% accurate (yet)\n\nAs always…not perfect.\nStill think this opens up a lot of ideas.\nKeep doing weird stuff.\n\nHave fun.\n\n#chatgpt #ai #innovation #weavy #kling #seedance",
+      "content": "Yesterday I stumbled upon Zsolt Nyírő 's work on mesh relaxations and thought it'd be a good stress test for our AI Rhino code editor.\n\n10 minutes later I had a working physics engine inside Rhino:\n\n• Custom Verlet integrator — no external libraries\n• Particle-spring network built from any lines or polylines on a layer\n• Automatic vertex welding by tolerance\n• Three constraint types: pinned anchors, boundary-curve sliding, free\n• Iterative Gauss-Seidel constraint solver\n• Live viewport preview during the solve via a DisplayConduit\n• Convergence detection\n\nWorkflow is pure Rhino: draw your springs on one layer, anchors on another, boundary curves on a third. Run. Watch it relax in real time. Bake the result.\n\nThis is essentially Kangaroo-lite, scripted from scratch in a single session.\n\nWhy this matters for architects and computational designers: the bottleneck was never the idea. It was the week of reading RhinoCommon docs between having the idea and seeing it run. When that gap collapses to minutes, the tools stop being someone else's plugin and start being things you write for the specific problem in front of you.\n\nThe shift isn't \"AI writes code for you.\" It's that domain expertise finally compounds directly into tooling.\n\n#computationaldesign #rhino3d #grasshopper #AEC",
       "metrics": {
         "likes": 0,
         "comments": 0,
         "reposts": 0
       },
-      "published_at": "2026-04-30T19:30:06.427Z",
+      "published_at": "2026-04-23T17:59:53.447Z",
       "ai": {
-        "domain": "motion_design",
-        "title": "GPT2 + Seedance 2.0 workflow: diagram-driven choreography animation pipeline",
-        "author_role": "AI workflow specialist / animator",
+        "domain": "3d_rendering",
+        "title": "Yesterday I stumbled upon mesh relaxations - 10 minutes later I had a working physics engine inside Rhino",
+        "author_role": "Founder at ThinkParametric",
         "keywords": [
-          "GPT2",
-          "Seedance 2.0",
-          "Midjourney",
-          "choreography",
-          "diagram-to-animation",
-          "Weavy"
+          "Rhino",
+          "AI code editor",
+          "Verlet integrator",
+          "physics engine",
+          "particle-spring",
+          "Gauss-Seidel",
+          "DisplayConduit"
         ],
-        "workflow_stage": "concept / ideation | animation / motion",
+        "workflow_stage": "asset creation",
         "tools_mentioned": [
-          "GPT2",
-          "Seedance 2.0",
-          "Midjourney",
-          "Weavy"
+          "Rhino",
+          "AI code editor",
+          "DisplayConduit"
         ],
         "has_demo_or_repo": true,
-        "summary": "Multi-step workflow using GPT2 to generate sequence and camera motion diagrams, connecting them with Midjourney aesthetic refs to Seedance 2.0 omni-ref for capoeira choreography animation. Tests complex multi-diagram approach vs single diagram.",
-        "why_important": "Demonstrates structured diagram-first approach to control complex AI animation sequences with specific choreography.",
-        "learnings": "Use separate diagrams for movement sequence and camera motion, then combine in Seedance 2.0 omni-ref with Midjourney aesthetic reference for controlled choreography.",
+        "summary": "En 10 minutes, a créé un moteur physique Rhino avec AI code editor: intégrateur Verlet custom, réseau particule-ressort depuis lignes/polylignes, trois types de contraintes, solveur Gauss-Seidel itératif, prévisualisation viewport live via DisplayConduit, détection de convergence.",
+        "why_important": "Montre la vitesse à laquelle un AI code editor peut générer des systèmes techniques complexes (moteur physique) directement intégrés dans Rhino.",
+        "learnings": "AI code editor peut générer un moteur physique complet avec contraintes, solveur itératif et affichage viewport en quelques minutes si le contexte est bien défini.",
+        "worth_bookmarking": true,
+        "credibility_score": 9,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "linkedin",
+      "source_id": "7447383230846029824",
+      "url": "https://www.linkedin.com/posts/activity-7447383230846029824-t3qB",
+      "author": {
+        "name": "Andres Roncal",
+        "username": "andres-roncal",
+        "headline": "Computational Design / Applied AI HKS"
+      },
+      "content": "End-to-end AI workflow integrating Rhino, agent-based pipelines, and model execution directly inside the design environment.\n \nInstead of isolated scripts, it’s becoming more like a system: a growing library of actions that can be triggered and composed dynamically. This is a prototype of an AI agent that can directly control Rhino and Grasshopper through natural language. Not just generating code but executing it inside the active session and responding based on results understanding its full context.\n \nThe current setup runs through a FastAPI + LangGraph backend, where each prompt is classified and routed depending on intent. Some requests are straightforward; others require iteration or planning. Lately I’ve been pushing it toward a ReAct-style loop:\n \nrun something > evaluate result > adjust > repeat\n \nThe goal isn’t really a chatbot, it’s integrating this into the design workflow itself. Moving away from the usual model > export > analyzes cycle, and toward something more continuous and interactive for informed design.\n \nStill early and a bit rough in places but starting to feel like a different way of working. \n\nAlso along with Burcu Gocen and Arjun Kizhakkemarakkattil Janardhanan we are starting to explore how this system could extend into sustainability and performance-driven workflows. The idea is to bring environmental metrics and targets directly into the loop, instead of running them as separate analyses. Still early, but it opens up a different way of working.\n\nCurious if others are exploring similar directions. \n \n#AEC #ComputationalDesign #DesignAutomation #HKS #LINE #AppliedAI #DigitalTransformation #AIResearch Chad Porter",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-04-07T20:42:07.923Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "End-to-end AI workflow integrating Rhino, agent-based pipelines, and model execution",
+        "author_role": "Computational Design / Applied AI practitioner",
+        "keywords": [
+          "Rhino",
+          "Grasshopper",
+          "FastAPI",
+          "LangGraph",
+          "agent",
+          "natural language",
+          "computational design"
+        ],
+        "workflow_stage": "concept / ideation",
+        "tools_mentioned": [
+          "Rhino",
+          "Grasshopper",
+          "FastAPI",
+          "LangGraph"
+        ],
+        "has_demo_or_repo": false,
+        "summary": "Prototype AI agent that controls Rhino and Grasshopper through natural language via FastAPI + LangGraph backend. System classifies prompts, executes code inside the active session, and responds based on full context understanding.",
+        "why_important": "Demonstrates agent-based control of 3D tools with context-aware execution, not just code generation.",
+        "learnings": "Agent architecture uses FastAPI + LangGraph for routing prompts to actions that execute directly in Rhino's active session with full context.",
         "worth_bookmarking": true,
         "credibility_score": 8,
         "creative_workflow_value": 8
@@ -333,84 +365,46 @@
     },
     {
       "source": "linkedin",
-      "source_id": "7452836444861124608",
-      "url": "https://www.linkedin.com/posts/denis-unagst_aivideo-generativeai-videoproduction-activity-7452836444861124608-3CZf",
+      "source_id": "7453483976494571521",
+      "url": "https://www.linkedin.com/posts/abhixchawla_this-weavy-workflow-makes-photoshoots-irelevant-activity-7453483976494571521-SkRM",
       "author": {
-        "name": "Denis Unagst",
-        "username": "denis-unagst",
-        "headline": "AI-Generated Video Ads for E-commerce & Agencies | Faster. Cheaper. Scalable."
+        "name": "Abhi Chawla",
+        "username": "abhixchawla",
+        "headline": "Founder + CEO @ 100Creatives | Creative Engines For CPG + DTC Brands"
       },
-      "content": "Breakdown of Evgeny Bulanov’s AI brand film for BOTENZ. \nZero real product. 100% AI. Here's the pipeline that made it work.🎬\n\nA brand film for BOTENZ, made entirely with AI, when the actual product didn't exist yet. Projects like this are exactly why any of this matters.\n\nWhat stuck with me from the pipeline:\nKling 2.5 + manual label compositing in After Effects - AI still struggles with fine details. Skip this step and any product video looks like a beautiful but unfinished demo reel.\nDitching sterile gloss in favor of ARRI Alexa aesthetics - soft light, organic texture. That's exactly what I try to build into my prompts: not \"pretty,\" but \"real.\"\nSuno with stem separation + ElevenLabs v3 - audio finally stops being the weakest link in AI video.\nTopaz upscale with cinematic grain -  the finishing touch that turns \"neural\" into \"cinematic.\"\n\nBut the one thing I'm taking away: the time-remap trick - cut all clips at normal speed first, then adjust the tempo of the whole scene at once. AI generation seams just disappear. Elegant and obvious in hindsight.\n\nAI video only becomes a professional tool when it's backed by an understanding of classical production - lighting, editing, sound, the physics of motion. Without that foundation, even the best prompt just produces beautiful noise.\n\nQuestion for you: what matters more in a commercial AI video right now - perfect photorealism, or a lived-in atmosphere with intentional imperfection?\n👇 Curious what you think\n#AIVideo #GenerativeAI #VideoProduction #Kling #AICommercial",
+      "content": "This weavy workflow makes PhotoShoots I*relevant.  \n\nOne workflow. One click. Hundreds of product images.\n\nI recorded the full screen walkthrough.\n\nEvery node. Every prompt. Every connection.\n\nThis is how I generate unlimited DTC creatives at 100 Creatives\n\nNo studio. No models. No CGI. No waiting.\n\nThink unlimited Meta Ads Creative Testing.\n\nJust Weavy + Claude + one workflow that does it all.\nComment \"DTC\" and I'll send you the full Figma Weave template Free.\n\nRepost for the surprise bundle that has Three Templates and Claude Skill.",
       "metrics": {
         "likes": 0,
         "comments": 0,
         "reposts": 0
       },
-      "published_at": "2026-04-22T21:51:15.460Z",
+      "published_at": "2026-04-24T16:44:19.032Z",
       "ai": {
-        "domain": "film_video",
-        "title": "Kling 2.5 + After Effects manual label compositing pipeline for AI brand film",
-        "author_role": "AI video producer / filmmaker",
+        "domain": "ui_ux_design",
+        "title": "This weavy workflow makes PhotoShoots I*relevant - One workflow. One click. Hundreds of product images.",
+        "author_role": "Founder of creative production company",
         "keywords": [
-          "Kling 2.5",
-          "After Effects",
-          "label compositing",
-          "ARRI Alexa aesthetics",
-          "product visualization"
+          "Weavy",
+          "Claude",
+          "ComfyUI",
+          "product photography",
+          "DTC",
+          "Meta Ads",
+          "creative testing"
         ],
-        "workflow_stage": "rendering / export | iteration / refinement",
+        "workflow_stage": "asset creation",
         "tools_mentioned": [
-          "Kling 2.5",
-          "After Effects"
+          "Weavy",
+          "Claude",
+          "ComfyUI"
         ],
-        "has_demo_or_repo": false,
-        "summary": "Describes Evgeny Bulanov's AI-generated brand film for BOTENZ using Kling 2.5 for generation followed by manual label compositing in After Effects to fix fine detail issues. Emphasizes choosing ARRI Alexa-style soft lighting and organic texture over sterile gloss.",
-        "why_important": "Shows critical post-processing step needed when AI-generated video lacks fine detail control for product films.",
-        "learnings": "AI video tools still require manual compositing in After Effects for product-level detail; prioritize cinematic lighting aesthetics over default AI gloss.",
+        "has_demo_or_repo": true,
+        "summary": "Full screen recording demonstrating a Weavy + Claude workflow that generates unlimited DTC product images without studio shoots. Author shares every node, prompt, and connection for unlimited Meta Ads creative testing.",
+        "why_important": "Replaces traditional product photography with a documented, replicable AI workflow for DTC brands.",
+        "learnings": "Weavy workflows can be templatized with Claude integration for scalable product image generation across ad variants.",
         "worth_bookmarking": true,
         "credibility_score": 7,
         "creative_workflow_value": 8
-      }
-    },
-    {
-      "source": "linkedin",
-      "source_id": "7454282042017660929",
-      "url": "https://www.linkedin.com/posts/felipefierro_animation-rig-modeling-activity-7454282042017660929-y4J3",
-      "author": {
-        "name": "Felipe Fierro",
-        "username": "felipefierro",
-        "headline": "Creative Director at Pigmalion Animation Studio® | University Lecturer | Animator"
-      },
-      "content": "As a VFX Director, I’m always looking for tools that boost efficiency without compromising creativity. I recently tested Autodesk Flow Studio by building my own alien character, both to evaluate a real production pipeline and because I genuinely enjoy character creation.\n\nKeeping the design minimal helped me focus on how Flow integrates with Maya and performs in real workflows. What stands out is its ability to streamline animation through AI, removing the need for expensive mocap suits, complex rigs, or studio setups, while still maintaining creative control.\n\nAI didn’t invent motion capture technology, it’s enhancing it. And when used ethically, it becomes a powerful extension of the artist, not a replacement. Tools like Flow are helping close the gap between big studios and independent creators.\n\n#animation #rig #modeling #storytelling #autodeskflow Autodesk",
-      "metrics": {
-        "likes": 0,
-        "comments": 0,
-        "reposts": 0
-      },
-      "published_at": "2026-04-26T21:35:32.680Z",
-      "ai": {
-        "domain": "3d_rendering",
-        "title": "Autodesk Flow Studio pipeline test: AI mocap alternative integrated with Maya",
-        "author_role": "VFX Director",
-        "keywords": [
-          "Autodesk Flow Studio",
-          "Maya",
-          "AI motion capture",
-          "character animation",
-          "rigging"
-        ],
-        "workflow_stage": "animation / motion",
-        "tools_mentioned": [
-          "Autodesk Flow Studio",
-          "Maya"
-        ],
-        "has_demo_or_repo": true,
-        "summary": "Tested Autodesk Flow Studio by building custom alien character to evaluate real production pipeline integration with Maya. Tool provides AI-driven animation alternative to mocap suits and complex rigs while maintaining creative control.",
-        "why_important": "First-hand evaluation of AI mocap replacement in production pipeline, showing practical alternative to expensive studio setups.",
-        "learnings": "Autodesk Flow Studio integrates with Maya to streamline animation without mocap hardware while preserving animator control over motion.",
-        "worth_bookmarking": true,
-        "credibility_score": 7,
-        "creative_workflow_value": 7
       }
     }
   ]
