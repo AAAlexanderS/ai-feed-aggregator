@@ -1,0 +1,864 @@
+{
+  "date": "2026-05-11",
+  "generated_at": "2026-05-11T11:00:02.973320+00:00",
+  "posts": [
+    {
+      "source": "github",
+      "source_id": "gh_1197364953",
+      "url": "https://github.com/jtydhr88/ComfyUI-See-through",
+      "author": {
+        "name": "jtydhr88",
+        "username": "jtydhr88",
+        "headline": ""
+      },
+      "content": "ComfyUI-See-through: A ComfyUI plugin that wraps [See-through](https://github.com/shitagaki-lab/see-through) — an AI system that decomposes a single anime illustration into manipulatable 2.5D layer-decomposed models with depth ordering, ready for Live2D workflows.",
+      "metrics": {
+        "stars": 450,
+        "forks": 43
+      },
+      "topics": [],
+      "published_at": "2026-03-31T14:22:51Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "ComfyUI-See-through: decomposes anime illustrations into manipulatable 2.5D layers for Live2D",
+        "author_role": "ComfyUI Plugin Developer",
+        "keywords": [
+          "ComfyUI",
+          "anime",
+          "Live2D",
+          "layer decomposition",
+          "2.5D",
+          "depth ordering"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "ComfyUI",
+          "See-through",
+          "Live2D"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "A ComfyUI plugin wrapping See-through AI system that decomposes single anime illustrations into layer-decomposed 2.5D models with depth ordering. Output is ready for Live2D animation workflows.",
+        "why_important": "Bridges AI image generation with character animation workflows by automatically preparing layered assets for Live2D rigging.",
+        "learnings": "AI can decompose flat anime art into depth-ordered layers suitable for 2.5D character animation systems like Live2D.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_905471442",
+      "url": "https://github.com/pollockjj/ComfyUI-MultiGPU",
+      "author": {
+        "name": "pollockjj",
+        "username": "pollockjj",
+        "headline": ""
+      },
+      "content": "ComfyUI-MultiGPU: This custom_node for ComfyUI adds one-click \"Virtual VRAM\" for any UNet and CLIP loader as well MultiGPU integration in WanVideoWrapper, managing the offload/Block Swap of layers to DRAM *or* VRAM to maximize the latent space of your card. Also includes nodes for directly loading entire components (UNet, CLIP, VAE) onto the device you choose",
+      "metrics": {
+        "stars": 865,
+        "forks": 69
+      },
+      "topics": [
+        "comfyui",
+        "comfyui-nodes",
+        "comfyui-workflow",
+        "ggml",
+        "gguf-models",
+        "pytorch",
+        "stable-diffusion",
+        "unet-pytorch",
+        "wanvideowrapper"
+      ],
+      "published_at": "2024-12-18T22:34:38Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "ComfyUI-MultiGPU: one-click Virtual VRAM and multi-GPU layer offloading for ComfyUI",
+        "author_role": "ComfyUI Performance Engineer",
+        "keywords": [
+          "ComfyUI",
+          "multi-GPU",
+          "VRAM",
+          "memory management",
+          "UNet",
+          "CLIP",
+          "optimization"
+        ],
+        "workflow_stage": "rendering / export",
+        "tools_mentioned": [
+          "ComfyUI"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Custom node adding Virtual VRAM and multi-GPU support to ComfyUI, managing layer offload to DRAM or VRAM to maximize latent space. Includes nodes for loading UNet, CLIP, VAE onto specific devices.",
+        "why_important": "Enables complex ComfyUI workflows to run on limited VRAM by intelligently managing memory across multiple GPUs and system RAM.",
+        "learnings": "ComfyUI workflows can dynamically offload model layers across multiple GPUs and system RAM to overcome VRAM limitations.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1145022970",
+      "url": "https://github.com/HBAI-Ltd/Toonflow-app",
+      "author": {
+        "name": "HBAI-Ltd",
+        "username": "HBAI-Ltd",
+        "headline": ""
+      },
+      "content": "Toonflow-app: Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an open-source AI tool that turns stories and scripts into animated short dramas. Features AI scriptwriting, storyboarding, character and video generation. A cross-platform desktop app for efficient content creation.",
+      "metrics": {
+        "stars": 7837,
+        "forks": 1337
+      },
+      "topics": [
+        "ai",
+        "ai-content-creation",
+        "ai-tool",
+        "ai-video-generation",
+        "automation",
+        "content-generation",
+        "desktop-app",
+        "electron",
+        "generative-ai",
+        "image-generation",
+        "llm",
+        "nodejs",
+        "shorts",
+        "text-to-video",
+        "typescript",
+        "video-generation",
+        "vite",
+        "vue3"
+      ],
+      "published_at": "2026-01-29T10:25:45Z",
+      "ai": {
+        "domain": "film_video",
+        "title": "Toonflow-app: 开源一站式 AI 短剧创作工具，集成 AI 编剧、智能分镜、角色与视频生成",
+        "author_role": "AI Video Production Developer",
+        "keywords": [
+          "AI scriptwriting",
+          "storyboarding",
+          "character generation",
+          "video generation",
+          "animation",
+          "短剧"
+        ],
+        "workflow_stage": "concept / ideation",
+        "tools_mentioned": [
+          "Toonflow"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "开源工具将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。",
+        "why_important": "提供从文本到视频的完整工具链，降低动画短剧制作门槛，使创作者能够快速批量生产内容。",
+        "learnings": "AI 工具链可以集成编剧、分镜、角色和视频生成，实现从文本到动画短剧的端到端自动化。",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1174289380",
+      "url": "https://github.com/Forget-C/Jellyfish",
+      "author": {
+        "name": "Forget-C",
+        "username": "Forget-C",
+        "headline": ""
+      },
+      "content": "Jellyfish: An end-to-end production workspace for AI-generated short dramas. From script input to structured storyboarding, consistency management, shot preparation, video generation, and export.",
+      "metrics": {
+        "stars": 3260,
+        "forks": 585
+      },
+      "topics": [
+        "ai",
+        "short-drama"
+      ],
+      "published_at": "2026-03-06T09:20:08Z",
+      "ai": {
+        "domain": "film_video",
+        "title": "Jellyfish: end-to-end workspace for AI-generated short dramas from script to export",
+        "author_role": "AI Video Production Developer",
+        "keywords": [
+          "script",
+          "storyboarding",
+          "consistency management",
+          "shot preparation",
+          "video generation",
+          "short drama"
+        ],
+        "workflow_stage": "concept / ideation",
+        "tools_mentioned": [
+          "Jellyfish"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "An end-to-end production workspace for AI-generated short dramas. Handles script input, structured storyboarding, consistency management, shot preparation, video generation, and export.",
+        "why_important": "Provides unified workspace managing character consistency and shot continuity across entire short drama production pipeline.",
+        "learnings": "AI short drama production requires integrated tools for consistency management across script, storyboard, and video generation stages.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_672678720",
+      "url": "https://github.com/pydn/ComfyUI-to-Python-Extension",
+      "author": {
+        "name": "pydn",
+        "username": "pydn",
+        "headline": ""
+      },
+      "content": "ComfyUI-to-Python-Extension: A powerful tool that translates ComfyUI workflows into executable Python code.",
+      "metrics": {
+        "stars": 2319,
+        "forks": 208
+      },
+      "topics": [
+        "ai-art",
+        "comfyui",
+        "generative-art",
+        "image-generation",
+        "pytorch",
+        "stable-diffusion"
+      ],
+      "published_at": "2023-07-30T22:23:43Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "ComfyUI-to-Python-Extension: translates ComfyUI workflows into executable Python code",
+        "author_role": "ComfyUI Developer",
+        "keywords": [
+          "ComfyUI",
+          "Python",
+          "workflow",
+          "code generation",
+          "automation"
+        ],
+        "workflow_stage": "iteration / refinement",
+        "tools_mentioned": [
+          "ComfyUI",
+          "Python"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "A tool that translates ComfyUI visual workflows into executable Python code. Enables automation and scripting of ComfyUI processes outside the GUI.",
+        "why_important": "Allows practitioners to version control, batch process, and integrate ComfyUI workflows into larger production pipelines.",
+        "learnings": "ComfyUI workflows can be exported as Python scripts for automation and integration into custom pipelines.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1130731589",
+      "url": "https://github.com/jtydhr88/ComfyUI-qwenmultiangle",
+      "author": {
+        "name": "jtydhr88",
+        "username": "jtydhr88",
+        "headline": ""
+      },
+      "content": "ComfyUI-qwenmultiangle: A ComfyUI custom node for 3D camera angle control. Provides an interactive Three.js viewport to adjust camera angles and outputs formatted prompt strings for multi-angle image generation.",
+      "metrics": {
+        "stars": 1164,
+        "forks": 67
+      },
+      "topics": [],
+      "published_at": "2026-01-08T23:39:38Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "ComfyUI-qwenmultiangle: interactive 3D viewport for camera angle control in image generation",
+        "author_role": "ComfyUI Developer",
+        "keywords": [
+          "ComfyUI",
+          "3D",
+          "camera control",
+          "Three.js",
+          "multi-angle",
+          "prompt formatting"
+        ],
+        "workflow_stage": "concept / ideation",
+        "tools_mentioned": [
+          "ComfyUI",
+          "Three.js"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "A ComfyUI custom node providing interactive Three.js viewport for adjusting camera angles. Outputs formatted prompt strings for multi-angle image generation workflows.",
+        "why_important": "Gives visual control over camera angles for consistent multi-view image generation, bridging 3D navigation with 2D image synthesis.",
+        "learnings": "3D viewport controls can be integrated into ComfyUI to generate precise camera angle prompts for multi-view image generation.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_672651553",
+      "url": "https://github.com/MrNeRF/LichtFeld-Studio",
+      "author": {
+        "name": "MrNeRF",
+        "username": "MrNeRF",
+        "headline": ""
+      },
+      "content": "LichtFeld-Studio: Train, inspect, edit, automate, and export 3D Gaussian Splatting scenes from a single native application.",
+      "metrics": {
+        "stars": 3005,
+        "forks": 320
+      },
+      "topics": [
+        "computer-graphics",
+        "computer-vision",
+        "cuda",
+        "gaussian-splatting",
+        "optimization"
+      ],
+      "published_at": "2023-07-30T19:55:48Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "LichtFeld-Studio: native app to train, edit, automate 3D Gaussian Splatting scenes",
+        "author_role": "3DGS Developer",
+        "keywords": [
+          "3D Gaussian Splatting",
+          "3DGS",
+          "training",
+          "editing",
+          "automation",
+          "native application"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "3D Gaussian Splatting"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Native application for training, inspecting, editing, automating, and exporting 3D Gaussian Splatting scenes. Provides end-to-end workflow in single unified interface.",
+        "why_important": "Consolidates fragmented 3DGS workflows into single tool, making the technology more accessible to practitioners without command-line expertise.",
+        "learnings": "3D Gaussian Splatting workflows can be unified in native applications for easier training, editing and export of scenes.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_983846239",
+      "url": "https://github.com/sakalond/StableGen",
+      "author": {
+        "name": "sakalond",
+        "username": "sakalond",
+        "headline": ""
+      },
+      "content": "StableGen: Transform your 3D texturing workflow with the power of generative AI, directly within Blender!",
+      "metrics": {
+        "stars": 769,
+        "forks": 66
+      },
+      "topics": [
+        "blender",
+        "controlnet",
+        "flux1-dev",
+        "ipadapter",
+        "stable-diffusion",
+        "texture"
+      ],
+      "published_at": "2025-05-15T02:27:38Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "StableGen: generative AI 3D texturing workflow directly within Blender",
+        "author_role": "Blender Plugin Developer",
+        "keywords": [
+          "Blender",
+          "3D texturing",
+          "generative AI",
+          "workflow integration"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "Blender",
+          "Stable Diffusion"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Transform 3D texturing workflow with generative AI, directly integrated within Blender. Enables AI-powered texture generation without leaving the 3D environment.",
+        "why_important": "Eliminates context switching between Blender and external AI tools, streamlining texture generation within native 3D workspace.",
+        "learnings": "Generative AI can be integrated directly into Blender for seamless 3D texturing workflows without external tool dependencies.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1103154605",
+      "url": "https://github.com/Hugo-Dz/spritefusion-pixel-snapper",
+      "author": {
+        "name": "Hugo-Dz",
+        "username": "Hugo-Dz",
+        "headline": ""
+      },
+      "content": "spritefusion-pixel-snapper: A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent pixel art generated by AI.",
+      "metrics": {
+        "stars": 1870,
+        "forks": 89
+      },
+      "topics": [
+        "game-development",
+        "gamedev",
+        "image-processing",
+        "pixel-art"
+      ],
+      "published_at": "2025-11-24T13:56:05Z",
+      "ai": {
+        "domain": "ui_ux_design",
+        "title": "spritefusion-pixel-snapper: tool to snap pixels to perfect grid, fixing AI pixel art",
+        "author_role": "Pixel Art Tool Developer",
+        "keywords": [
+          "pixel art",
+          "grid snapping",
+          "AI artifact fixing",
+          "consistency"
+        ],
+        "workflow_stage": "iteration / refinement",
+        "tools_mentioned": [
+          "Spritefusion"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "A tool to snap pixels to a perfect grid. Designed specifically to fix messy and inconsistent pixel art generated by AI systems.",
+        "why_important": "Addresses common AI generation artifacts in pixel art, ensuring grid-perfect output required for game assets and retro graphics.",
+        "learnings": "AI-generated pixel art often requires post-processing to ensure grid alignment and consistency for production use.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1113573066",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "author": {
+        "name": "hugohe3",
+        "username": "hugohe3",
+        "headline": ""
+      },
+      "content": "ppt-master: AI generates natively editable PPTX from any document — real PowerPoint shapes with native animations, not images · by Hugo He",
+      "metrics": {
+        "stars": 14554,
+        "forks": 1461
+      },
+      "topics": [
+        "ai-agent",
+        "aippt",
+        "office",
+        "powerpoint",
+        "powerpoint-generation",
+        "ppt",
+        "pptx",
+        "presentation",
+        "slide",
+        "slides"
+      ],
+      "published_at": "2025-12-10T06:54:33Z",
+      "ai": {
+        "domain": "ui_ux_design",
+        "title": "ppt-master: AI generates natively editable PPTX with real PowerPoint shapes and animations",
+        "author_role": "AI Presentation Tool Developer",
+        "keywords": [
+          "PowerPoint",
+          "PPTX",
+          "native editing",
+          "shapes",
+          "animations",
+          "document generation"
+        ],
+        "workflow_stage": "layout / composition",
+        "tools_mentioned": [
+          "PowerPoint"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "AI generates natively editable PPTX from any document — real PowerPoint shapes with native animations, not images. Preserves full editability in PowerPoint.",
+        "why_important": "Unlike screenshot-based AI presentation tools, generates actual PowerPoint objects that remain fully editable and animatable in native software.",
+        "learnings": "AI can generate true PPTX files with native shapes and animations rather than flattened images, preserving full editability.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "linkedin",
+      "source_id": "7458234829902356480",
+      "url": "https://www.linkedin.com/posts/jonmalkemus_ai-and-product-design-at-whatnot-a-few-activity-7458234829902356480-cjiu",
+      "author": {
+        "name": "Jon Malkemus 🥛",
+        "username": "jonmalkemus",
+        "headline": "VP Design @ Whatnot"
+      },
+      "content": "AI and Product Design\n\nAt Whatnot, a few designers started experimenting with tools like Cursor, Claude, and Figma. We asked them to share their workflows with the rest of the product design team—and within weeks, it completely changed how we work.\n\nIn less than three weeks, we've turned every designer into a world class prototyper. They're building advanced, high-quality prototypes that previously required specialized tools like ProtoPie or Framer—or even production-level code. Now, they can create them in just a few hours instead of weeks. \n\nThis has been one of the most significant and disruptive workflow shifts I’ve seen in over 20 years in design. \n\nIt’s an exciting time to be building products.",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-05-07T19:22:30.751Z",
+      "ai": {
+        "domain": "ui_ux_design",
+        "title": "AI and Product Design",
+        "author_role": "VP Design @ Whatnot",
+        "keywords": [
+          "Cursor",
+          "Claude",
+          "Figma",
+          "prototyping",
+          "workflow"
+        ],
+        "workflow_stage": "asset creation | iteration / refinement",
+        "tools_mentioned": [
+          "Cursor",
+          "Claude",
+          "Figma",
+          "ProtoPie",
+          "Framer"
+        ],
+        "has_demo_or_repo": false,
+        "summary": "Whatnot 的设计团队在三周内通过 Cursor、Claude 和 Figma 的组合，让每位设计师都能创建高质量原型。以前需要专业工具或生产级代码、耗时数周的原型，现在只需几小时。",
+        "why_important": "显著缩短了从设计到可交互原型的时间，将专业级原型制作能力普及到整个设计团队。",
+        "learnings": "组合使用 AI 编程工具（Cursor/Claude）与设计工具（Figma），可以让非工程背景的设计师快速构建复杂交互原型。",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "linkedin",
+      "source_id": "7458125092045303808",
+      "url": "https://www.linkedin.com/posts/lisamdion_vilva-seedance-gptimage2-activity-7458125092045303808-htkc",
+      "author": {
+        "name": "Lisa Dion",
+        "username": "lisamdion",
+        "headline": "I turn brand strategy into campaign-ready design that works across every channel. AI Creative Partner for Weavy, ImagineArt, Vilva, Lumoo +"
+      },
+      "content": "The GPT Image 2 + Seedance 2.0 workflow that's rewriting how AI video gets made.\n\nTwo tools. One workflow. Full cinematic production.\n\nThe GPT Image 2 process:\n\nYou don't prompt images one at a time. You prompt a storyboard grid. A single request generates a 4 or 6-panel layout with camera angles, character blocking, and scene composition all locked in one pass.\n\nThen you generate a character(s) reference sheet showing your subject from multiple angles. This is what keeps your characters (and scenes) consistent when they show up across shots.\n\nThe Seedance 2.0 process:\n\nUpload your storyboard grid and character sheet as a reference images. Seedance 2.0 reads the visual blueprint and animates structured cinematic sequences up to 15 seconds per clip. Slow pushes. Tracking shots. Motivated camera movement.\n\nPrompt: @ref# as storyboard guide following panels 1 through 4 in sequence. Slow cinematic aerial push....\n\nVilva.ai is a node-based visual canvas that connects every model in this stack into a single workspace:\n\n- GPT Image 2 for storyboarding and reference sheets\n- Seedance 2.0 for cinematic animation\n- ElevenLabs for voice and sound design\n- GPT-5 and Claude for creative direction and scripting\n- Timeline for compositing and editing.\n\nNo platform switching. \n\nTry Vilva: https://vilva.ai/\n\n#Vilva #Seedance #GPTImage2 #AIVideo #AIProduction",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-05-07T12:06:27.207Z",
+      "ai": {
+        "domain": "film_video",
+        "title": "The GPT Image 2 + Seedance 2.0 workflow that's rewriting how AI video gets made",
+        "author_role": "AI Creative Partner",
+        "keywords": [
+          "GPT Image 2",
+          "Seedance 2.0",
+          "storyboard",
+          "character consistency",
+          "video production"
+        ],
+        "workflow_stage": "concept / ideation | asset creation | animation / motion",
+        "tools_mentioned": [
+          "GPT Image 2",
+          "Seedance 2.0"
+        ],
+        "has_demo_or_repo": false,
+        "summary": "用 GPT Image 2 生成 4-6 格故事板网格，包含镜头角度、角色位置和场景构图，同时生成多角度角色参考表。然后将故事板上传到 Seedance 2.0 进行视频生成，保持角色和场景的一致性。",
+        "why_important": "通过结构化的故事板和参考表工作流，解决了 AI 视频生成中角色和场景一致性的核心问题。",
+        "learnings": "使用网格布局的故事板和多角度角色参考表是保持 AI 视频生成一致性的关键技术。",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "linkedin",
+      "source_id": "7452836444861124608",
+      "url": "https://www.linkedin.com/posts/denis-unagst_aivideo-generativeai-videoproduction-activity-7452836444861124608-3CZf",
+      "author": {
+        "name": "Denis Unagst",
+        "username": "denis-unagst",
+        "headline": "AI-Generated Video Ads for E-commerce & Agencies | Faster. Cheaper. Scalable."
+      },
+      "content": "Breakdown of Evgeny Bulanov’s AI brand film for BOTENZ. \nZero real product. 100% AI. Here's the pipeline that made it work.🎬\n\nA brand film for BOTENZ, made entirely with AI, when the actual product didn't exist yet. Projects like this are exactly why any of this matters.\n\nWhat stuck with me from the pipeline:\nKling 2.5 + manual label compositing in After Effects - AI still struggles with fine details. Skip this step and any product video looks like a beautiful but unfinished demo reel.\nDitching sterile gloss in favor of ARRI Alexa aesthetics - soft light, organic texture. That's exactly what I try to build into my prompts: not \"pretty,\" but \"real.\"\nSuno with stem separation + ElevenLabs v3 - audio finally stops being the weakest link in AI video.\nTopaz upscale with cinematic grain -  the finishing touch that turns \"neural\" into \"cinematic.\"\n\nBut the one thing I'm taking away: the time-remap trick - cut all clips at normal speed first, then adjust the tempo of the whole scene at once. AI generation seams just disappear. Elegant and obvious in hindsight.\n\nAI video only becomes a professional tool when it's backed by an understanding of classical production - lighting, editing, sound, the physics of motion. Without that foundation, even the best prompt just produces beautiful noise.\n\nQuestion for you: what matters more in a commercial AI video right now - perfect photorealism, or a lived-in atmosphere with intentional imperfection?\n👇 Curious what you think\n#AIVideo #GenerativeAI #VideoProduction #Kling #AICommercial",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-04-22T21:51:15.460Z",
+      "ai": {
+        "domain": "film_video",
+        "title": "Breakdown of Evgeny Bulanov's AI brand film for BOTENZ",
+        "author_role": "AI Video Production Specialist",
+        "keywords": [
+          "Kling 2.5",
+          "After Effects",
+          "compositing",
+          "ARRI Alexa",
+          "product video"
+        ],
+        "workflow_stage": "asset creation | layout / composition | rendering / export",
+        "tools_mentioned": [
+          "Kling 2.5",
+          "After Effects"
+        ],
+        "has_demo_or_repo": false,
+        "summary": "使用 Kling 2.5 生成视频，然后在 After Effects 中进行手动标签合成。采用 ARRI Alexa 美学（柔光、有机纹理）替代立体光泽效果。强调了 AI 在细节处理上的局限性，必须通过后期合成来完善产品视频。",
+        "why_important": "明确指出 AI 视频生成的当前限制：细节处理仍需人工合成，跳过这一步会导致作品看起来像未完成的演示片段。",
+        "learnings": "AI 生成的产品视频必须经过 After Effects 等工具的手动合成和标签调整才能达到商业标准；美学选择（如 ARRI Alexa 风格）对最终效果至关重要。",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "linkedin",
+      "source_id": "7455700026086821888",
+      "url": "https://www.linkedin.com/posts/rory-flynn-ai_chatgpt-ai-innovation-activity-7455700026086821888-31gC",
+      "author": {
+        "name": "Rory Flynn",
+        "username": "rory-flynn-ai",
+        "headline": "AI Workflows for Marketers || Ai Workshops for Creative + Marketing Teams || Ai Keynote Speaker || Helping You Find Practical Usage of Ai in Your Business"
+      },
+      "content": "GPT2 + Seedance 2.0 → Capoeira Sequence.\n\nTesting for more complex choreography.\n\nFULL WORKFLOW: https://lnkd.in/ezkF7vDV\n\nTOOLS:\n+ Weavy: Workflow Build\n+ GPT2: Diagrams\n+ Midjourney: Aesthetic reference\n+ Seedance 2.0: Animation\n\nPROCESS:\n01. Gen sequence diagram w. GPT2\n02. Gen camera motion diagram w. GPT2\n03. Connect those + prompt to SD2 omni-ref\n04. Generate \n\nBuilding on this post: https://lnkd.in/e2T79gf8\n\nCONTEXT:\n+ I wanted to test this process further\n+ Instead of 1 diagram we tried 2\n+ (1) diagram outlining the fight sequence \n+ (1) diagram outlining the camera motion\n+ A Midjourney image to build the environment\n+ To see how much SD2 actually listens \n\nFLAWS:\n+ SD2 did not follow step-by-step\n+ It blended some of the chars. moves together\n+ But nailed around 70% of the flow\n+ I ran this generation (4) times \n+ Each time it would follow 1 of the 2 diagrams more\n+ The trick here might be to combine both diagrams\n+ Into one image and feed that in as a reference\n+ Probably hits info overload at certain point \n\nQUICK THOUGHTS: \n+ Not 100% effective in this run \n+ The visual is still cool + useful \n+ The physics + camera motion is great\n+ Probably need to test diff prompting styles\n+ And test different diagram builds\n+ One thing is clear…SD2 is reading these\n+ It is understanding them…and producing\n+ Even if it’s not 100% accurate (yet)\n\nAs always…not perfect.\nStill think this opens up a lot of ideas.\nKeep doing weird stuff.\n\nHave fun.\n\n#chatgpt #ai #innovation #weavy #kling #seedance",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-04-30T19:30:06.427Z",
+      "ai": {
+        "domain": "film_video",
+        "title": "GPT2 + Seedance 2.0 → Capoeira Sequence",
+        "author_role": "AI Workflow Specialist",
+        "keywords": [
+          "GPT2",
+          "Seedance 2.0",
+          "choreography",
+          "Weavy",
+          "Midjourney",
+          "sequence diagram"
+        ],
+        "workflow_stage": "concept / ideation | animation / motion",
+        "tools_mentioned": [
+          "Weavy",
+          "GPT Image 2",
+          "Midjourney",
+          "Seedance 2.0"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "使用 GPT2 生成两个图表：战斗序列图和摄像机运动图。将这两个图表与 Midjourney 的美学参考连接到 Seedance 2.0 的 omni-ref 进行动画生成。测试了更复杂的编舞序列制作流程。",
+        "why_important": "展示了如何用多层次的图表（动作序列 + 摄像机运动）作为 AI 视频生成的精确控制手段，提高复杂动作场景的生成质量。",
+        "learnings": "将复杂动作分解为序列图和摄像机运动图两个独立的控制层，可以更精确地指导 AI 视频生成器产出符合预期的动作场景。",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "linkedin",
+      "source_id": "7456986630667702272",
+      "url": "https://www.linkedin.com/posts/max-vaselashko-360819172_ai-aivideo-3d-activity-7456986630667702272-j57c",
+      "author": {
+        "name": "Max Vaselashko",
+        "username": "max-vaselashko-360819172",
+        "headline": "3D Product Animation & AI Video for B2B SaaS & Brands"
+      },
+      "content": "🚀 Hybrid Production: 3D + AI for SaaS Explainer Videos\nI’m excited to share my latest project—a promo video for an invoice-management SaaS. In this work, I’ve combined a classic 3D pipeline with the power of AI tools to achieve high-quality results while significantly accelerating the production process.\nThe Workflow:\nCinema 4D: Used for blocking and precise camera work. This provided total control over composition and scene geometry.\nAI Tools: I leveraged AI to handle the shading, lighting, and final visual polish.\nThe result speaks for itself. This hybrid approach isn't just about efficiency; it's about pushing the boundaries of what's possible at the intersection of technology and creativity. I’ll definitely be exploring this direction further.\nI'd love to hear your thoughts on this workflow in the comments! 👇\n\n#AI #AIvideo #3D #Marketing #SaaS #MotionDesign #Cinema4D #ProductVideo #ExplainerVideo #TechTrends",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-05-04T08:42:36.863Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "Hybrid Production: 3D + AI for SaaS Explainer Videos",
+        "author_role": "3D Product Animation Specialist",
+        "keywords": [
+          "Cinema 4D",
+          "AI",
+          "3D pipeline",
+          "hybrid workflow",
+          "shading",
+          "lighting"
+        ],
+        "workflow_stage": "layout / composition | rendering / export",
+        "tools_mentioned": [
+          "Cinema 4D"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "使用 Cinema 4D 进行场景布局和精确的摄像机工作，然后利用 AI 工具处理着色、照明和最终视觉效果。这种混合方法在保持对构图和场景几何的完全控制的同时，显著加快了生产流程。",
+        "why_important": "展示了传统 3D 工具与 AI 的最佳结合点：用 3D 软件控制精确度，用 AI 加速渲染和视觉效果。",
+        "learnings": "将 3D 软件用于需要精确控制的环节（构图、摄像机），将 AI 用于耗时的渲染环节（着色、照明），可以实现效率与质量的平衡。",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "linkedin",
+      "source_id": "7458080362468958208",
+      "url": "https://www.linkedin.com/posts/raphael-guilhem_gpt-image-2-seedance-2-incredible-video-activity-7458080362468958208-uhdf",
+      "author": {
+        "name": "Raphael Guilhem",
+        "username": "raphael-guilhem",
+        "headline": "AI & Growth"
+      },
+      "content": "GPT Image 2 + Seedance 2 = Incredible video ads\n\nIt makes your video workflows faster, cheaper, and more scalable.\n\nThat’s one of the best AI tricks I’ve discovered recently.\n\nAnd I’m sharing it with you:\n\n1) Brief + packshot.\nYou give the workflow your creative brief and your product image.\n\n2) GPT Image 2 builds your storyboard.\nIt creates it frame by frame and shows it in one image. You review every shot before a single video credit gets spent (a bit like old nanobanana grid).\n\n3) Seedance 2 takes the storyboard and generates the video. The storyboard is the prompt. Each frame becomes a video clip. The model knows exactly what you want because you designed it with unmatched precision.\n\nThe result: a video ad where every frame was intentional.\nNo guessing. No credit waste. No \"let's try again.\"\n\nComment \"Storyboard\" and I'll send you the workflow.",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-05-07T09:08:42.845Z",
+      "ai": {
+        "domain": "film_video",
+        "title": "GPT Image 2 + Seedance 2 = Incredible video ads",
+        "author_role": "AI & Growth Specialist",
+        "keywords": [
+          "GPT Image 2",
+          "Seedance 2",
+          "storyboard",
+          "video generation",
+          "workflow"
+        ],
+        "workflow_stage": "concept / ideation | asset creation",
+        "tools_mentioned": [
+          "GPT Image 2",
+          "Seedance 2"
+        ],
+        "has_demo_or_repo": false,
+        "summary": "使用 GPT Image 2 生成逐帧故事板，然后用 Seedance 2.0 将故事板转换为视频。故事板作为提示词，每一帧成为视频片段。",
+        "why_important": "通过故事板预审流程，在消耗视频生成额度之前就能审查每个镜头，提高了视频制作效率和成本控制。",
+        "learnings": "先用 AI 生成故事板网格布局，审核通过后再进行视频生成，避免浪费生成额度。",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "linkedin",
+      "source_id": "7457425130705735683",
+      "url": "https://www.linkedin.com/posts/carlocostantini_a-2d-image-generated-from-an-interaction-activity-7457425130705735683-vwOh",
+      "author": {
+        "name": "Carlo Costantini",
+        "username": "carlocostantini",
+        "headline": "Tech Leader - Design, Build, Operate Secure Distributed Systems - AI Driven Agentic Development"
+      },
+      "content": "A 2D image generated from an interaction with AI image generator was converted into a 3D Mesh in Blender on commodity hardware running Linux. This isn't SORA pixel magic, this is 3D modeling, something NanoBanana, ChatGPT or Claude can't do today. Claude co-ordinated with ComfyUI, open source models and Blender. Total time to generate this very simplistic and modest example took less than 8 hours spread out over a couple days as this is a hobby not a full time job. The harder part is getting the mesh broken down into components that allow posing the models.",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-05-05T13:45:03.419Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "A 2D image generated from an interaction with AI image generator was converted into a 3D Mesh in Blender",
+        "author_role": "Tech Leader",
+        "keywords": [
+          "Claude",
+          "ComfyUI",
+          "Blender",
+          "2D to 3D",
+          "mesh generation"
+        ],
+        "workflow_stage": "asset creation | rendering / export",
+        "tools_mentioned": [
+          "Claude",
+          "ComfyUI",
+          "Blender"
+        ],
+        "has_demo_or_repo": false,
+        "summary": "使用 Claude 协调 ComfyUI、开源模型和 Blender，在普通硬件上将 AI 生成的 2D 图像转换为 3D 网格。整个过程耗时不到 8 小时（分散在几天内），最困难的部分是将网格分解为可摆姿势的组件。",
+        "why_important": "展示了在普通硬件上通过 AI 编排实现 2D 到 3D 转换的完整管道，这是传统 3D 建模工具难以实现的自动化流程。",
+        "learnings": "Claude 可以作为协调器，串联 ComfyUI 和 Blender 实现 2D 到 3D 的转换；网格组件化是实现可操作 3D 模型的关键步骤。",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "linkedin",
+      "source_id": "7457815960373231616",
+      "url": "https://www.linkedin.com/posts/%F0%9F%8C%9Frourke-sefton-minns-85684424b_hyperframes-claudecode-aimotiongraphics-activity-7457815960373231616-3-gl",
+      "author": {
+        "name": "🌟Rourke Sefton-Minns",
+        "username": "🌟rourke-sefton-minns-85684424b",
+        "headline": "Generative AI• Educator • Consultant • Creative Director"
+      },
+      "content": "Claude Code motion graphics, what’s really possible? 👀\n\nHere's the workflow I used: https://lnkd.in/eRPP2FN8\n\nHyperFrames gives creators a free template library where you can paste prompts directly into Claude Code and generate fully custom motion graphics — carousels, kinetic text, flight paths, cinematic showreels and more. It’s a professional-grade motion design workflow built for creators who want polished output without the After Effects learning curve.\n\nfor more creative AI education with rourke: https://join.genhq.io/\n\n#HyperFrames #ClaudeCode #AIMotionGraphics #CreativeAI #AIVideoEditing",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-05-06T15:38:04.473Z",
+      "ai": {
+        "domain": "motion_design",
+        "title": "Claude Code motion graphics workflow using HyperFrames template library for custom animations without After Effects",
+        "author_role": "Generative AI Educator & Creative Director",
+        "keywords": [
+          "Claude Code",
+          "HyperFrames",
+          "motion graphics",
+          "template library",
+          "prompts",
+          "kinetic text",
+          "carousels"
+        ],
+        "workflow_stage": "animation / motion",
+        "tools_mentioned": [
+          "Claude Code",
+          "HyperFrames"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Author demonstrates a workflow using HyperFrames template library where creators paste prompts directly into Claude Code to generate custom motion graphics including carousels, kinetic text, flight paths, and cinematic showreels. The workflow is positioned as a professional-grade alternative to After Effects for creators who want polished output without the learning curve.",
+        "why_important": "Shows a concrete prompt-to-motion workflow that bypasses traditional animation software, making professional motion design accessible to non-specialists.",
+        "learnings": "HyperFrames provides a free template library that bridges Claude Code with motion graphics generation through direct prompt input, enabling production of multiple motion graphic formats without After Effects skills.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "linkedin",
+      "source_id": "7459534365690245120",
+      "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:9357620-7456750579592216576",
+      "author": {
+        "name": "Shikha Arora",
+        "username": "arorashikha",
+        "headline": "Founder & CEO @ FluidFit.ai | Replacing Manual AI Media Production with Repeatable Workflows"
+      },
+      "content": "Not going to pretend this replaces your motion graphics team.\n\nBut it gives everyone else on the team the ability to add motion - without waiting for one.\n\nHere's how easy FluidFitAI makes it:\n\n→ Import a PSD\n\n→ Extract the layers automatically\n\n→ Plug into the AI Motion Graphics node\n\n→ Choose your preferred AI Model \n\n→ Tweak the duration and options\n\n→ Export!\n\nA few minutes is all it takes. No After Effects or keyframe wrangling.\n\n\n\nFor creative agencies, this changes something specific - motion no longer has to be a specialist task that creates a bottleneck. Any designer with a PSD can now produce animated content independently.\n\nMore output with the same team.\n\nHappy to show you how FluidFit fits into your existing workflow. DM or drop a comment.",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-05-11T09:26:24.227Z",
+      "ai": {
+        "domain": "motion_design",
+        "title": "FluidFitAI workflow: PSD layer extraction to AI motion graphics without After Effects or keyframing",
+        "author_role": "Founder & CEO at FluidFit.ai",
+        "keywords": [
+          "FluidFitAI",
+          "PSD",
+          "layer extraction",
+          "AI Motion Graphics node",
+          "After Effects alternative",
+          "keyframe"
+        ],
+        "workflow_stage": "animation / motion",
+        "tools_mentioned": [
+          "FluidFitAI",
+          "PSD"
+        ],
+        "has_demo_or_repo": false,
+        "summary": "Author outlines a specific workflow: import PSD, auto-extract layers, plug into AI Motion Graphics node, select AI model, adjust duration/options, and export. The process takes minutes and eliminates the need for After Effects or manual keyframing.",
+        "why_important": "Removes motion design bottlenecks in creative agencies by enabling any designer with a PSD to add motion without specialist skills or waiting for motion graphics teams.",
+        "learnings": "FluidFitAI's AI Motion Graphics node can take layered PSD files and convert them to motion graphics through model selection and parameter tweaking, democratizing motion design within teams.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    }
+  ]
+}
