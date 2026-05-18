@@ -1,0 +1,214 @@
+{
+  "date": "2026-05-18",
+  "generated_at": "2026-05-18T11:42:40.487985+00:00",
+  "posts": [
+    {
+      "source": "linkedin",
+      "source_id": "7461695405345628160",
+      "url": "https://www.linkedin.com/posts/ilincatrif_ai-activity-7461695405345628160-Ngjy",
+      "author": {
+        "name": "Ilinca Trif",
+        "username": "ilincatrif",
+        "headline": "Senior Footwear Designer | Ai Film + Image creative"
+      },
+      "content": "Australian Open inspired AI sneaker campaign made using my own Figma Weave workflow. \n\nThis was not a \"one click\" solution and I think this is important to clarify. A lot of time and thought was put into creating the visuals for this AI video. \n\nHaving said that, we live in a moment where a product / fashion designer can build a world around their designs. Before ever holding a physical sample in hand. \n\nIf you are curios to see the AI assets I generated but also the starting sketch (just a simple black/white CAD) and mood board see the link to my post in the comment section below. \n\n*Its not 'Cerulean Blue' but 'Process Blue C'*\n\n#AI",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-05-17T08:33:36.231Z",
+      "ai": {
+        "domain": "film_video",
+        "title": "Australian Open sneaker campaign using Figma Weave workflow for AI video generation",
+        "author_role": "Senior Footwear Designer, AI Film + Image creative",
+        "keywords": [
+          "Figma Weave",
+          "AI video",
+          "product design",
+          "fashion design",
+          "CAD",
+          "mood board"
+        ],
+        "workflow_stage": "concept / ideation | asset creation | rendering / export",
+        "tools_mentioned": [
+          "Figma Weave"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Designer created AI video campaign for Australian Open-inspired sneakers using custom Figma Weave workflow. Started with simple black/white CAD sketch and mood board, built world around designs before physical sample existed.",
+        "why_important": "Demonstrates concrete workflow for fashion/product designers to create video campaigns from CAD sketches using AI, showing multi-stage process rather than one-click generation.",
+        "learnings": "Figma Weave can bridge traditional CAD sketches to AI video through deliberate asset generation workflow - not instant but enables designers to visualize products in context pre-production.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "linkedin",
+      "source_id": "7460818478506209280",
+      "url": "https://www.linkedin.com/posts/ahmed-elmatarawi-85515622_ai-maya-vfx-activity-7460818478506209280-znUo",
+      "author": {
+        "name": "Ahmed Elmatarawi",
+        "username": "ahmed-elmatarawi-85515622",
+        "headline": "Filmmaker / Rigger / Animator"
+      },
+      "content": "🚀 A step closer attempt building a live pipeline. Still Experimenting!\nAI applying textures, skin, hair, and even rebuilding the surrounding environment all from a SINGLE rendered frame. 🎬⚡While moving around with the mouse in Maya. \nA step closer to live Maya-to-AI feedback pipeline can change the game for look development. One frame becomes a fully realized world while maintaining absolute control over animation and motion.\n\nNo replacing artists. Just integration! 🔥\n\nExperiment #5 in pushing AI-assisted cinematic workflows further than ever before. The future of animation and VFX is not automation replacing artists… it’s artists moving at impossible speed. 💡🎨🤖\n\nYou can check higher quality and other work here: \nhttps://lnkd.in/ehUnDVwP\n\n#AI #Maya #VFX #Animation #LookDev #CGI #MachineLearning #3D #Filmmaking #TechArt #ComfyUI #ArtificialIntelligence",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-05-14T22:29:00.580Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "Live Maya-to-AI pipeline: Single frame texture/environment generation while animating",
+        "author_role": "Filmmaker / Rigger / Animator",
+        "keywords": [
+          "Maya",
+          "live pipeline",
+          "look development",
+          "texture generation",
+          "environment reconstruction",
+          "single frame"
+        ],
+        "workflow_stage": "rendering / export",
+        "tools_mentioned": [
+          "Maya",
+          "AI"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Experimenting with a live feedback pipeline where AI applies textures, skin, hair, and rebuilds environments from a single rendered Maya frame while navigating the scene. This approach maintains animation control while enabling real-time look development iteration.",
+        "why_important": "Demonstrates a practical integration point between traditional 3D animation tools and AI enhancement without sacrificing artist control over motion.",
+        "learnings": "Live single-frame AI processing can accelerate look development workflows by generating contextual textures and environments dynamically during Maya navigation.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "linkedin",
+      "source_id": "7458946771466018817",
+      "url": "https://www.linkedin.com/posts/yoav-peretz-23220021a_for-a-while-now-ive-been-using-ai-to-improve-activity-7458946771466018817-j11K",
+      "author": {
+        "name": "Yoav Peretz",
+        "username": "yoav-peretz-23220021a",
+        "headline": "--"
+      },
+      "content": "For a while now, I’ve been using AI to improve my workflow inside Adobe After Effects.\nAnd I’m not talking about Claude Code (I’ll leave that for another post).\nOne of the most powerful uses of AI, in my opinion, is creating custom scripts that solve specific workflow problems and help you work faster while still keeping full creative control.\nFor example, I wanted to recreate the WC 2026 animation with 3D spiral text layers featuring all the countries participating in the World Cup.\nNormally, this would require a lot of repetitive manual work.\ncreating the spiral structure, duplicating layers, and typing every country name into separate text layers.\nSo instead, I used AI to create two custom scripts for After Effects,\nA script to repeat the last action (similar to Shift+R in Blender)\nAnd a script to replace each text layer with a different word\nUsing these two scripts together, I was able to build the entire animation much faster than usual.\nThat’s the real power of AI for creatives.\nnot replacing creativity, but enhancing workflow, speeding up repetitive tasks, and letting you focus more on the creative process itself.\nCheck out the video below to see the workflow in action.",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-05-09T18:31:30.847Z",
+      "ai": {
+        "domain": "motion_design",
+        "title": "Custom AI-generated After Effects scripts for automating 3D spiral text layer creation",
+        "author_role": "Motion Designer",
+        "keywords": [
+          "After Effects",
+          "custom scripts",
+          "AI automation",
+          "3D text",
+          "spiral animation",
+          "workflow optimization"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "Adobe After Effects",
+          "AI script generation"
+        ],
+        "has_demo_or_repo": false,
+        "summary": "Using AI to create custom After Effects scripts that automate repetitive tasks like creating 3D spiral text structures with multiple country names for the WC 2026 animation. This approach eliminates manual layer duplication and spiral structure setup while maintaining creative control.",
+        "why_important": "Demonstrates practical application of AI for generating custom automation scripts that solve specific, tedious motion design problems.",
+        "learnings": "AI can generate custom After Effects scripts to automate complex, repetitive layer setups like 3D spiral text arrangements, significantly reducing manual production time.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "linkedin",
+      "source_id": "7458877401578586113",
+      "url": "https://www.linkedin.com/posts/bruce-allen-5524725_recently-experimented-with-using-adobe-illustrator-activity-7458877401578586113-9rZf",
+      "author": {
+        "name": "Bruce Allen",
+        "username": "bruce-allen-5524725",
+        "headline": "Creative Director | Graphic Designer | Vector Illustration & Fashion Design | Adobe Illustrator Expert | AI-Assisted Workflows"
+      },
+      "content": "Recently experimented with using Adobe Illustrator as the foundation for an independent animated music video project called “World Go Round,” originally created for a presentation I gave at the Afro Animation Summit on building an animation studio that provides traditional hand-drawn 2D animation for high-ticket clients, hybrid workflows for mid-tier productions, and AI-assisted animation as a more budget-friendly option for independent creators.\n\nInstead of treating Illustrator strictly as a design tool, I approached it more like a visual development environment for animation. The storyboard compositions, character illustrations, and layered vector assets were all created in Illustrator before being animated and composited through a hybrid workflow involving Photoshop and AI-assisted motion techniques.\n\nOne thing I’ve always appreciated about vector illustration is the flexibility it creates across multiple mediums. A single Illustrator workflow can move between apparel design, storyboarding, animation, motion graphics, and branding while maintaining consistency throughout the pipeline.\n\nThis project became an experiment in combining traditional visual development principles with newer production tools to create cinematic animated content as an independent artist and creative director.\n\nFull visual experience:\nBLMTD.com",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-05-09T13:55:51.777Z",
+      "ai": {
+        "domain": "motion_design",
+        "title": "Adobe Illustrator as animation pre-production environment for 2D hand-drawn workflows",
+        "author_role": "Creative Director | Graphic Designer",
+        "keywords": [
+          "Adobe Illustrator",
+          "2D animation",
+          "storyboard",
+          "visual development",
+          "hybrid workflows",
+          "AI-assisted animation"
+        ],
+        "workflow_stage": "concept / ideation",
+        "tools_mentioned": [
+          "Adobe Illustrator"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Used Adobe Illustrator as a visual development environment rather than just a design tool for the animated music video 'World Go Round.' Project demonstrated three production tiers: traditional hand-drawn 2D for high-ticket clients, hybrid workflows for mid-tier, and AI-assisted animation for budget-conscious independent creators.",
+        "why_important": "Shows how traditional vector tools can serve as animation pre-production environments and reveals a tiered workflow strategy for different client budgets.",
+        "learnings": "Treating Illustrator as a visual development environment enables more efficient storyboard-to-animation workflows, especially when planning for different production quality tiers.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 7
+      }
+    },
+    {
+      "source": "linkedin",
+      "source_id": "7459654217356525568",
+      "url": "https://www.linkedin.com/posts/steven-george-bb688329_motiongraphics-adobefirefly-aftereffects-activity-7459654217356525568-dC-_",
+      "author": {
+        "name": "Steven George",
+        "username": "steven-george-bb688329",
+        "headline": "Senior CGI Artist (Open to Work)"
+      },
+      "content": "Excited to share a new motion graphics piece I created using Adobe Firefly and Adobe After Effects.\n\nThis project was a fun opportunity to experiment with AI-assisted creativity, animation, compositing, and visual storytelling — combining generative tools with traditional motion design workflows to bring the concept to life.\n\nI’m always interested in exploring how emerging AI tools can enhance creative production while still keeping the artist’s vision at the center of the process.\n\nWould love to hear your thoughts and feedback. 🚀\n#MotionGraphics #AdobeFirefly #AfterEffects #CreativeTechnology #Animation #CGI #MotionDesign #GenerativeAI #VisualDesign #AdobeCreativeCloud",
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "published_at": "2026-05-11T17:22:39.091Z",
+      "ai": {
+        "domain": "motion_design",
+        "title": "Adobe Firefly + After Effects: Combining generative AI with traditional motion design",
+        "author_role": "Senior CGI Artist",
+        "keywords": [
+          "Adobe Firefly",
+          "After Effects",
+          "generative AI",
+          "compositing",
+          "motion graphics",
+          "hybrid workflow"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "Adobe Firefly",
+          "Adobe After Effects"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Created a motion graphics piece combining Adobe Firefly's generative AI capabilities with traditional After Effects animation and compositing workflows. The project explores how AI-generated assets can integrate with conventional motion design techniques while keeping artistic vision central.",
+        "why_important": "Shows a practical hybrid approach where AI-generated elements enhance rather than replace traditional motion design workflows.",
+        "learnings": "Adobe Firefly can serve as an asset generation layer within After Effects workflows, providing AI-generated elements that integrate with traditional animation and compositing techniques.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 7
+      }
+    }
+  ]
+}
