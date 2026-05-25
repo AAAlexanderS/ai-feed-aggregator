@@ -1,0 +1,179 @@
+{
+  "date": "2026-05-25",
+  "generated_at": "2026-05-25T11:50:48.120443+00:00",
+  "posts": [
+    {
+      "source": "github",
+      "source_id": "gh_1033418385",
+      "url": "https://github.com/diodiogod/TTS-Audio-Suite",
+      "author": {
+        "name": "diodiogod",
+        "username": "diodiogod",
+        "headline": ""
+      },
+      "content": "TTS-Audio-Suite: A ComfyUI custom node integration for local multi-engine multi-language Text-to-Speech and Voice Conversion. Supports: RVC, Echo-TTS, Qwen3-TTS, Cozy Voice 3, Step Audio EditX, IndexTTS-2, Chatterbox (classic and multilingual), F5-TTS, Higgs Audio 2 and VibeVoice with unlimited text length, SRT timing, Character support, and many audio tools",
+      "metrics": {
+        "stars": 947,
+        "forks": 105
+      },
+      "topics": [
+        "ai-audio",
+        "audio",
+        "audio-editing",
+        "audio-generation",
+        "audio-processing",
+        "chatterbox",
+        "comfyui",
+        "cozy-voice-3",
+        "echo-tts",
+        "f5",
+        "f5-tts",
+        "higgs-audio",
+        "indextts-2",
+        "qwen3-tts",
+        "rvc",
+        "text-to-speech",
+        "tts",
+        "vibevoice",
+        "voice-cloning",
+        "voice-conversion"
+      ],
+      "published_at": "2025-08-06T19:33:01Z",
+      "ai": {
+        "domain": "motion_design",
+        "title": "TTS-Audio-Suite: ComfyUI multi-engine TTS with RVC, F5-TTS, unlimited length, SRT timing",
+        "author_role": "ComfyUI audio tools developer",
+        "keywords": [
+          "ComfyUI",
+          "TTS",
+          "RVC",
+          "F5-TTS",
+          "voice conversion",
+          "SRT",
+          "audio tools"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "ComfyUI",
+          "RVC",
+          "Echo-TTS",
+          "Qwen3-TTS",
+          "Cozy Voice 3",
+          "F5-TTS",
+          "Higgs Audio 2"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "ComfyUI custom node integrating multiple local TTS engines (RVC, F5-TTS, Echo-TTS, etc.) with voice conversion, unlimited text length handling, SRT subtitle timing, and character support. Provides comprehensive audio processing tools within ComfyUI workflow.",
+        "why_important": "Enables complete voice production pipeline inside ComfyUI without external dependencies, critical for animation and video workflows.",
+        "learnings": "Shows how to integrate multiple TTS engines with timing/subtitle synchronization directly in node-based workflows.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_922873328",
+      "url": "https://github.com/willmiao/ComfyUI-Lora-Manager",
+      "author": {
+        "name": "willmiao",
+        "username": "willmiao",
+        "headline": ""
+      },
+      "content": "ComfyUI-Lora-Manager: LoRA Manager for ComfyUI - A powerful extension for organizing, previewing, and integrating LoRA models with metadata and workflow support.",
+      "metrics": {
+        "stars": 1163,
+        "forks": 115
+      },
+      "topics": [],
+      "published_at": "2025-01-27T08:39:04Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "ComfyUI-Lora-Manager: LoRA Manager for organizing, previewing LoRA models with metadata",
+        "author_role": "ComfyUI extension developer",
+        "keywords": [
+          "ComfyUI",
+          "LoRA",
+          "metadata",
+          "workflow",
+          "model management"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "ComfyUI",
+          "LoRA"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "A ComfyUI extension that provides organization, preview, and integration capabilities for LoRA models. Includes metadata support and workflow integration for managing multiple LoRA files.",
+        "why_important": "Solves the practical problem of managing dozens or hundreds of LoRA models in production ComfyUI workflows.",
+        "learnings": "Extension demonstrates how to build metadata-driven asset management directly into ComfyUI's node-based interface.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1159938129",
+      "url": "https://github.com/ZSeven-W/openpencil",
+      "author": {
+        "name": "ZSeven-W",
+        "username": "ZSeven-W",
+        "headline": ""
+      },
+      "content": "openpencil: The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.",
+      "metrics": {
+        "stars": 3209,
+        "forks": 332
+      },
+      "topics": [
+        "agent",
+        "agent-team",
+        "ai",
+        "claude",
+        "claude-code",
+        "codex",
+        "fimga",
+        "flutter",
+        "html",
+        "mcp",
+        "opencode",
+        "openpencil",
+        "pencil",
+        "react",
+        "react-native",
+        "svelte",
+        "ui",
+        "vibecoding",
+        "vibedesign",
+        "vue"
+      ],
+      "published_at": "2026-02-17T10:51:46Z",
+      "ai": {
+        "domain": "ui_ux_design",
+        "title": "openpencil: Open-source AI-native vector design tool with concurrent Agent Teams, prompts to UI",
+        "author_role": "Design tool developer",
+        "keywords": [
+          "vector design",
+          "AI-native",
+          "Agent Teams",
+          "design-as-code",
+          "prompt-to-UI",
+          "live canvas"
+        ],
+        "workflow_stage": "concept / ideation",
+        "tools_mentioned": [
+          "openpencil",
+          "Pencil"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "First open-source AI-native vector design tool featuring concurrent Agent Teams that convert prompts directly into UI on a live canvas. Implements Design-as-Code methodology as a Pencil alternative.",
+        "why_important": "Represents new paradigm of AI-first design tools where multiple agents collaborate to generate UI from natural language on editable canvas.",
+        "learnings": "Demonstrates architecture for concurrent AI agents working together in real-time vector design environment with prompt-to-UI conversion.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    }
+  ]
+}
