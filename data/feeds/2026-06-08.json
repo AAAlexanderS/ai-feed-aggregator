@@ -1,0 +1,166 @@
+{
+  "date": "2026-06-08",
+  "generated_at": "2026-06-08T12:25:16.886656+00:00",
+  "posts": [
+    {
+      "source": "github",
+      "source_id": "gh_616620075",
+      "url": "https://github.com/tin2tin/Pallaidium",
+      "author": {
+        "name": "tin2tin",
+        "username": "tin2tin",
+        "headline": ""
+      },
+      "content": "Pallaidium: PALLAIDIUM — a generative AI movie studio, seamlessly integrated into the Blender Video Editor (VSE), enabling end-to-end production from script to screen and back.",
+      "metrics": {
+        "stars": 1402,
+        "forks": 129
+      },
+      "topics": [
+        "ai",
+        "aicinema",
+        "blender",
+        "chatterbox",
+        "diffusion",
+        "flux",
+        "generative",
+        "ltx",
+        "movie",
+        "qwen",
+        "studio",
+        "text2audio",
+        "text2image",
+        "text2speech",
+        "text2video",
+        "turbo",
+        "wan",
+        "z-image"
+      ],
+      "published_at": "2023-03-20T18:40:16Z",
+      "ai": {
+        "domain": "film_video",
+        "title": "PALLAIDIUM: Generative AI movie studio integrated into Blender VSE",
+        "author_role": "Blender VSE Developer",
+        "keywords": [
+          "Blender",
+          "VSE",
+          "Video Sequence Editor",
+          "generative AI",
+          "end-to-end production",
+          "script to screen"
+        ],
+        "workflow_stage": "rendering / export",
+        "tools_mentioned": [
+          "Blender",
+          "VSE",
+          "PALLAIDIUM"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "PALLAIDIUM is a generative AI movie studio seamlessly integrated into Blender's Video Sequence Editor (VSE). It enables end-to-end production workflows from script to screen and iterative refinement within a single environment.",
+        "why_important": "Bridges the gap between AI generation and professional video editing workflows directly inside Blender's native environment.",
+        "learnings": "Shows how to integrate generative AI capabilities into existing professional video editing tools for complete production pipelines.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_575786486",
+      "url": "https://github.com/3D-Vision-World/awesome-NeRF-and-3DGS-SLAM",
+      "author": {
+        "name": "3D-Vision-World",
+        "username": "3D-Vision-World",
+        "headline": ""
+      },
+      "content": "awesome-NeRF-and-3DGS-SLAM: A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites",
+      "metrics": {
+        "stars": 2031,
+        "forks": 143
+      },
+      "topics": [
+        "3dgs",
+        "awesome",
+        "gaussiansplatting",
+        "lidar-slam",
+        "nerf",
+        "robotics",
+        "slam",
+        "vslam"
+      ],
+      "published_at": "2022-12-08T09:45:53Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "Comprehensive list of NeRF and 3D Gaussian Splatting papers for SLAM/Robotics",
+        "author_role": "3D Vision Researcher",
+        "keywords": [
+          "NeRF",
+          "3D Gaussian Splatting",
+          "3DGS",
+          "SLAM",
+          "Robotics",
+          "Implicit Representations"
+        ],
+        "workflow_stage": "concept / ideation",
+        "tools_mentioned": [
+          "NeRF",
+          "3D Gaussian Splatting"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "A curated collection of academic papers, videos, code repositories, and resources focused on NeRF and 3D Gaussian Splatting applications in SLAM and robotics domains. Provides comprehensive technical references for implementing these techniques in real-world applications.",
+        "why_important": "Centralizes cutting-edge research on 3DGS and NeRF for practitioners working on real-time 3D reconstruction and robotics applications.",
+        "learnings": "Organized resource for understanding state-of-the-art implicit 3D representations and their practical implementations in SLAM systems.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 7
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1105249676",
+      "url": "https://github.com/UllrAI/CineGen-ShortDrama",
+      "author": {
+        "name": "UllrAI",
+        "username": "UllrAI",
+        "headline": ""
+      },
+      "content": "CineGen-ShortDrama: Anikuku AI Director，开源 AI 漫剧、动漫、短剧，生成系统。AI Manga, Anime, Animation, Sketch, Generation System. 中文 ｜ English ｜ 日本語 ｜ 한국인",
+      "metrics": {
+        "stars": 412,
+        "forks": 103
+      },
+      "topics": [
+        "animation",
+        "anime",
+        "drama",
+        "manga"
+      ],
+      "published_at": "2025-11-27T10:44:33Z",
+      "ai": {
+        "domain": "film_video",
+        "title": "CineGen-ShortDrama：开源 AI 漫剧、动漫、短剧，生成系统",
+        "author_role": "AI Animation Developer",
+        "keywords": [
+          "短剧",
+          "动漫",
+          "漫剧",
+          "AI Director",
+          "animation generation",
+          "manga"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "CineGen-ShortDrama",
+          "Anikuku AI Director"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "开源的 AI 漫剧、动漫和短剧生成系统，名为 Anikuku AI Director。支持多语言（中文、英文、日文、韩文），提供完整的动画和漫画内容生成流程。",
+        "why_important": "提供开源方案用于自动化生成短剧和动漫内容，降低动画制作门槛。",
+        "learnings": "展示如何构建端到端的 AI 驱动动画生成系统，支持多语言和多种动画风格。",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    }
+  ]
+}
