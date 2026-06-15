@@ -1,0 +1,149 @@
+{
+  "date": "2026-06-15",
+  "generated_at": "2026-06-15T13:51:02.097498+00:00",
+  "posts": [
+    {
+      "source": "github",
+      "source_id": "gh_1197364953",
+      "url": "https://github.com/jtydhr88/ComfyUI-See-through",
+      "author": {
+        "name": "jtydhr88",
+        "username": "jtydhr88",
+        "headline": ""
+      },
+      "content": "ComfyUI-See-through: A ComfyUI plugin that wraps [See-through](https://github.com/shitagaki-lab/see-through) — an AI system that decomposes a single anime illustration into manipulatable 2.5D layer-decomposed models with depth ordering, ready for Live2D workflows.",
+      "metrics": {
+        "stars": 549,
+        "forks": 52
+      },
+      "topics": [],
+      "published_at": "2026-03-31T14:22:51Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "ComfyUI-See-through plugin: anime illustration → 2.5D layer-decomposed models for Live2D",
+        "author_role": "ComfyUI Plugin Developer",
+        "keywords": [
+          "ComfyUI",
+          "See-through",
+          "anime",
+          "2.5D",
+          "layer decomposition",
+          "depth ordering",
+          "Live2D"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "ComfyUI",
+          "See-through",
+          "Live2D"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "A ComfyUI plugin wrapping the See-through AI system that decomposes a single anime illustration into manipulatable 2.5D layer-decomposed models with proper depth ordering. The output is specifically formatted for Live2D animation workflows.",
+        "why_important": "Bridges the gap between static anime illustrations and rigged 2D animation by automating layer separation and depth assignment.",
+        "learnings": "Integration of AI-driven layer decomposition into node-based ComfyUI workflows enables direct pipeline from 2D art to Live2D-ready assets.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_672651553",
+      "url": "https://github.com/MrNeRF/LichtFeld-Studio",
+      "author": {
+        "name": "MrNeRF",
+        "username": "MrNeRF",
+        "headline": ""
+      },
+      "content": "LichtFeld-Studio: Train, inspect, edit, automate, and export 3D Gaussian Splatting scenes from a single native application.",
+      "metrics": {
+        "stars": 3230,
+        "forks": 359
+      },
+      "topics": [
+        "computer-graphics",
+        "computer-vision",
+        "cuda",
+        "gaussian-splatting",
+        "optimization"
+      ],
+      "published_at": "2023-07-30T19:55:48Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "LichtFeld-Studio: Train, inspect, edit, automate, and export 3D Gaussian Splatting scenes",
+        "author_role": "3D Gaussian Splatting Developer",
+        "keywords": [
+          "3D Gaussian Splatting",
+          "3DGS",
+          "training",
+          "scene editing",
+          "automation",
+          "export"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "LichtFeld-Studio",
+          "3D Gaussian Splatting"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "A native desktop application providing end-to-end pipeline for 3D Gaussian Splatting workflows: training models from captures, inspecting results, editing scenes, automating repetitive tasks, and exporting final assets. All functionality integrated into a single application interface.",
+        "why_important": "Consolidates the typically fragmented 3DGS workflow into one tool, reducing context-switching and technical barriers for creatives working with volumetric capture.",
+        "learnings": "Native application approach to 3DGS provides integrated training, editing, and export capabilities that streamline the production pipeline from capture to final deliverable.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_983846239",
+      "url": "https://github.com/sakalond/StableGen",
+      "author": {
+        "name": "sakalond",
+        "username": "sakalond",
+        "headline": ""
+      },
+      "content": "StableGen: Transform your 3D texturing workflow with the power of generative AI, directly within Blender!",
+      "metrics": {
+        "stars": 816,
+        "forks": 72
+      },
+      "topics": [
+        "blender",
+        "controlnet",
+        "ipadapter",
+        "qwen-image-edit",
+        "stable-diffusion",
+        "texture",
+        "trellis2"
+      ],
+      "published_at": "2025-05-15T02:27:38Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "StableGen: Generative AI texturing directly within Blender",
+        "author_role": "Blender Plugin Developer",
+        "keywords": [
+          "Blender",
+          "3D texturing",
+          "generative AI",
+          "Stable Diffusion",
+          "texture generation",
+          "workflow integration"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "Blender",
+          "StableGen",
+          "Stable Diffusion"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "A Blender plugin that integrates generative AI directly into 3D texturing workflows, allowing artists to generate textures without leaving the 3D environment. Leverages Stable Diffusion-based models for in-context texture creation on 3D models.",
+        "why_important": "Eliminates the export-generate-reimport cycle for AI texturing by bringing generative capabilities directly into the primary 3D workspace.",
+        "learnings": "Direct Blender integration of generative AI texturing tools reduces friction and enables faster iteration by keeping artists in their native 3D environment.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    }
+  ]
+}
