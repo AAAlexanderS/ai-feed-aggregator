@@ -1,0 +1,353 @@
+{
+  "date": "2026-06-22",
+  "generated_at": "2026-06-22T13:32:18.609158+00:00",
+  "posts": [
+    {
+      "source": "github",
+      "source_id": "gh_786118500",
+      "url": "https://github.com/heshengtao/comfyui_LLM_party",
+      "author": {
+        "name": "heshengtao",
+        "username": "heshengtao",
+        "headline": ""
+      },
+      "content": "comfyui_LLM_party: LLM Agent Framework in ComfyUI includes MCP sever, Omost,GPT-sovits, ChatTTS,GOT-OCR2.0, and FLUX prompt nodes,access to Feishu,discord,and adapts to all llms with similar openai / aisuite interfaces, such as o1,ollama, gemini, grok, qwen, GLM, deepseek, kimi,doubao. Adapted to local llms, vlm, gguf such as llama-3.3 Janus-Pro, Linkage graphRAG",
+      "metrics": {
+        "stars": 2285,
+        "forks": 188
+      },
+      "topics": [
+        "agent",
+        "comfyui",
+        "dify",
+        "flux",
+        "gemini",
+        "gguf",
+        "gpt-sovits",
+        "graphrag",
+        "janus-pro",
+        "linux",
+        "llama",
+        "mcp",
+        "o1",
+        "ocr",
+        "ollama",
+        "omost",
+        "openai",
+        "vlm",
+        "workflow"
+      ],
+      "published_at": "2024-04-13T13:42:49Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "comfyui_LLM_party: LLM Agent Framework integrating MCP, Omost, FLUX prompts, o1/ollama/gemini",
+        "author_role": "ComfyUI Extension Developer",
+        "keywords": [
+          "ComfyUI",
+          "LLM",
+          "MCP",
+          "FLUX",
+          "ollama",
+          "graphRAG",
+          "llama-3.3",
+          "Janus-Pro"
+        ],
+        "workflow_stage": "concept / ideation",
+        "tools_mentioned": [
+          "ComfyUI",
+          "MCP",
+          "Omost",
+          "FLUX",
+          "ollama",
+          "llama-3.3",
+          "Janus-Pro",
+          "graphRAG"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "ComfyUI extension framework that integrates multiple LLM interfaces (o1, ollama, gemini, qwen, deepseek) with MCP server, FLUX prompt nodes, and graphRAG linkage. Supports local LLMs and VLM models like llama-3.3 and Janus-Pro with GGUF format.",
+        "why_important": "Enables ComfyUI users to leverage multiple LLM backends and local models for prompt engineering and 3D/image generation workflows without vendor lock-in.",
+        "learnings": "Shows practical integration pattern for connecting ComfyUI with diverse LLM APIs (OpenAI-compatible interfaces) and local models, including graphRAG for knowledge retrieval.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1145022970",
+      "url": "https://github.com/HBAI-Ltd/Toonflow-app",
+      "author": {
+        "name": "HBAI-Ltd",
+        "username": "HBAI-Ltd",
+        "headline": ""
+      },
+      "content": "Toonflow-app: Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an open-source AI tool that turns stories and scripts into animated short dramas. Features AI scriptwriting, storyboarding, character and video generation. A cross-platform desktop app for efficient content creation.",
+      "metrics": {
+        "stars": 10351,
+        "forks": 1910
+      },
+      "topics": [
+        "ai",
+        "ai-content-creation",
+        "ai-tool",
+        "ai-video-generation",
+        "automation",
+        "content-generation",
+        "desktop-app",
+        "electron",
+        "generative-ai",
+        "image-generation",
+        "llm",
+        "nodejs",
+        "shorts",
+        "text-to-video",
+        "typescript",
+        "video-generation",
+        "vite",
+        "vue3"
+      ],
+      "published_at": "2026-01-29T10:25:45Z",
+      "ai": {
+        "domain": "film_video",
+        "title": "Toonflow: 开源一站式AI短剧创作工具，小说/剧本转动画短剧，含AI编剧、智能分镜、角色与视频生成",
+        "author_role": "Animation Pipeline Developer",
+        "keywords": [
+          "短剧",
+          "AI编剧",
+          "智能分镜",
+          "角色生成",
+          "视频生成",
+          "动画",
+          "desktop app"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "Toonflow"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "开源桌面应用，将小说或剧本转化为动画短剧，集成AI编剧、智能分镜、角色生成和视频生成功能。跨平台轻量部署，支持批量内容产出。",
+        "why_important": "为创作者提供从剧本到成片的完整AI动画制作流程，降低动画短剧制作门槛和成本。",
+        "learnings": "演示了AI驱动的完整动画制作管线：从文本到分镜、角色设计再到视频输出的自动化工作流程。",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_820087727",
+      "url": "https://github.com/onlook-dev/onlook",
+      "author": {
+        "name": "onlook-dev",
+        "username": "onlook-dev",
+        "headline": ""
+      },
+      "content": "onlook: The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI",
+      "metrics": {
+        "stars": 26010,
+        "forks": 2008
+      },
+      "topics": [
+        "ai",
+        "cursor",
+        "cursor-ai",
+        "design",
+        "design-to-code",
+        "drizzle",
+        "editor",
+        "figma",
+        "frontend",
+        "ide",
+        "low-code",
+        "nextjs",
+        "react",
+        "supabase",
+        "tailwindcss",
+        "typescript",
+        "ui",
+        "vibe-coding",
+        "vibecoding"
+      ],
+      "published_at": "2024-06-25T19:16:02Z",
+      "ai": {
+        "domain": "ui_ux_design",
+        "title": "Onlook: Open-Source AI-First Design tool for React - Visually build and edit with AI",
+        "author_role": "Design Tool Developer",
+        "keywords": [
+          "React",
+          "AI design",
+          "visual builder",
+          "design-to-code",
+          "open-source"
+        ],
+        "workflow_stage": "layout / composition",
+        "tools_mentioned": [
+          "Onlook",
+          "React"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Open-source AI-first design tool positioned as 'Cursor for Designers'. Enables visual building, styling, and editing of React apps with AI assistance.",
+        "why_important": "Bridges the gap between visual design and React development with AI-powered design-to-code capabilities in an open-source package.",
+        "learnings": "Demonstrates AI-assisted visual editing workflow for React components, potentially reducing handoff friction between design and development.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1103154605",
+      "url": "https://github.com/Hugo-Dz/spritefusion-pixel-snapper",
+      "author": {
+        "name": "Hugo-Dz",
+        "username": "Hugo-Dz",
+        "headline": ""
+      },
+      "content": "spritefusion-pixel-snapper: A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent pixel art generated by AI.",
+      "metrics": {
+        "stars": 2140,
+        "forks": 116
+      },
+      "topics": [
+        "game-development",
+        "gamedev",
+        "image-processing",
+        "pixel-art"
+      ],
+      "published_at": "2025-11-24T13:56:05Z",
+      "ai": {
+        "domain": "ui_ux_design",
+        "title": "Spritefusion Pixel Snapper: Tool to snap pixels to perfect grid, fixes messy AI-generated pixel art",
+        "author_role": "Pixel Art Tool Developer",
+        "keywords": [
+          "pixel art",
+          "grid snapping",
+          "AI cleanup",
+          "post-processing"
+        ],
+        "workflow_stage": "iteration / refinement",
+        "tools_mentioned": [
+          "Spritefusion"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Tool designed to fix inconsistent and messy pixel art generated by AI by snapping pixels to a perfect grid. Addresses common quality issues in AI-generated pixel graphics.",
+        "why_important": "Solves a specific pain point in AI pixel art workflows where generated output lacks the precision required for actual game/design use.",
+        "learnings": "Demonstrates post-processing approach to clean up AI-generated pixel art, ensuring grid-aligned output suitable for production use.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1266923310",
+      "url": "https://github.com/nolangz/pixel2motion",
+      "author": {
+        "name": "nolangz",
+        "username": "nolangz",
+        "headline": ""
+      },
+      "content": "pixel2motion: AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
+      "metrics": {
+        "stars": 926,
+        "forks": 81
+      },
+      "topics": [
+        "ai-design-tools",
+        "animated-logo",
+        "brand-motion",
+        "claude-skill",
+        "codex-skill",
+        "html-animation",
+        "logo-animation",
+        "logo-motion",
+        "logo-reveal",
+        "motion-design",
+        "pixel-to-svg",
+        "raster-to-svg",
+        "svg-animation",
+        "svg-motion",
+        "vector-animation"
+      ],
+      "published_at": "2026-06-12T04:25:17Z",
+      "ai": {
+        "domain": "motion_design",
+        "title": "pixel2motion: AI logo animation - turn raster logos into SVG animation with HTML demos, GIF/video previews",
+        "author_role": "Motion Graphics Automation Developer",
+        "keywords": [
+          "logo animation",
+          "SVG animation",
+          "raster to vector",
+          "motion QA",
+          "automated animation"
+        ],
+        "workflow_stage": "animation / motion",
+        "tools_mentioned": [
+          "pixel2motion"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "AI-powered tool that converts raster logos into smooth SVG animations, generating animated HTML demos, GIF/video previews, and motion QA evidence. Automates logo animation production workflow.",
+        "why_important": "Automates the typically manual process of logo animation creation, from vectorization to motion design and export in multiple formats.",
+        "learnings": "Shows end-to-end automation of logo animation: raster input → SVG conversion → motion applied → multi-format output with QA artifacts.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1016509116",
+      "url": "https://github.com/YILS-LIN/short-video-factory",
+      "author": {
+        "name": "YILS-LIN",
+        "username": "YILS-LIN",
+        "headline": ""
+      },
+      "content": "short-video-factory: 一键生成产品营销与泛内容短视频，AI批量自动剪辑，高颜值跨平台桌面端工具 One click generation of product marketing and general content short videos, AI batch automatic cliping, beautiful cross platform desktop tool",
+      "metrics": {
+        "stars": 4112,
+        "forks": 608
+      },
+      "topics": [
+        "ai",
+        "automatic",
+        "automation",
+        "clipping",
+        "cross-platform",
+        "desktop",
+        "linux",
+        "mac",
+        "marketing",
+        "pc",
+        "product",
+        "shortvideo",
+        "tiktok",
+        "windows"
+      ],
+      "published_at": "2025-07-09T05:55:44Z",
+      "ai": {
+        "domain": "film_video",
+        "title": "short-video-factory: 一键生成营销短视频，AI批量自动剪辑，跨平台桌面工具",
+        "author_role": "Video Automation Developer",
+        "keywords": [
+          "短视频",
+          "营销视频",
+          "自动剪辑",
+          "AI批量",
+          "desktop tool"
+        ],
+        "workflow_stage": "rendering / export",
+        "tools_mentioned": [
+          "short-video-factory"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "跨平台桌面应用，支持一键生成产品营销和泛内容短视频，具备AI批量自动剪辑功能。面向批量视频内容生产场景。",
+        "why_important": "针对营销视频批量生产需求，提供自动化剪辑工作流，提升短视频制作效率。",
+        "learnings": "展示了AI驱动的批量视频剪辑自动化方案，可用于营销内容规模化生产。",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 7
+      }
+    }
+  ]
+}
