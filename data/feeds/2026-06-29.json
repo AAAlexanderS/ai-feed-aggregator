@@ -1,0 +1,286 @@
+{
+  "date": "2026-06-29",
+  "generated_at": "2026-06-29T12:27:59.640460+00:00",
+  "posts": [
+    {
+      "source": "github",
+      "source_id": "gh_1033418385",
+      "url": "https://github.com/diodiogod/TTS-Audio-Suite",
+      "author": {
+        "name": "diodiogod",
+        "username": "diodiogod",
+        "headline": ""
+      },
+      "content": "TTS-Audio-Suite: A ComfyUI custom node integration for local multi-engine multi-language Text-to-Speech and Voice Conversion. Supports: RVC, Echo-TTS, Qwen3-TTS, Cozy Voice 3, Step Audio EditX, IndexTTS-2, Chatterbox (classic and multilingual), F5-TTS, Higgs Audio 2, 3, and VibeVoice with unlimited text length, SRT timing, Character support, and many audio tools",
+      "metrics": {
+        "stars": 1072,
+        "forks": 124
+      },
+      "topics": [
+        "ai-audio",
+        "audio",
+        "audio-editing",
+        "audio-generation",
+        "audio-processing",
+        "chatterbox",
+        "comfyui",
+        "cozy-voice-3",
+        "echo-tts",
+        "f5",
+        "f5-tts",
+        "higgs-audio",
+        "indextts-2",
+        "qwen3-tts",
+        "rvc",
+        "text-to-speech",
+        "tts",
+        "vibevoice",
+        "voice-cloning",
+        "voice-conversion"
+      ],
+      "published_at": "2025-08-06T19:33:01Z",
+      "ai": {
+        "domain": "film_video",
+        "title": "TTS-Audio-Suite: Multi-engine TTS & voice conversion ComfyUI node with RVC, F5-TTS, unlimited text length",
+        "author_role": "ComfyUI audio tools developer",
+        "keywords": [
+          "ComfyUI",
+          "TTS",
+          "RVC",
+          "F5-TTS",
+          "voice conversion",
+          "SRT timing",
+          "audio processing"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "ComfyUI",
+          "RVC",
+          "F5-TTS",
+          "Echo-TTS",
+          "Qwen3-TTS",
+          "Cozy Voice 3",
+          "Step Audio EditX",
+          "IndexTTS-2",
+          "Chatterbox",
+          "Higgs Audio"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "ComfyUI custom node integrating 10+ TTS engines and voice conversion tools (RVC, F5-TTS, Echo-TTS, etc.) with unlimited text length support, SRT timing, and character management. Provides local multi-language TTS and voice conversion pipeline within ComfyUI node workflow.",
+        "why_important": "Consolidates multiple TTS engines into unified ComfyUI workflow with professional features like SRT timing and unlimited text length for video production.",
+        "learnings": "ComfyUI can serve as unified interface for multiple TTS engines, enabling character-based voice management and precise timing control for video dubbing workflows.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_922873328",
+      "url": "https://github.com/willmiao/ComfyUI-Lora-Manager",
+      "author": {
+        "name": "willmiao",
+        "username": "willmiao",
+        "headline": ""
+      },
+      "content": "ComfyUI-Lora-Manager: LoRA Manager for ComfyUI - A powerful extension for organizing, previewing, and integrating LoRA models with metadata and workflow support.",
+      "metrics": {
+        "stars": 1263,
+        "forks": 124
+      },
+      "topics": [],
+      "published_at": "2025-01-27T08:39:04Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "ComfyUI-Lora-Manager: LoRA organization extension with metadata and workflow integration",
+        "author_role": "ComfyUI extension developer",
+        "keywords": [
+          "ComfyUI",
+          "LoRA",
+          "metadata",
+          "workflow",
+          "model management"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "ComfyUI",
+          "LoRA"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "A ComfyUI extension for organizing and previewing LoRA models with metadata support and workflow integration. Provides systematic management for LoRA model libraries within ComfyUI node-based workflows.",
+        "why_important": "Solves LoRA organization chaos in ComfyUI by adding metadata and preview capabilities, critical for managing large model collections.",
+        "learnings": "ComfyUI extensions can add metadata layers to model management, enabling better organization and workflow integration for LoRA models.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_904490600",
+      "url": "https://github.com/krillinai/KrillinAI",
+      "author": {
+        "name": "krillinai",
+        "username": "krillinai",
+        "headline": ""
+      },
+      "content": "KrillinAI: AI video translation & dubbing tool for humans and AI Agents, powered by LLMs. Full pipeline: download, transcribe, translate, TTS dub, reformat, cover generation. 100+ languages, optimized for YouTube, TikTok, Bilibili, Douyin, and more.AI视频翻译配音工具，面向人类与AI Agent，100+语言全链路，CLI分阶段调用，适配抖音、小红书、哔哩哔哩、视频号、TikTok、YouTube",
+      "metrics": {
+        "stars": 10421,
+        "forks": 979
+      },
+      "topics": [
+        "dubbing",
+        "localization",
+        "tts",
+        "video-transcription",
+        "video-translation"
+      ],
+      "published_at": "2024-12-17T01:59:22Z",
+      "ai": {
+        "domain": "film_video",
+        "title": "KrillinAI: Full pipeline AI video translation & dubbing CLI for YouTube, TikTok with 100+ languages",
+        "author_role": "Video localization tool developer",
+        "keywords": [
+          "video translation",
+          "dubbing",
+          "TTS",
+          "CLI",
+          "YouTube",
+          "TikTok",
+          "transcription",
+          "LLM"
+        ],
+        "workflow_stage": "rendering / export",
+        "tools_mentioned": [
+          "LLM",
+          "TTS",
+          "CLI"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "CLI tool implementing full video localization pipeline: download, transcribe, translate via LLM, TTS dub, reformat, and cover generation. Supports 100+ languages with platform-specific optimization for YouTube, TikTok, Bilibili, and Douyin through staged CLI commands.",
+        "why_important": "Automates entire video localization workflow with platform-specific formatting, solving multi-step manual process for content creators.",
+        "learnings": "Effective video localization requires staged CLI pipeline with platform-specific reformatting and cover generation, not just translation and dubbing.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1159938129",
+      "url": "https://github.com/ZSeven-W/openpencil",
+      "author": {
+        "name": "ZSeven-W",
+        "username": "ZSeven-W",
+        "headline": ""
+      },
+      "content": "openpencil: The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.",
+      "metrics": {
+        "stars": 3621,
+        "forks": 364
+      },
+      "topics": [
+        "agent",
+        "agent-team",
+        "ai",
+        "claude",
+        "claude-code",
+        "codex",
+        "fimga",
+        "flutter",
+        "html",
+        "mcp",
+        "opencode",
+        "openpencil",
+        "pencil",
+        "react",
+        "react-native",
+        "svelte",
+        "ui",
+        "vibecoding",
+        "vibedesign",
+        "vue"
+      ],
+      "published_at": "2026-02-17T10:51:46Z",
+      "ai": {
+        "domain": "ui_ux_design",
+        "title": "openpencil: Open-source AI-native vector design tool with concurrent Agent Teams and Design-as-Code",
+        "author_role": "AI design tool developer",
+        "keywords": [
+          "vector design",
+          "AI agent",
+          "Design-as-Code",
+          "prompt-to-UI",
+          "live canvas",
+          "concurrent agents"
+        ],
+        "workflow_stage": "concept / ideation",
+        "tools_mentioned": [
+          "Agent Teams",
+          "live canvas"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "First open-source AI-native vector design tool featuring concurrent Agent Teams that turn prompts into UI directly on live canvas using Design-as-Code approach. Enables prompt-driven vector design generation with multi-agent collaboration.",
+        "why_important": "Introduces concurrent AI agents to vector design workflows, enabling prompt-to-production UI generation on live canvas without export steps.",
+        "learnings": "Concurrent Agent Teams architecture enables real-time prompt-to-vector-UI generation directly on canvas, bypassing traditional design-to-code export workflow.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1113573066",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "author": {
+        "name": "hugohe3",
+        "username": "hugohe3",
+        "headline": ""
+      },
+      "content": "ppt-master: AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He",
+      "metrics": {
+        "stars": 34191,
+        "forks": 2891
+      },
+      "topics": [
+        "ai-agent",
+        "aippt",
+        "office",
+        "powerpoint",
+        "powerpoint-generation",
+        "ppt",
+        "pptx",
+        "presentation",
+        "slide",
+        "slides"
+      ],
+      "published_at": "2025-12-10T06:54:33Z",
+      "ai": {
+        "domain": "motion_design",
+        "title": "ppt-master: AI generates editable PowerPoint with native shapes, animations, audio narration from templates",
+        "author_role": "Presentation automation developer",
+        "keywords": [
+          "PowerPoint",
+          "AI generation",
+          "animations",
+          "audio narration",
+          "template",
+          "native shapes"
+        ],
+        "workflow_stage": "layout / composition",
+        "tools_mentioned": [
+          "PowerPoint",
+          "TTS"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "AI tool that generates real, editable PowerPoint files with native shapes and animations from any document, includes speaker notes voiced as audio narration. Supports custom .pptx template following instead of generating static slide images.",
+        "why_important": "Generates editable PowerPoint with native animations and audio narration, not just static images, enabling full presentation workflow automation.",
+        "learnings": "Template-following approach with native shape generation produces editable PowerPoint files with animations, avoiding static image output limitations of typical AI presentation tools.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    }
+  ]
+}
