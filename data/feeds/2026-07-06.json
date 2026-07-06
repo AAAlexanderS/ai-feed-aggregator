@@ -1,0 +1,102 @@
+{
+  "date": "2026-07-06",
+  "generated_at": "2026-07-06T12:00:04.940146+00:00",
+  "posts": [
+    {
+      "source": "github",
+      "source_id": "gh_1284139792",
+      "url": "https://github.com/Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
+      "author": {
+        "name": "Evolink-AI",
+        "username": "Evolink-AI",
+        "headline": ""
+      },
+      "content": "Awesome-Blender-Seedance-Workflow-Usecases: Curated Blender + Seedance workflows for AI filmmaking: previs, camera control, Blender MCP, reference video, and agent-guided use cases.",
+      "metrics": {
+        "stars": 302,
+        "forks": 24
+      },
+      "topics": [
+        "seedance",
+        "seedance-2",
+        "seedance-2-0",
+        "seedance-2-0-api",
+        "seedance-2-api",
+        "seedance-2-mini",
+        "seedance2"
+      ],
+      "published_at": "2026-06-29T15:03:09Z",
+      "ai": {
+        "domain": "film_video",
+        "title": "Curated Blender + Seedance workflows for AI filmmaking: previs, camera control, Blender MCP, reference video",
+        "author_role": "AI Filmmaking Workflow Developer",
+        "keywords": [
+          "Blender",
+          "Seedance",
+          "previs",
+          "camera control",
+          "MCP",
+          "AI filmmaking"
+        ],
+        "workflow_stage": "concept / ideation",
+        "tools_mentioned": [
+          "Blender",
+          "Seedance",
+          "MCP"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "A collection of production-tested workflows combining Blender and Seedance for AI-assisted filmmaking, covering previsualization, camera control setup, and agent-guided use cases. Includes specific integration patterns for Blender MCP and reference video workflows.",
+        "why_important": "Bridges traditional 3D animation software with AI video generation for production-ready filmmaking pipelines.",
+        "learnings": "Practical integration patterns for combining Blender's camera control and previs capabilities with AI video generation tools.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_705222810",
+      "url": "https://github.com/MrNeRF/awesome-3D-gaussian-splatting",
+      "author": {
+        "name": "MrNeRF",
+        "username": "MrNeRF",
+        "headline": ""
+      },
+      "content": "awesome-3D-gaussian-splatting: Curated list of papers and resources focused on 3D Gaussian Splatting, intended to keep pace with the anticipated surge of research in the coming months.",
+      "metrics": {
+        "stars": 8739,
+        "forks": 535
+      },
+      "topics": [
+        "3d-gaussian-splatting",
+        "3dgs",
+        "gaussian-splatting",
+        "nerf",
+        "neural-rendering"
+      ],
+      "published_at": "2023-10-15T12:08:17Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "Curated list of papers and resources focused on 3D Gaussian Splatting",
+        "author_role": "Research Curator",
+        "keywords": [
+          "3D Gaussian Splatting",
+          "3DGS",
+          "research papers",
+          "curated list"
+        ],
+        "workflow_stage": "rendering / export",
+        "tools_mentioned": [
+          "3D Gaussian Splatting"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "A curated collection of academic papers and technical resources specifically focused on 3D Gaussian Splatting technology. The repository tracks the rapidly evolving research landscape in 3DGS.",
+        "why_important": "Provides a centralized, actively maintained reference for practitioners working with cutting-edge 3D rendering techniques.",
+        "learnings": "Access to comprehensive academic foundations and latest developments in 3D Gaussian Splatting for implementation and research.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 7
+      }
+    }
+  ]
+}
