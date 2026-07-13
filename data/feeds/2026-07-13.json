@@ -1,0 +1,209 @@
+{
+  "date": "2026-07-13",
+  "generated_at": "2026-07-13T10:56:06.983369+00:00",
+  "posts": [
+    {
+      "source": "github",
+      "source_id": "gh_858409036",
+      "url": "https://github.com/nianticlabs/spz",
+      "author": {
+        "name": "nianticlabs",
+        "username": "nianticlabs",
+        "headline": ""
+      },
+      "content": "spz: File format for 3D Gaussian splats. About 10x smaller than the PLY equivalent with virtually no perceptible loss in visual quality. Offered as open source by Niantic Labs. More details at https://scaniverse.com/spz #3dgaussiansplats #gaussiansplatting",
+      "metrics": {
+        "stars": 889,
+        "forks": 107
+      },
+      "topics": [
+        "3dgs",
+        "compression",
+        "gaussian-splatting",
+        "splat"
+      ],
+      "published_at": "2024-09-16T20:58:31Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "SPZ: 10x smaller file format for 3D Gaussian Splats with no quality loss",
+        "author_role": "Research engineer at Niantic Labs",
+        "keywords": [
+          "3D Gaussian Splatting",
+          "file format",
+          "compression",
+          "PLY",
+          "optimization"
+        ],
+        "workflow_stage": "rendering / export",
+        "tools_mentioned": [
+          "SPZ format",
+          "PLY"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Open-source file format for 3D Gaussian splats that achieves 10x compression vs PLY with virtually no perceptible quality loss. Released by Niantic Labs with full technical documentation.",
+        "why_important": "Dramatically reduces storage and bandwidth requirements for 3DGS workflows in production pipelines.",
+        "learnings": "Shows concrete 10x compression ratio for Gaussian splat data while maintaining visual fidelity.",
+        "worth_bookmarking": true,
+        "credibility_score": 9,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1159261054",
+      "url": "https://github.com/Agents365-ai/video-podcast-maker",
+      "author": {
+        "name": "Agents365-ai",
+        "username": "Agents365-ai",
+        "headline": ""
+      },
+      "content": "video-podcast-maker: Topic → 4K narrated video for coding agents. v3.0 Asset Engine: manifest-based asset layer (user files / stock / AI images / AI B-roll / Hyperframes overlays), 11 TTS backends, Remotion composition, cost-gated AI generation",
+      "metrics": {
+        "stars": 1437,
+        "forks": 148
+      },
+      "topics": [
+        "agent-skill",
+        "ai-video",
+        "bilibili",
+        "claude-code",
+        "hyperframes",
+        "idea-to-video",
+        "remotion",
+        "text-to-speech",
+        "video-generation"
+      ],
+      "published_at": "2026-02-16T14:15:27Z",
+      "ai": {
+        "domain": "film_video",
+        "title": "video-podcast-maker v3.0: Manifest-based asset engine with 11 TTS backends",
+        "author_role": "Video automation developer",
+        "keywords": [
+          "asset pipeline",
+          "TTS",
+          "Remotion",
+          "AI B-roll",
+          "video generation",
+          "manifest"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "Remotion",
+          "TTS engines",
+          "AI image generation",
+          "Hyperframes"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Video generation system with manifest-based asset layer supporting user files, stock footage, AI-generated images/B-roll, and Hyperframes overlays. Integrates 11 TTS backends with Remotion composition and cost-gated AI generation.",
+        "why_important": "Provides production-ready asset orchestration architecture for automated video workflows with multiple AI service backends.",
+        "learnings": "Demonstrates manifest-driven approach to managing heterogeneous asset sources (user/stock/AI) in video pipelines with cost controls.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_616620075",
+      "url": "https://github.com/tin2tin/Pallaidium",
+      "author": {
+        "name": "tin2tin",
+        "username": "tin2tin",
+        "headline": ""
+      },
+      "content": "Pallaidium: PALLAIDIUM — a generative AI movie studio, seamlessly integrated into the Blender Video Editor (VSE), enabling end-to-end production from script to screen and back.",
+      "metrics": {
+        "stars": 1490,
+        "forks": 150
+      },
+      "topics": [
+        "ai",
+        "aicinema",
+        "blender",
+        "chatterbox",
+        "diffusion",
+        "flux",
+        "generative",
+        "ltx",
+        "movie",
+        "qwen",
+        "studio",
+        "text2audio",
+        "text2image",
+        "text2speech",
+        "text2video",
+        "turbo",
+        "wan",
+        "z-image"
+      ],
+      "published_at": "2023-03-20T18:40:16Z",
+      "ai": {
+        "domain": "film_video",
+        "title": "Pallaidium: Generative AI movie studio integrated into Blender Video Editor",
+        "author_role": "Blender VSE developer",
+        "keywords": [
+          "Blender",
+          "VSE",
+          "video editing",
+          "generative AI",
+          "end-to-end production"
+        ],
+        "workflow_stage": "iteration / refinement",
+        "tools_mentioned": [
+          "Blender",
+          "Video Sequence Editor"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Generative AI studio seamlessly integrated into Blender's Video Sequence Editor, enabling end-to-end production from script to final output. Works natively within Blender VSE workflow.",
+        "why_important": "Brings generative AI capabilities directly into professional video editing environment without breaking existing workflows.",
+        "learnings": "Shows integration pattern for embedding AI generation tools into established creative software like Blender.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1130731589",
+      "url": "https://github.com/jtydhr88/ComfyUI-qwenmultiangle",
+      "author": {
+        "name": "jtydhr88",
+        "username": "jtydhr88",
+        "headline": ""
+      },
+      "content": "ComfyUI-qwenmultiangle: A ComfyUI custom node for 3D camera angle control. Provides an interactive Three.js viewport to adjust camera angles and outputs formatted prompt strings for multi-angle image generation.",
+      "metrics": {
+        "stars": 1264,
+        "forks": 75
+      },
+      "topics": [],
+      "published_at": "2026-01-08T23:39:38Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "ComfyUI-qwenmultiangle: Interactive Three.js viewport for 3D camera angle control",
+        "author_role": "ComfyUI developer",
+        "keywords": [
+          "ComfyUI",
+          "Three.js",
+          "camera control",
+          "multi-angle",
+          "3D",
+          "prompt generation"
+        ],
+        "workflow_stage": "layout / composition",
+        "tools_mentioned": [
+          "ComfyUI",
+          "Three.js",
+          "Qwen"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Custom ComfyUI node that provides an interactive Three.js viewport for adjusting 3D camera angles. Outputs formatted prompt strings for multi-angle image generation workflows.",
+        "why_important": "Solves the technical challenge of precise camera angle control in multi-view 3D generation pipelines.",
+        "learnings": "Demonstrates integration of interactive 3D viewports into node-based workflows for camera parameter extraction.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 8
+      }
+    }
+  ]
+}
