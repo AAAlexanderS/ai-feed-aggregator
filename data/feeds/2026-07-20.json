@@ -1,0 +1,146 @@
+{
+  "date": "2026-07-20",
+  "generated_at": "2026-07-20T10:47:15.211676+00:00",
+  "posts": [
+    {
+      "source": "github",
+      "source_id": "gh_1174289380",
+      "url": "https://github.com/Forget-C/Jellyfish",
+      "author": {
+        "name": "Forget-C",
+        "username": "Forget-C",
+        "headline": ""
+      },
+      "content": "Jellyfish: An end-to-end production workspace for AI-generated short dramas. From script input to structured storyboarding, consistency management, shot preparation, video generation, and export.",
+      "metrics": {
+        "stars": 5542,
+        "forks": 960
+      },
+      "topics": [
+        "ai",
+        "short-drama"
+      ],
+      "published_at": "2026-03-06T09:20:08Z",
+      "ai": {
+        "domain": "film_video",
+        "title": "Jellyfish: End-to-end workspace for AI-generated short drama production",
+        "author_role": "AI video production developer",
+        "keywords": [
+          "short drama",
+          "storyboarding",
+          "shot consistency",
+          "video generation",
+          "production pipeline"
+        ],
+        "workflow_stage": "concept / ideation | layout / composition | rendering / export",
+        "tools_mentioned": [
+          "Jellyfish"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Complete production workspace handling the full pipeline from script input through structured storyboarding, character consistency management, shot preparation, to final video generation and export. Designed specifically for AI-generated short drama format.",
+        "why_important": "Solves the critical shot-to-shot consistency and structured workflow problems that plague AI video production for narrative content.",
+        "learnings": "Structured storyboarding and consistency management systems can bridge the gap between script and coherent AI-generated video sequences.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_672651553",
+      "url": "https://github.com/MrNeRF/LichtFeld-Studio",
+      "author": {
+        "name": "MrNeRF",
+        "username": "MrNeRF",
+        "headline": ""
+      },
+      "content": "LichtFeld-Studio: Train, inspect, edit, automate, and export 3D Gaussian Splatting scenes from a single native application.",
+      "metrics": {
+        "stars": 3410,
+        "forks": 395
+      },
+      "topics": [
+        "computer-graphics",
+        "computer-vision",
+        "cuda",
+        "gaussian-splatting",
+        "optimization"
+      ],
+      "published_at": "2023-07-30T19:55:48Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "LichtFeld-Studio: Native app for training, editing & exporting 3D Gaussian Splatting",
+        "author_role": "3D rendering developer",
+        "keywords": [
+          "3D Gaussian Splatting",
+          "3DGS",
+          "training",
+          "native application",
+          "export"
+        ],
+        "workflow_stage": "rendering / export",
+        "tools_mentioned": [
+          "LichtFeld-Studio",
+          "3D Gaussian Splatting"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Native application that consolidates the entire 3DGS workflow into a single tool. Handles training, inspection, editing, automation, and export of 3D Gaussian Splatting scenes without switching between multiple tools.",
+        "why_important": "Addresses the fragmented toolchain problem in 3DGS workflows by providing an all-in-one native solution for production use.",
+        "learnings": "Single native app can replace multi-tool 3DGS pipelines, potentially streamlining production workflows from capture to export.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_983846239",
+      "url": "https://github.com/sakalond/StableGen",
+      "author": {
+        "name": "sakalond",
+        "username": "sakalond",
+        "headline": ""
+      },
+      "content": "StableGen: Transform your 3D texturing workflow with the power of generative AI, directly within Blender!",
+      "metrics": {
+        "stars": 843,
+        "forks": 73
+      },
+      "topics": [
+        "blender",
+        "controlnet",
+        "ipadapter",
+        "qwen-image-edit",
+        "stable-diffusion",
+        "texture",
+        "trellis2"
+      ],
+      "published_at": "2025-05-15T02:27:38Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "StableGen: Generative AI texturing directly in Blender workflow",
+        "author_role": "3D artist / Blender developer",
+        "keywords": [
+          "Blender",
+          "texturing",
+          "generative AI",
+          "3D workflow",
+          "plugin"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "StableGen",
+          "Blender",
+          "Stable Diffusion"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Blender plugin integrating generative AI directly into 3D texturing workflow. Eliminates context-switching by keeping AI texture generation native within Blender's interface.",
+        "why_important": "Reduces friction in 3D texturing by eliminating the export-generate-reimport cycle that breaks creative flow.",
+        "learnings": "Native integration of generative AI into existing 3D tools maintains workflow continuity better than external generation pipelines.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    }
+  ]
+}
