@@ -1,0 +1,290 @@
+{
+  "date": "2026-08-03",
+  "generated_at": "2026-08-03T11:18:16.705793+00:00",
+  "posts": [
+    {
+      "source": "github",
+      "source_id": "gh_1033418385",
+      "url": "https://github.com/diodiogod/TTS-Audio-Suite",
+      "author": {
+        "name": "diodiogod",
+        "username": "diodiogod",
+        "headline": ""
+      },
+      "content": "TTS-Audio-Suite: A ComfyUI custom node integration for local multi-engine multi-language Text-to-Speech and Voice Conversion. Supports: RVC, Echo-TTS, Qwen3-TTS, Cozy Voice 3, Step Audio EditX, IndexTTS-2, Chatterbox (classic and multilingual), F5-TTS, Higgs Audio 2, 3, and VibeVoice with unlimited text length, SRT timing, Character support, and many audio tools",
+      "metrics": {
+        "stars": 1133,
+        "forks": 135
+      },
+      "topics": [
+        "ai-audio",
+        "audio",
+        "audio-editing",
+        "audio-generation",
+        "audio-processing",
+        "chatterbox",
+        "comfyui",
+        "cozy-voice-3",
+        "echo-tts",
+        "f5",
+        "f5-tts",
+        "higgs-audio",
+        "indextts-2",
+        "qwen3-tts",
+        "rvc",
+        "text-to-speech",
+        "tts",
+        "vibevoice",
+        "voice-cloning",
+        "voice-conversion"
+      ],
+      "published_at": "2025-08-06T19:33:01Z",
+      "ai": {
+        "domain": "motion_design",
+        "title": "TTS-Audio-Suite: Multi-engine TTS with RVC voice conversion, SRT timing, unlimited length",
+        "author_role": "ComfyUI Audio Developer",
+        "keywords": [
+          "ComfyUI",
+          "TTS",
+          "RVC",
+          "voice conversion",
+          "Echo-TTS",
+          "F5-TTS",
+          "SRT",
+          "audio processing"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "ComfyUI",
+          "RVC",
+          "Echo-TTS",
+          "Qwen3-TTS",
+          "F5-TTS",
+          "Higgs Audio",
+          "VibeVoice"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "ComfyUI node suite integrating multiple local TTS engines (Echo-TTS, F5-TTS, Qwen3-TTS) with RVC voice conversion, unlimited text length processing, and SRT subtitle timing. Includes character support and audio editing tools.",
+        "why_important": "Solves the problem of text length limits and provides subtitle-synced multi-language voiceover generation within ComfyUI workflows.",
+        "learnings": "RVC voice conversion can be chained with multiple TTS engines in ComfyUI for character-consistent voiceovers with precise SRT timing.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1236957585",
+      "url": "https://github.com/microsoft/Resource2Skill",
+      "author": {
+        "name": "microsoft",
+        "username": "microsoft",
+        "headline": ""
+      },
+      "content": "Resource2Skill: A general framework for distilling human-created multimodal resources into reusable, executable skills that AI agents can browse, compose, and run, validated across diverse domains including web, PowerPoint, Excel, Blender, CAD, Unreal Engine 5, and REAPER-based music production.",
+      "metrics": {
+        "stars": 351,
+        "forks": 33
+      },
+      "topics": [],
+      "published_at": "2026-05-12T18:31:15Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "Resource2Skill: Distilling multimodal tutorials into executable AI agent skills for Blender, UE5",
+        "author_role": "Microsoft Research",
+        "keywords": [
+          "AI agents",
+          "skill distillation",
+          "Blender",
+          "Unreal Engine 5",
+          "CAD",
+          "multimodal resources",
+          "executable workflows"
+        ],
+        "workflow_stage": "iteration / refinement",
+        "tools_mentioned": [
+          "Blender",
+          "Unreal Engine 5",
+          "CAD",
+          "PowerPoint",
+          "Excel",
+          "REAPER"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Framework that converts human-created multimodal tutorials into reusable, executable skills for AI agents. Validated across Blender, CAD, Unreal Engine 5, and music production in REAPER.",
+        "why_important": "Enables AI agents to learn and execute complex creative workflows from existing tutorials rather than requiring manual prompt engineering.",
+        "learnings": "Multimodal resources can be systematically distilled into browseable, composable agent skills that work across 3D, CAD, and game engine domains.",
+        "worth_bookmarking": true,
+        "credibility_score": 9,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_786118500",
+      "url": "https://github.com/heshengtao/comfyui_LLM_party",
+      "author": {
+        "name": "heshengtao",
+        "username": "heshengtao",
+        "headline": ""
+      },
+      "content": "comfyui_LLM_party: LLM Agent Framework in ComfyUI includes MCP sever, Omost,GPT-sovits, ChatTTS,GOT-OCR2.0, and FLUX prompt nodes,access to Feishu,discord,and adapts to all llms with similar openai / aisuite interfaces, such as o1,ollama, gemini, grok, qwen, GLM, deepseek, kimi,doubao. Adapted to local llms, vlm, gguf such as llama-3.3 Janus-Pro, Linkage graphRAG",
+      "metrics": {
+        "stars": 2321,
+        "forks": 195
+      },
+      "topics": [
+        "agent",
+        "comfyui",
+        "dify",
+        "flux",
+        "gemini",
+        "gguf",
+        "gpt-sovits",
+        "graphrag",
+        "janus-pro",
+        "linux",
+        "llama",
+        "mcp",
+        "o1",
+        "ocr",
+        "ollama",
+        "omost",
+        "openai",
+        "vlm",
+        "workflow"
+      ],
+      "published_at": "2024-04-13T13:42:49Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "ComfyUI LLM Party: Agent framework with MCP, local LLM/VLM support, graphRAG integration",
+        "author_role": "ComfyUI Developer",
+        "keywords": [
+          "ComfyUI",
+          "LLM",
+          "MCP",
+          "graphRAG",
+          "local models",
+          "VLM",
+          "workflow nodes"
+        ],
+        "workflow_stage": "iteration / refinement",
+        "tools_mentioned": [
+          "ComfyUI",
+          "Omost",
+          "GPT-sovits",
+          "ChatTTS",
+          "GOT-OCR2.0",
+          "FLUX",
+          "ollama",
+          "llama-3.3",
+          "Janus-Pro"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "ComfyUI extension providing LLM agent framework with MCP server support, integrated OCR, TTS, and prompt nodes for FLUX. Adapts to local LLMs/VLMs including llama-3.3, Janus-Pro, with graphRAG linkage for advanced workflows.",
+        "why_important": "Enables running sophisticated AI agent workflows entirely within ComfyUI using local models, eliminating API dependencies.",
+        "learnings": "Can integrate local VLMs and graphRAG into ComfyUI node-based workflows for multi-modal generation pipelines.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1207010600",
+      "url": "https://github.com/visualbruno/3DGenStudio",
+      "author": {
+        "name": "visualbruno",
+        "username": "visualbruno",
+        "headline": ""
+      },
+      "content": "3DGenStudio: Orchestrate complete 3D generation pipelines — from text-to-image, image editing, mesh generation, UV unwrapping, to texturing — all in a single visual workspace powered by ComfyUI and external APIs.",
+      "metrics": {
+        "stars": 460,
+        "forks": 76
+      },
+      "topics": [],
+      "published_at": "2026-04-10T13:34:31Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "3DGenStudio: Complete text-to-3D pipeline in ComfyUI with UV unwrap and texturing",
+        "author_role": "3D Pipeline Developer",
+        "keywords": [
+          "ComfyUI",
+          "text-to-3D",
+          "UV unwrapping",
+          "texturing",
+          "mesh generation",
+          "image-to-3D",
+          "pipeline orchestration"
+        ],
+        "workflow_stage": "rendering / export",
+        "tools_mentioned": [
+          "ComfyUI",
+          "external APIs"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Visual workspace built on ComfyUI that orchestrates complete 3D generation pipelines from text-to-image, image editing, mesh generation, UV unwrapping, to texturing using external APIs.",
+        "why_important": "Unifies fragmented 3D generation steps into a single node-based workflow, eliminating the need to manually transfer assets between tools.",
+        "learnings": "ComfyUI can orchestrate full 3D asset pipelines including UV unwrapping and texturing by integrating external API calls into visual nodes.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1113573066",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "author": {
+        "name": "hugohe3",
+        "username": "hugohe3",
+        "headline": ""
+      },
+      "content": "ppt-master: AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "metrics": {
+        "stars": 42702,
+        "forks": 3525
+      },
+      "topics": [
+        "ai-agent",
+        "aippt",
+        "office",
+        "powerpoint",
+        "powerpoint-generation",
+        "ppt",
+        "pptx",
+        "presentation",
+        "slide",
+        "slides"
+      ],
+      "published_at": "2025-12-10T06:54:33Z",
+      "ai": {
+        "domain": "motion_design",
+        "title": "ppt-master: AI generates native PowerPoint with shapes, animations, charts, audio narration",
+        "author_role": "Presentation Automation Developer",
+        "keywords": [
+          "PowerPoint",
+          "native generation",
+          "animations",
+          "transitions",
+          "charts",
+          "audio narration",
+          "templates"
+        ],
+        "workflow_stage": "layout / composition",
+        "tools_mentioned": [
+          "PowerPoint",
+          ".pptx"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "AI system that generates native PowerPoint files with real shapes, transitions, animations, data-backed charts, and audio narration from speaker notes. Supports custom .pptx templates.",
+        "why_important": "Produces editable native PowerPoint files with full animation and transition support, not just static image exports.",
+        "learnings": "AI can generate fully-featured native PowerPoint presentations including animations, transitions, and narration while preserving editability.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 7
+      }
+    }
+  ]
+}
