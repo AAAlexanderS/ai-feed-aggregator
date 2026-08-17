@@ -1,0 +1,204 @@
+{
+  "date": "2026-08-17",
+  "generated_at": "2026-08-17T08:37:16.879570+00:00",
+  "posts": [
+    {
+      "source": "github",
+      "source_id": "gh_957116428",
+      "url": "https://github.com/1038lab/ComfyUI-QwenVL",
+      "author": {
+        "name": "1038lab",
+        "username": "1038lab",
+        "headline": ""
+      },
+      "content": "ComfyUI-QwenVL: ComfyUI-QwenVL custom node: Integrates the Qwen-VL series, including Qwen2.5-VL and the latest Qwen3-VL, with GGUF support for advanced multimodal AI in text generation, image understanding, and video analysis.",
+      "metrics": {
+        "stars": 838,
+        "forks": 133
+      },
+      "topics": [
+        "comfyui",
+        "customnodes",
+        "qwen-vl",
+        "qwen3-vl"
+      ],
+      "published_at": "2025-03-29T15:42:39Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "ComfyUI-QwenVL: Integrates Qwen2.5-VL and Qwen3-VL with GGUF support for multimodal AI",
+        "author_role": "ComfyUI Custom Node Developer",
+        "keywords": [
+          "ComfyUI",
+          "Qwen-VL",
+          "GGUF",
+          "multimodal",
+          "image understanding",
+          "video analysis"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "ComfyUI",
+          "Qwen2.5-VL",
+          "Qwen3-VL",
+          "GGUF"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Custom node that integrates Qwen-VL series multimodal models into ComfyUI with GGUF format support. Enables text generation, image understanding, and video analysis within ComfyUI workflows.",
+        "why_important": "Brings advanced multimodal AI capabilities directly into ComfyUI, enabling image and video understanding without external tools.",
+        "learnings": "GGUF format support allows running large multimodal models more efficiently within ComfyUI node-based workflows.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1159938129",
+      "url": "https://github.com/ZSeven-W/openpencil",
+      "author": {
+        "name": "ZSeven-W",
+        "username": "ZSeven-W",
+        "headline": ""
+      },
+      "content": "openpencil: The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.",
+      "metrics": {
+        "stars": 5173,
+        "forks": 467
+      },
+      "topics": [
+        "agent",
+        "agent-team",
+        "ai",
+        "claude",
+        "claude-code",
+        "codex",
+        "dsh-plugin",
+        "fimga",
+        "flutter",
+        "mcp",
+        "opencode",
+        "openpencil",
+        "pencil",
+        "react",
+        "react-native",
+        "rust",
+        "skill",
+        "ui",
+        "vibecoding",
+        "vibedesign"
+      ],
+      "published_at": "2026-02-17T10:51:46Z",
+      "ai": {
+        "domain": "ui_ux_design",
+        "title": "openpencil: Open-source AI-native vector design tool with concurrent Agent Teams and Design-as-Code",
+        "author_role": "Vector Design Tool Developer",
+        "keywords": [
+          "vector design",
+          "AI-native",
+          "Agent Teams",
+          "Design-as-Code",
+          "prompt-to-UI",
+          "live canvas"
+        ],
+        "workflow_stage": "layout / composition",
+        "tools_mentioned": [
+          "openpencil"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "First open-source AI-native vector design tool featuring concurrent Agent Teams and Design-as-Code approach. Converts prompts directly into UI elements on a live canvas, offering a modern alternative to traditional vector tools.",
+        "why_important": "Pioneering approach to vector design where prompts generate UI directly on canvas, eliminating traditional manual drawing workflows.",
+        "learnings": "Agent Teams working concurrently on design tasks represents a new paradigm for vector design tools beyond single-agent approaches.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_922873328",
+      "url": "https://github.com/willmiao/ComfyUI-Lora-Manager",
+      "author": {
+        "name": "willmiao",
+        "username": "willmiao",
+        "headline": ""
+      },
+      "content": "ComfyUI-Lora-Manager: LoRA Manager for ComfyUI - A powerful extension for organizing, previewing, and integrating LoRA models with metadata and workflow support.",
+      "metrics": {
+        "stars": 1369,
+        "forks": 135
+      },
+      "topics": [],
+      "published_at": "2025-01-27T08:39:04Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "ComfyUI-Lora-Manager: Extension for organizing LoRA models with metadata and workflow support",
+        "author_role": "ComfyUI Extension Developer",
+        "keywords": [
+          "ComfyUI",
+          "LoRA",
+          "workflow management",
+          "metadata",
+          "model organization"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "ComfyUI",
+          "LoRA"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Extension that adds LoRA model management capabilities to ComfyUI, including organization, preview, and metadata tracking. Integrates directly into ComfyUI workflows for easier model selection and management.",
+        "why_important": "Solves a common pain point for ComfyUI users who work with multiple LoRA models by centralizing organization and metadata in the workflow.",
+        "learnings": "Managing LoRA models with proper metadata and preview integration can be built as a ComfyUI extension rather than external tools.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1242402978",
+      "url": "https://github.com/Mixar-AI/mixar-app",
+      "author": {
+        "name": "Mixar-AI",
+        "username": "Mixar-AI",
+        "headline": ""
+      },
+      "content": "mixar-app: AI-powered 3D suite built on Blender, with an integrated agent, moodboard, generation tools and layer-based painting",
+      "metrics": {
+        "stars": 201,
+        "forks": 43
+      },
+      "topics": [
+        "3d",
+        "agent",
+        "ai",
+        "blender"
+      ],
+      "published_at": "2026-05-18T11:52:17Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "Mixar: AI-powered 3D suite built on Blender with integrated agent and layer-based painting",
+        "author_role": "3D Software Developer",
+        "keywords": [
+          "Blender",
+          "3D generation",
+          "AI agent",
+          "layer-based painting",
+          "moodboard"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "Blender",
+          "Mixar"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "AI-powered 3D suite built on top of Blender that integrates an AI agent, moodboard tools, generation capabilities, and layer-based painting. Extends Blender's native functionality with AI-specific workflows.",
+        "why_important": "Demonstrates how AI tools can be deeply integrated into existing 3D software rather than requiring separate applications.",
+        "learnings": "Building on top of Blender as a platform allows leveraging its ecosystem while adding AI-specific features like agent integration and layer-based painting.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    }
+  ]
+}
