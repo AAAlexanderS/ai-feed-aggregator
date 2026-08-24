@@ -1,0 +1,212 @@
+{
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24T08:43:42.005410+00:00",
+  "posts": [
+    {
+      "source": "github",
+      "source_id": "gh_1174289380",
+      "url": "https://github.com/Forget-C/Jellyfish",
+      "author": {
+        "name": "Forget-C",
+        "username": "Forget-C",
+        "headline": ""
+      },
+      "content": "Jellyfish: An end-to-end production workspace for AI-generated short dramas. From script input to structured storyboarding, consistency management, shot preparation, video generation, and export.",
+      "metrics": {
+        "stars": 6170,
+        "forks": 1065
+      },
+      "topics": [
+        "ai",
+        "short-drama"
+      ],
+      "published_at": "2026-03-06T09:20:08Z",
+      "ai": {
+        "domain": "film_video",
+        "title": "Jellyfish: End-to-end AI short drama production workspace from script to export",
+        "author_role": "AI Video Production Developer",
+        "keywords": [
+          "short drama",
+          "storyboarding",
+          "shot consistency",
+          "video generation",
+          "production pipeline"
+        ],
+        "workflow_stage": "concept / ideation | layout / composition | rendering / export | handoff / production",
+        "tools_mentioned": [
+          "Jellyfish"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "An end-to-end workspace specifically designed for AI-generated short dramas. Handles complete pipeline from script input through structured storyboarding, character consistency management, shot preparation, to final video generation and export.",
+        "why_important": "Addresses the critical production challenge of maintaining character and shot consistency across AI-generated narrative video content.",
+        "learnings": "Demonstrates a structured approach to AI video production that separates script parsing, storyboard structuring, consistency management, and rendering into discrete pipeline stages.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_616620075",
+      "url": "https://github.com/tin2tin/Pallaidium",
+      "author": {
+        "name": "tin2tin",
+        "username": "tin2tin",
+        "headline": ""
+      },
+      "content": "Pallaidium: PALLAIDIUM — a generative AI movie studio, seamlessly integrated into the Blender Video Editor (VSE), enabling end-to-end production from script to screen and back.",
+      "metrics": {
+        "stars": 1517,
+        "forks": 154
+      },
+      "topics": [
+        "ai",
+        "aicinema",
+        "blender",
+        "chatterbox",
+        "diffusion",
+        "flux",
+        "generative",
+        "ltx",
+        "movie",
+        "qwen",
+        "studio",
+        "text2audio",
+        "text2image",
+        "text2speech",
+        "text2video",
+        "turbo",
+        "wan",
+        "z-image"
+      ],
+      "published_at": "2023-03-20T18:40:16Z",
+      "ai": {
+        "domain": "film_video",
+        "title": "PALLAIDIUM: Generative AI movie studio integrated into Blender Video Editor",
+        "author_role": "Blender AI Integration Developer",
+        "keywords": [
+          "Blender",
+          "VSE",
+          "video editing",
+          "generative AI",
+          "script to screen"
+        ],
+        "workflow_stage": "concept / ideation | asset creation | layout / composition | rendering / export | iteration / refinement",
+        "tools_mentioned": [
+          "Blender",
+          "PALLAIDIUM",
+          "Blender Video Editor",
+          "VSE"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "A generative AI movie studio seamlessly integrated into Blender's Video Sequence Editor (VSE). Enables complete production workflow from script development to final rendering within the Blender environment.",
+        "why_important": "Bridges the gap between traditional video editing workflows in Blender and generative AI capabilities, allowing editors to stay in their familiar toolset.",
+        "learnings": "Shows how generative AI can be embedded into existing professional video editing software rather than requiring separate standalone tools.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1315384578",
+      "url": "https://github.com/NomaDamas/CozyClay",
+      "author": {
+        "name": "NomaDamas",
+        "username": "NomaDamas",
+        "headline": ""
+      },
+      "content": "CozyClay: Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the same shots to an AI video model.",
+      "metrics": {
+        "stars": 266,
+        "forks": 32
+      },
+      "topics": [
+        "3d",
+        "3d-animation",
+        "ai",
+        "ai-video",
+        "animation",
+        "blender",
+        "camera-control",
+        "llm-agent",
+        "motion-generation",
+        "previs",
+        "previsualization",
+        "previz",
+        "python",
+        "react-three-fiber",
+        "storyboard",
+        "threejs",
+        "typescript",
+        "virtual-production",
+        "webgl"
+      ],
+      "published_at": "2026-07-28T19:57:47Z",
+      "ai": {
+        "domain": "film_video",
+        "title": "CozyClay: Browser-based previs tool for blocking scenes and syncing to AI video models",
+        "author_role": "Previs/AI Video Developer",
+        "keywords": [
+          "previs",
+          "camera blocking",
+          "character posing",
+          "AI video",
+          "shot planning"
+        ],
+        "workflow_stage": "concept / ideation | layout / composition",
+        "tools_mentioned": [
+          "CozyClay"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Open source browser-based previsualization software for blocking scenes, posing characters, and authoring camera moves and cuts. Designed to export the same shots directly to AI video generation models.",
+        "why_important": "Solves the critical handoff problem between traditional previs blocking and AI video generation by maintaining shot specifications across both stages.",
+        "learnings": "Demonstrates how traditional previs workflows can be designed specifically to output structured data compatible with AI video model inputs.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1172781277",
+      "url": "https://github.com/greensock/gsap-skills",
+      "author": {
+        "name": "greensock",
+        "username": "greensock",
+        "headline": ""
+      },
+      "content": "gsap-skills: Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage.",
+      "metrics": {
+        "stars": 14247,
+        "forks": 839
+      },
+      "topics": [],
+      "published_at": "2026-03-04T17:22:35Z",
+      "ai": {
+        "domain": "motion_design",
+        "title": "GSAP AI Skills: Teaching AI coding agents correct GSAP animation patterns",
+        "author_role": "Animation Framework Developer",
+        "keywords": [
+          "GSAP",
+          "GreenSock",
+          "animation",
+          "AI coding agents",
+          "best practices"
+        ],
+        "workflow_stage": "animation / motion",
+        "tools_mentioned": [
+          "GSAP",
+          "GreenSock Animation Platform"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Official AI skills repository from GreenSock that teaches AI coding agents how to correctly implement GSAP animations. Includes best practices, common animation patterns, and proper plugin usage.",
+        "why_important": "Addresses the quality gap when AI agents generate animation code by providing authoritative pattern libraries directly from the framework creators.",
+        "learnings": "Shows how animation framework vendors can create structured knowledge bases that improve AI-generated animation code quality and adherence to best practices.",
+        "worth_bookmarking": true,
+        "credibility_score": 9,
+        "creative_workflow_value": 8
+      }
+    }
+  ]
+}
