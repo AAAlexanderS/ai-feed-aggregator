@@ -1,0 +1,398 @@
+{
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T15:47:27.071263+00:00",
+  "posts": [
+    {
+      "source": "github",
+      "source_id": "gh_888615536",
+      "url": "https://github.com/1038lab/ComfyUI-RMBG",
+      "author": {
+        "name": "1038lab",
+        "username": "1038lab",
+        "headline": ""
+      },
+      "content": "ComfyUI-RMBG: A ComfyUI custom node designed for advanced image background removal and object, face, clothes, and fashion segmentation, utilizing multiple models including RMBG-2.0, INSPYRENET, BEN, BEN2, BiRefNet, SDMatte, SAM, SAM2, SAM3 and GroundingDINO.",
+      "metrics": {
+        "stars": 2091,
+        "forks": 133
+      },
+      "topics": [
+        "comfyui",
+        "comfyui-nodes",
+        "image",
+        "mask",
+        "remove-background",
+        "segmentation",
+        "stable-diffusion"
+      ],
+      "published_at": "2024-11-14T17:48:27Z",
+      "ai": {
+        "domain": "ui_ux_design",
+        "title": "ComfyUI-RMBG: Multi-model background removal node with RMBG-2.0, BiRefNet, SAM2, SAM3",
+        "author_role": "ComfyUI Extension Developer",
+        "keywords": [
+          "ComfyUI",
+          "background removal",
+          "RMBG-2.0",
+          "BiRefNet",
+          "SAM2",
+          "SAM3",
+          "segmentation",
+          "custom node"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "ComfyUI",
+          "RMBG-2.0",
+          "INSPYRENET",
+          "BEN",
+          "BiRefNet",
+          "SDMatte",
+          "SAM",
+          "SAM2",
+          "SAM3",
+          "GroundingDINO"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "ComfyUI custom node integrating 10+ background removal and segmentation models including RMBG-2.0, BiRefNet, and SAM variants. Supports advanced object, face, clothes, and fashion segmentation within ComfyUI workflows.",
+        "why_important": "Consolidates multiple state-of-the-art segmentation models into a single ComfyUI node, eliminating the need to switch between tools for different masking tasks.",
+        "learnings": "Can integrate multiple specialized segmentation models (RMBG-2.0 for general use, SAM2/SAM3 for object-specific, BiRefNet for fine detail) into a unified ComfyUI workflow.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_792627308",
+      "url": "https://github.com/hbb1/2d-gaussian-splatting",
+      "author": {
+        "name": "hbb1",
+        "username": "hbb1",
+        "headline": ""
+      },
+      "content": "2d-gaussian-splatting: [SIGGRAPH'24] 2D Gaussian Splatting for Geometrically Accurate Radiance Fields",
+      "metrics": {
+        "stars": 3282,
+        "forks": 326
+      },
+      "topics": [
+        "gaussian-splatting",
+        "novel-view-synthesis",
+        "surface-reconstruction"
+      ],
+      "published_at": "2024-04-27T05:28:40Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "2D Gaussian Splatting for Geometrically Accurate Radiance Fields [SIGGRAPH'24]",
+        "author_role": "Computer Graphics Researcher",
+        "keywords": [
+          "2D Gaussian Splatting",
+          "radiance fields",
+          "geometric accuracy",
+          "SIGGRAPH",
+          "3DGS"
+        ],
+        "workflow_stage": "rendering / export",
+        "tools_mentioned": [
+          "2D Gaussian Splatting"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "SIGGRAPH 2024 paper introducing 2D Gaussian Splatting method that improves geometric accuracy over standard 3DGS for radiance field reconstruction. Implements alternative splatting primitives optimized for surface representation.",
+        "why_important": "Addresses a core limitation of 3DGS (geometric accuracy) with a peer-reviewed method, enabling more precise reconstruction for production use cases.",
+        "learnings": "2D Gaussian primitives can achieve better surface geometry than 3D splats when geometric accuracy is prioritized over rendering speed.",
+        "worth_bookmarking": true,
+        "credibility_score": 9,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1337657531",
+      "url": "https://github.com/squall01337/mixamo-llm-mocap",
+      "author": {
+        "name": "squall01337",
+        "username": "squall01337",
+        "headline": ""
+      },
+      "content": "mixamo-llm-mocap: Turn any video into a Mixamo-rig animation - GVHMR estimator, spec-driven retarget, FK apply in Blender via MCP. Works with any Mixamo character; built to be operated end-to-end by an AI agent.",
+      "metrics": {
+        "stars": 226,
+        "forks": 48
+      },
+      "topics": [
+        "ai-agent",
+        "animation",
+        "blender",
+        "gvhmr",
+        "llm",
+        "mixamo",
+        "mocap",
+        "motion-capture",
+        "retargeting",
+        "smpl-x"
+      ],
+      "published_at": "2026-08-17T21:05:02Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "mixamo-llm-mocap: Video-to-Mixamo animation via GVHMR + Blender FK retargeting",
+        "author_role": "Animation Pipeline Developer",
+        "keywords": [
+          "Mixamo",
+          "motion capture",
+          "GVHMR",
+          "Blender",
+          "FK",
+          "retargeting",
+          "MCP"
+        ],
+        "workflow_stage": "animation / motion",
+        "tools_mentioned": [
+          "GVHMR",
+          "Mixamo",
+          "Blender",
+          "MCP"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Converts any video into Mixamo-rigged animation using GVHMR pose estimator, spec-driven retargeting, and FK application in Blender via MCP. Works with any Mixamo character and designed for end-to-end AI agent operation.",
+        "why_important": "Automates the full mocap-to-Mixamo pipeline (estimation → retarget → apply) with standardized spec-driven approach, enabling AI agents to handle animation tasks.",
+        "learnings": "GVHMR pose estimation can be piped directly into Mixamo rigs via FK retargeting in Blender, creating a reproducible video-to-animation workflow.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_672651553",
+      "url": "https://github.com/MrNeRF/LichtFeld-Studio",
+      "author": {
+        "name": "MrNeRF",
+        "username": "MrNeRF",
+        "headline": ""
+      },
+      "content": "LichtFeld-Studio: Train, inspect, edit, automate, and export 3D Gaussian Splatting scenes from a single native application.",
+      "metrics": {
+        "stars": 3635,
+        "forks": 438
+      },
+      "topics": [
+        "computer-graphics",
+        "computer-vision",
+        "cuda",
+        "gaussian-splatting",
+        "optimization"
+      ],
+      "published_at": "2023-07-30T19:55:48Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "LichtFeld-Studio: Native app for training, editing, and exporting 3D Gaussian Splatting scenes",
+        "author_role": "3DGS Developer",
+        "keywords": [
+          "3D Gaussian Splatting",
+          "3DGS",
+          "training",
+          "editing",
+          "export",
+          "native application"
+        ],
+        "workflow_stage": "rendering / export",
+        "tools_mentioned": [
+          "LichtFeld-Studio",
+          "3D Gaussian Splatting"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Native desktop application that combines training, inspection, editing, automation, and export of 3D Gaussian Splatting scenes in one unified interface. Eliminates the need for separate command-line tools and manual pipeline stitching.",
+        "why_important": "Bridges the gap between 3DGS research implementations and production workflows by providing a cohesive authoring environment for practitioners.",
+        "learnings": "3DGS workflows can be consolidated into a single native application that handles the full pipeline from training to export, reducing tool-switching friction.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1145022970",
+      "url": "https://github.com/HBAI-Ltd/Toonflow-app",
+      "author": {
+        "name": "HBAI-Ltd",
+        "username": "HBAI-Ltd",
+        "headline": ""
+      },
+      "content": "Toonflow-app: Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an open-source AI tool that turns stories and scripts into animated short dramas. Features AI scriptwriting, storyboarding, character and video generation. A cross-platform desktop app for efficient content creation.",
+      "metrics": {
+        "stars": 14956,
+        "forks": 2686
+      },
+      "topics": [
+        "ai",
+        "ai-content-creation",
+        "ai-tool",
+        "ai-video-generation",
+        "automation",
+        "content-generation",
+        "desktop-app",
+        "electron",
+        "generative-ai",
+        "image-generation",
+        "llm",
+        "nodejs",
+        "shorts",
+        "text-to-video",
+        "typescript",
+        "video-generation",
+        "vite",
+        "vue3"
+      ],
+      "published_at": "2026-01-29T10:25:45Z",
+      "ai": {
+        "domain": "film_video",
+        "title": "Toonflow: 开源AI短剧工具，集成剧本、分镜、角色与视频生成",
+        "author_role": "Video Production Tool Developer",
+        "keywords": [
+          "AI scriptwriting",
+          "storyboarding",
+          "character generation",
+          "video generation",
+          "animation",
+          "short drama"
+        ],
+        "workflow_stage": "concept / ideation",
+        "tools_mentioned": [
+          "Toonflow"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "开源桌面端AI工具，将小说/剧本转化为动画短剧，集成AI编剧、智能分镜、角色生成和视频生成功能。跨平台部署，支持低成本批量内容产出。",
+        "why_important": "提供完整的AI短剧生产管线，从文字到成片的端到端解决方案，降低动画内容创作门槛。",
+        "learnings": "可以将AI编剧、分镜设计、角色生成、视频合成整合到单一工具中，实现自动化短剧生产流程。",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_820087727",
+      "url": "https://github.com/onlook-dev/onlook",
+      "author": {
+        "name": "onlook-dev",
+        "username": "onlook-dev",
+        "headline": ""
+      },
+      "content": "onlook: The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI",
+      "metrics": {
+        "stars": 26609,
+        "forks": 2086
+      },
+      "topics": [
+        "ai",
+        "cursor",
+        "cursor-ai",
+        "design",
+        "design-to-code",
+        "drizzle",
+        "editor",
+        "figma",
+        "frontend",
+        "ide",
+        "low-code",
+        "nextjs",
+        "react",
+        "supabase",
+        "tailwindcss",
+        "typescript",
+        "ui",
+        "vibe-coding",
+        "vibecoding"
+      ],
+      "published_at": "2024-06-25T19:16:02Z",
+      "ai": {
+        "domain": "ui_ux_design",
+        "title": "Onlook: Open-source AI-first visual builder for React apps",
+        "author_role": "React Design Tool Developer",
+        "keywords": [
+          "React",
+          "visual builder",
+          "AI",
+          "design-to-code",
+          "styling",
+          "component editing"
+        ],
+        "workflow_stage": "layout / composition",
+        "tools_mentioned": [
+          "Onlook",
+          "React"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Open-source visual design tool for React apps that enables direct visual editing, styling, and AI-assisted building within live React codebases. Positions itself as 'Cursor for Designers' with direct code manipulation.",
+        "why_important": "Bridges the designer-developer gap by allowing visual manipulation of React components with instant code sync, reducing handoff friction.",
+        "learnings": "Visual React editing can be achieved through direct AST manipulation, allowing designers to work visually while maintaining clean, production-ready code.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1266923310",
+      "url": "https://github.com/nolangz/pixel2motion",
+      "author": {
+        "name": "nolangz",
+        "username": "nolangz",
+        "headline": ""
+      },
+      "content": "pixel2motion: AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
+      "metrics": {
+        "stars": 2132,
+        "forks": 183
+      },
+      "topics": [
+        "ai-animation",
+        "ai-design-tools",
+        "animated-logo",
+        "brand-motion",
+        "claude-skill",
+        "codex-skill",
+        "creative-coding",
+        "generative-ai",
+        "html-animation",
+        "logo-animation",
+        "logo-design",
+        "logo-motion",
+        "logo-reveal",
+        "motion-design",
+        "pixel-to-svg",
+        "raster-to-svg",
+        "svg",
+        "svg-animation",
+        "svg-motion",
+        "vector-animation"
+      ],
+      "published_at": "2026-06-12T04:25:17Z",
+      "ai": {
+        "domain": "motion_design",
+        "title": "pixel2motion: Raster logo to SVG animation with HTML demos and motion QA",
+        "author_role": "Motion Graphics Developer",
+        "keywords": [
+          "logo animation",
+          "raster to SVG",
+          "motion QA",
+          "HTML animation",
+          "GIF",
+          "video export"
+        ],
+        "workflow_stage": "animation / motion",
+        "tools_mentioned": [
+          "pixel2motion"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "AI skill that converts raster logos into smooth SVG animations with automated HTML demo generation, GIF/video previews, and built-in motion QA evidence. Handles the full raster-to-animated-vector pipeline.",
+        "why_important": "Automates the tedious logo vectorization and animation setup process while providing QA artifacts, saving hours of manual motion design work.",
+        "learnings": "Logo animation workflows can be automated from raster input through to multiple export formats (SVG, HTML, GIF, video) with quality assurance baked in.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    }
+  ]
+}
