@@ -1,0 +1,214 @@
+{
+  "date": "2026-09-07",
+  "generated_at": "2026-09-07T13:54:59.820840+00:00",
+  "posts": [
+    {
+      "source": "github",
+      "source_id": "gh_1197364953",
+      "url": "https://github.com/jtydhr88/ComfyUI-See-through",
+      "author": {
+        "name": "jtydhr88",
+        "username": "jtydhr88",
+        "headline": ""
+      },
+      "content": "ComfyUI-See-through: A ComfyUI plugin that wraps [See-through](https://github.com/shitagaki-lab/see-through) — an AI system that decomposes a single anime illustration into manipulatable 2.5D layer-decomposed models with depth ordering, ready for Live2D workflows.",
+      "metrics": {
+        "stars": 757,
+        "forks": 68
+      },
+      "topics": [],
+      "published_at": "2026-03-31T14:22:51Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "ComfyUI-See-through: anime illustration to manipulatable 2.5D layers for Live2D",
+        "author_role": "ComfyUI plugin developer",
+        "keywords": [
+          "ComfyUI",
+          "anime",
+          "2.5D",
+          "layer decomposition",
+          "Live2D",
+          "depth ordering"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "ComfyUI",
+          "See-through",
+          "Live2D"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "ComfyUI plugin wrapping See-through AI system that decomposes single anime illustrations into manipulatable 2.5D layer-decomposed models with depth ordering. Output is ready for Live2D workflows.",
+        "why_important": "Automates the tedious process of separating anime artwork into layers for animation, a critical bottleneck in Live2D production.",
+        "learnings": "Single illustration can be decomposed into depth-ordered 2.5D layers automatically, eliminating manual layer separation for Live2D.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1033418385",
+      "url": "https://github.com/diodiogod/TTS-Audio-Suite",
+      "author": {
+        "name": "diodiogod",
+        "username": "diodiogod",
+        "headline": ""
+      },
+      "content": "TTS-Audio-Suite: A ComfyUI custom node integration for local multi-engine multi-language Text-to-Speech and Voice Conversion. Supports: RVC, Echo-TTS, Qwen3-TTS, Cozy Voice 3, Step Audio EditX, IndexTTS-2, Chatterbox (classic and multilingual), F5-TTS, Higgs Audio 2, 3, and VibeVoice with unlimited text length, SRT timing, Character support, and many audio tools",
+      "metrics": {
+        "stars": 1191,
+        "forks": 142
+      },
+      "topics": [
+        "ai-audio",
+        "audio",
+        "audio-editing",
+        "audio-generation",
+        "audio-processing",
+        "chatterbox",
+        "comfyui",
+        "cozy-voice-3",
+        "echo-tts",
+        "f5",
+        "f5-tts",
+        "higgs-audio",
+        "indextts-2",
+        "qwen3-tts",
+        "rvc",
+        "text-to-speech",
+        "tts",
+        "vibevoice",
+        "voice-cloning",
+        "voice-conversion"
+      ],
+      "published_at": "2025-08-06T19:33:01Z",
+      "ai": {
+        "domain": "film_video",
+        "title": "TTS-Audio-Suite: multi-engine voice synthesis with RVC, F5-TTS, unlimited text length & SRT timing",
+        "author_role": "ComfyUI audio pipeline developer",
+        "keywords": [
+          "TTS",
+          "RVC",
+          "F5-TTS",
+          "voice conversion",
+          "SRT",
+          "ComfyUI",
+          "Echo-TTS",
+          "Qwen3-TTS"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "ComfyUI",
+          "RVC",
+          "F5-TTS",
+          "Echo-TTS",
+          "Qwen3-TTS",
+          "Cozy Voice 3",
+          "IndexTTS-2",
+          "Higgs Audio"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "ComfyUI node supporting 8+ TTS engines and voice conversion with unlimited text length, SRT subtitle timing, and character-based control. Integrates RVC, F5-TTS, Echo-TTS, Qwen3-TTS, and other engines in single workflow.",
+        "why_important": "Consolidates fragmented TTS ecosystem into one workflow, enabling video editors to generate synced voiceovers with precise timing control.",
+        "learnings": "Multiple TTS engines can be orchestrated in ComfyUI with SRT timing for frame-accurate audio generation, removing text length limitations.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1207010600",
+      "url": "https://github.com/visualbruno/3DGenStudio",
+      "author": {
+        "name": "visualbruno",
+        "username": "visualbruno",
+        "headline": ""
+      },
+      "content": "3DGenStudio: Orchestrate complete 3D generation pipelines — from text-to-image, image editing, mesh generation, UV unwrapping, to texturing — all in a single visual workspace powered by ComfyUI and external APIs.",
+      "metrics": {
+        "stars": 574,
+        "forks": 93
+      },
+      "topics": [],
+      "published_at": "2026-04-10T13:34:31Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "3DGenStudio: complete text-to-3D pipeline in ComfyUI with mesh, UV, texturing via APIs",
+        "author_role": "3D pipeline developer",
+        "keywords": [
+          "ComfyUI",
+          "text-to-3D",
+          "mesh generation",
+          "UV unwrapping",
+          "texturing",
+          "API orchestration"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "ComfyUI"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Visual workspace orchestrating complete 3D generation pipeline—text-to-image, image editing, mesh generation, UV unwrapping, texturing—within ComfyUI using external APIs. Single unified workflow from prompt to textured 3D asset.",
+        "why_important": "Eliminates tool-switching across separate 3D generation services by orchestrating the entire pipeline in one visual interface.",
+        "learnings": "Text-to-3D workflows can be orchestrated end-to-end in ComfyUI by chaining external API calls for mesh, UV, and texture steps.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1113573066",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "author": {
+        "name": "hugohe3",
+        "username": "hugohe3",
+        "headline": ""
+      },
+      "content": "ppt-master: AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "metrics": {
+        "stars": 52725,
+        "forks": 4217
+      },
+      "topics": [
+        "ai-agent",
+        "aippt",
+        "office",
+        "powerpoint",
+        "powerpoint-generation",
+        "ppt",
+        "pptx",
+        "presentation",
+        "slide",
+        "slides"
+      ],
+      "published_at": "2025-12-10T06:54:33Z",
+      "ai": {
+        "domain": "ui_ux_design",
+        "title": "ppt-master: documents to native PowerPoint with shapes, transitions, charts, audio narration",
+        "author_role": "Presentation automation developer",
+        "keywords": [
+          "PowerPoint",
+          "native shapes",
+          "transitions",
+          "animations",
+          "charts",
+          "audio narration",
+          "templates"
+        ],
+        "workflow_stage": "layout / composition",
+        "tools_mentioned": [
+          "PowerPoint"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "AI system generating native PowerPoint decks from documents or topics with real shapes, transitions, animations, data-backed charts/tables, audio narration from speaker notes, and custom template support. Outputs actual .pptx files, not exported images.",
+        "why_important": "Produces editable native PowerPoint files instead of static outputs, preserving designer control over final presentation.",
+        "learnings": "AI can generate native PowerPoint objects (shapes, charts, animations) from text, maintaining full editability in the target format.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    }
+  ]
+}
