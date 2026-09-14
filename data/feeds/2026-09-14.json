@@ -1,0 +1,96 @@
+{
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14T14:40:42.360305+00:00",
+  "posts": [
+    {
+      "source": "github",
+      "source_id": "gh_1130731589",
+      "url": "https://github.com/jtydhr88/ComfyUI-qwenmultiangle",
+      "author": {
+        "name": "jtydhr88",
+        "username": "jtydhr88",
+        "headline": ""
+      },
+      "content": "ComfyUI-qwenmultiangle: A ComfyUI custom node for 3D camera angle control. Provides an interactive Three.js viewport to adjust camera angles and outputs formatted prompt strings for multi-angle image generation.",
+      "metrics": {
+        "stars": 1358,
+        "forks": 84
+      },
+      "topics": [],
+      "published_at": "2026-01-08T23:39:38Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "ComfyUI node for 3D camera control with Three.js viewport for multi-angle prompts",
+        "author_role": "ComfyUI developer",
+        "keywords": [
+          "ComfyUI",
+          "Three.js",
+          "camera angle",
+          "multi-angle generation",
+          "3D viewport"
+        ],
+        "workflow_stage": "concept / ideation",
+        "tools_mentioned": [
+          "ComfyUI",
+          "Three.js",
+          "qwenmultiangle"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Custom ComfyUI node provides interactive Three.js viewport for adjusting 3D camera angles. Outputs formatted prompt strings for multi-angle image generation workflows.",
+        "why_important": "Bridges 3D camera control and AI image generation with visual angle previews directly in ComfyUI.",
+        "learnings": "Interactive 3D viewport can drive prompt generation for consistent multi-angle renders in image generation pipelines.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1335104760",
+      "url": "https://github.com/jeremy-prt/bloub",
+      "author": {
+        "name": "jeremy-prt",
+        "username": "jeremy-prt",
+        "headline": ""
+      },
+      "content": "bloub: SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
+      "metrics": {
+        "stars": 1485,
+        "forks": 187
+      },
+      "topics": [
+        "animation",
+        "avatar",
+        "morphing",
+        "svg",
+        "svg-animation",
+        "typescript",
+        "vue"
+      ],
+      "published_at": "2026-08-15T13:21:23Z",
+      "ai": {
+        "domain": "motion_design",
+        "title": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame",
+        "author_role": "Motion designer / SVG animator",
+        "keywords": [
+          "SVG",
+          "morphing",
+          "frame by frame",
+          "shape animation",
+          "reverse engineering"
+        ],
+        "workflow_stage": "animation / motion",
+        "tools_mentioned": [
+          "SVG"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Frame-by-frame recreation of x.ai bot avatar using single SVG shape morphing through 14 states. Measured directly from reference video for precision.",
+        "why_important": "Demonstrates practical reverse-engineering technique for recreating complex morphing animations using SVG.",
+        "learnings": "Single-shape SVG morphing with frame-accurate measurement can replicate complex character animations efficiently.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 7
+      }
+    }
+  ]
+}
