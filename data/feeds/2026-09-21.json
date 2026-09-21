@@ -1,0 +1,174 @@
+{
+  "date": "2026-09-21",
+  "generated_at": "2026-09-21T14:47:45.880182+00:00",
+  "posts": [
+    {
+      "source": "github",
+      "source_id": "gh_1242402978",
+      "url": "https://github.com/Mixar-AI/mixar-app",
+      "author": {
+        "name": "Mixar-AI",
+        "username": "Mixar-AI",
+        "headline": ""
+      },
+      "content": "mixar-app: AI-powered 3D suite built on Blender, with an integrated agent, moodboard, generation tools and layer-based painting",
+      "metrics": {
+        "stars": 254,
+        "forks": 59
+      },
+      "topics": [
+        "3d",
+        "agent",
+        "ai",
+        "blender"
+      ],
+      "published_at": "2026-05-18T11:52:17Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "Mixar: AI-powered 3D suite built on Blender with agent, moodboard, generation, layer-painting",
+        "author_role": "3D Tool Developer",
+        "keywords": [
+          "Blender",
+          "AI agent",
+          "3D generation",
+          "layer-based painting",
+          "moodboard"
+        ],
+        "workflow_stage": "asset creation | iteration / refinement",
+        "tools_mentioned": [
+          "Blender",
+          "Mixar"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Mixar is an AI-powered 3D suite built on top of Blender that integrates an AI agent, moodboard system, generation tools, and layer-based painting capabilities. The tool aims to streamline 3D workflows by combining multiple AI-assisted features within the familiar Blender environment.",
+        "why_important": "First integrated 3D tool combining Blender with AI agent orchestration and layer-based painting, potentially reducing context-switching in 3D workflows.",
+        "learnings": "Building AI tools on top of established platforms like Blender can accelerate adoption while providing familiar UX for 3D artists.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1159938129",
+      "url": "https://github.com/ZSeven-W/openpencil",
+      "author": {
+        "name": "ZSeven-W",
+        "username": "ZSeven-W",
+        "headline": ""
+      },
+      "content": "openpencil: The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.",
+      "metrics": {
+        "stars": 5996,
+        "forks": 521
+      },
+      "topics": [
+        "agent",
+        "agent-team",
+        "ai",
+        "claude",
+        "claude-code",
+        "codex",
+        "dsh-plugin",
+        "fimga",
+        "flutter",
+        "mcp",
+        "opencode",
+        "openpencil",
+        "pencil",
+        "react",
+        "react-native",
+        "rust",
+        "skill",
+        "ui",
+        "vibecoding",
+        "vibedesign"
+      ],
+      "published_at": "2026-02-17T10:51:46Z",
+      "ai": {
+        "domain": "ui_ux_design",
+        "title": "OpenPencil: First open-source AI-native vector design tool with concurrent Agent Teams",
+        "author_role": "Design Tool Developer",
+        "keywords": [
+          "vector design",
+          "AI agents",
+          "design-as-code",
+          "prompt-to-UI",
+          "live canvas"
+        ],
+        "workflow_stage": "concept / ideation | layout / composition",
+        "tools_mentioned": [
+          "OpenPencil"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "OpenPencil is the first open-source AI-native vector design tool featuring concurrent Agent Teams and design-as-code approach. It converts prompts directly into UI on a live canvas, positioning itself as a modern alternative to traditional vector tools like Pencil.",
+        "why_important": "First tool to implement concurrent AI agent teams for design work, enabling prompt-to-UI generation directly on canvas without intermediate steps.",
+        "learnings": "Agent-based design systems can operate concurrently on the same canvas, enabling faster iteration from text prompts to visual output.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1166005695",
+      "url": "https://github.com/GenielabsOpenSource/spine-animation-ai",
+      "author": {
+        "name": "GenielabsOpenSource",
+        "username": "GenielabsOpenSource",
+        "headline": ""
+      },
+      "content": "spine-animation-ai: AI-powered Claude skill for Spine 2D skeletal animation — auto-rig, animate, and preview characters",
+      "metrics": {
+        "stars": 462,
+        "forks": 68
+      },
+      "topics": [
+        "2d-animation",
+        "ai",
+        "animation",
+        "animation-tool",
+        "character-rigging",
+        "claude",
+        "claude-ai",
+        "computer-vision",
+        "game-dev",
+        "gamedev",
+        "generative-ai",
+        "indie-game",
+        "openclaw",
+        "python",
+        "rigging",
+        "sift",
+        "skeletal-animation",
+        "spine-animation",
+        "spine2d"
+      ],
+      "published_at": "2026-02-24T19:25:45Z",
+      "ai": {
+        "domain": "motion_design",
+        "title": "spine-animation-ai: AI-powered Claude skill for Spine 2D skeletal animation with auto-rig",
+        "author_role": "Animation Tool Developer",
+        "keywords": [
+          "Spine 2D",
+          "skeletal animation",
+          "auto-rig",
+          "Claude",
+          "character animation"
+        ],
+        "workflow_stage": "animation / motion | asset creation",
+        "tools_mentioned": [
+          "Spine 2D",
+          "Claude"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "AI-powered Claude skill specifically designed for Spine 2D skeletal animation workflows, featuring auto-rigging, animation generation, and character preview capabilities. The tool integrates with Claude to automate time-consuming rigging and animation tasks.",
+        "why_important": "Automates the tedious rigging process in Spine 2D workflows, potentially saving hours on character setup and enabling faster iteration on skeletal animations.",
+        "learnings": "AI skills can be built specifically for established animation tools like Spine 2D to automate rigging and preview workflows through Claude integration.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    }
+  ]
+}
