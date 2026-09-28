@@ -1,0 +1,335 @@
+{
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T16:24:04.311027+00:00",
+  "posts": [
+    {
+      "source": "github",
+      "source_id": "gh_1158621117",
+      "url": "https://github.com/artokun/comfyui-mcp",
+      "author": {
+        "name": "artokun",
+        "username": "artokun",
+        "headline": ""
+      },
+      "content": "comfyui-mcp: Local-first, agent-native control plane for ComfyUI — MCP server + sidebar agent that generates images, video & audio, authors and runs workflows, and edits your live graph in natural language on ANY LLM (Claude, ChatGPT, Gemini, offline Ollama, or any hosted model). 178 tools, 36 AI skills, 55 installer packs. Local, LAN, VPS, or Comfy Cloud.",
+      "metrics": {
+        "stars": 769,
+        "forks": 133
+      },
+      "topics": [
+        "agent-skills",
+        "ai-agent",
+        "claude-code",
+        "claude-plugin",
+        "comfyui",
+        "comfyui-extension",
+        "comfyui-mcp",
+        "comfyui-mcp-server",
+        "flux",
+        "image-generation",
+        "local-first",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "offline",
+        "ollama",
+        "self-hosted",
+        "stable-diffusion",
+        "video-generation",
+        "wan"
+      ],
+      "published_at": "2026-02-15T17:08:48Z",
+      "ai": {
+        "domain": "ui_ux_design",
+        "title": "comfyui-mcp: Natural language workflow authoring with 178 tools across any LLM",
+        "author_role": "AI Integration Developer",
+        "keywords": [
+          "ComfyUI",
+          "MCP",
+          "natural language",
+          "workflow automation",
+          "Claude",
+          "ChatGPT",
+          "Ollama"
+        ],
+        "workflow_stage": "concept / ideation",
+        "tools_mentioned": [
+          "ComfyUI",
+          "Claude",
+          "ChatGPT",
+          "Gemini",
+          "Ollama"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "MCP server and sidebar agent that generates and edits ComfyUI workflows using natural language across any LLM (Claude, ChatGPT, Gemini, offline Ollama). Includes 178 tools, 36 AI skills, and 55 installer packs for local or cloud deployment.",
+        "why_important": "Enables designers to author complex ComfyUI workflows through natural language rather than manual node wiring, dramatically lowering the technical barrier.",
+        "learnings": "MCP protocol can bridge natural language interfaces to visual programming environments, making complex workflows accessible through conversational interfaces.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_616620075",
+      "url": "https://github.com/tin2tin/Pallaidium",
+      "author": {
+        "name": "tin2tin",
+        "username": "tin2tin",
+        "headline": ""
+      },
+      "content": "Pallaidium: PALLAIDIUM — a generative AI movie studio, seamlessly integrated into the Blender Video Editor (VSE), enabling end-to-end production from script to screen and back.",
+      "metrics": {
+        "stars": 1534,
+        "forks": 157
+      },
+      "topics": [
+        "ai",
+        "aicinema",
+        "blender",
+        "chatterbox",
+        "diffusion",
+        "flux",
+        "generative",
+        "ltx",
+        "movie",
+        "qwen",
+        "studio",
+        "text2audio",
+        "text2image",
+        "text2speech",
+        "text2video",
+        "turbo",
+        "wan",
+        "z-image"
+      ],
+      "published_at": "2023-03-20T18:40:16Z",
+      "ai": {
+        "domain": "film_video",
+        "title": "PALLAIDIUM: End-to-end AI movie studio integrated into Blender Video Editor",
+        "author_role": "Blender Integration Developer",
+        "keywords": [
+          "Blender",
+          "VSE",
+          "video generation",
+          "script-to-screen",
+          "generative AI"
+        ],
+        "workflow_stage": "layout / composition",
+        "tools_mentioned": [
+          "Blender",
+          "Blender VSE"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Generative AI movie studio seamlessly integrated into Blender Video Sequence Editor (VSE) for end-to-end production from script to final output. Enables complete video production workflow within a single Blender environment.",
+        "why_important": "Brings AI video generation directly into editors' primary tool, eliminating the need to switch between multiple platforms during production.",
+        "learnings": "VSE integration allows AI generation to stay within existing video editing timelines rather than requiring separate generation and import steps.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1315384578",
+      "url": "https://github.com/NomaDamas/CozyClay",
+      "author": {
+        "name": "NomaDamas",
+        "username": "NomaDamas",
+        "headline": ""
+      },
+      "content": "CozyClay: Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the same shots to an AI video model.",
+      "metrics": {
+        "stars": 733,
+        "forks": 82
+      },
+      "topics": [
+        "3d",
+        "3d-animation",
+        "ai",
+        "ai-video",
+        "animation",
+        "blender",
+        "camera-control",
+        "llm-agent",
+        "motion-generation",
+        "previs",
+        "previsualization",
+        "previz",
+        "python",
+        "react-three-fiber",
+        "storyboard",
+        "threejs",
+        "typescript",
+        "virtual-production",
+        "webgl"
+      ],
+      "published_at": "2026-07-28T19:57:47Z",
+      "ai": {
+        "domain": "film_video",
+        "title": "CozyClay: Browser-based previs with AI video model handoff for same-shot execution",
+        "author_role": "Previs Developer",
+        "keywords": [
+          "previs",
+          "browser",
+          "camera moves",
+          "AI video",
+          "scene blocking"
+        ],
+        "workflow_stage": "concept / ideation",
+        "tools_mentioned": [
+          "CozyClay"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Open source browser-based previs tool for blocking scenes, posing characters, and authoring camera moves and cuts. Designed to export the same shots directly to AI video models for production.",
+        "why_important": "Bridges previs and AI video generation by maintaining shot consistency from planning through to AI execution, solving a major continuity challenge.",
+        "learnings": "Structured previs data (camera paths, character poses, cuts) can be directly translated to AI video model inputs, preserving creative intent across the pipeline.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_905471442",
+      "url": "https://github.com/pollockjj/ComfyUI-MultiGPU",
+      "author": {
+        "name": "pollockjj",
+        "username": "pollockjj",
+        "headline": ""
+      },
+      "content": "ComfyUI-MultiGPU: This custom_node for ComfyUI adds one-click \"Virtual VRAM\" for any UNet and CLIP loader as well MultiGPU integration in WanVideoWrapper, managing the offload/Block Swap of layers to DRAM *or* VRAM to maximize the latent space of your card. Also includes nodes for directly loading entire components (UNet, CLIP, VAE) onto the device you choose",
+      "metrics": {
+        "stars": 992,
+        "forks": 83
+      },
+      "topics": [
+        "comfyui",
+        "comfyui-nodes",
+        "comfyui-workflow",
+        "ggml",
+        "gguf-models",
+        "pytorch",
+        "stable-diffusion",
+        "unet-pytorch",
+        "wanvideowrapper"
+      ],
+      "published_at": "2024-12-18T22:34:38Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "ComfyUI-MultiGPU: Virtual VRAM and multi-GPU layer offloading for UNet and CLIP",
+        "author_role": "GPU Optimization Developer",
+        "keywords": [
+          "ComfyUI",
+          "MultiGPU",
+          "VRAM",
+          "UNet",
+          "CLIP",
+          "layer offloading",
+          "memory management"
+        ],
+        "workflow_stage": "rendering / export",
+        "tools_mentioned": [
+          "ComfyUI",
+          "WanVideoWrapper"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "ComfyUI custom node adding one-click Virtual VRAM for UNet and CLIP loaders, with multi-GPU layer offloading to DRAM or VRAM. Includes direct device loading for entire model components (UNet, CLIP, VAE) to maximize latent space usage.",
+        "why_important": "Solves VRAM limitations in large model workflows by intelligently managing memory across multiple devices, enabling higher resolution or batch sizes.",
+        "learnings": "Block Swap and layer offload strategies can maximize effective VRAM by dynamically moving model components between GPU VRAM and system DRAM during inference.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1323984334",
+      "url": "https://github.com/nkxx188/ComfyUI-MiniMaxH3-Easy",
+      "author": {
+        "name": "nkxx188",
+        "username": "nkxx188",
+        "headline": ""
+      },
+      "content": "ComfyUI-MiniMaxH3-Easy: The easiest way to use MiniMax H3. One compact workflow for T2V, I2V, first/last-frame, and reference video generation, with a unified multi-media input, powerful @ references, and inline dialogue blocks. Less wiring. More creative control.",
+      "metrics": {
+        "stars": 790,
+        "forks": 57
+      },
+      "topics": [],
+      "published_at": "2026-08-05T11:45:52Z",
+      "ai": {
+        "domain": "film_video",
+        "title": "ComfyUI-MiniMaxH3-Easy: Unified workflow for T2V, I2V, multi-frame video generation",
+        "author_role": "ComfyUI Extension Developer",
+        "keywords": [
+          "ComfyUI",
+          "MiniMax H3",
+          "T2V",
+          "I2V",
+          "video generation",
+          "workflow automation"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "ComfyUI",
+          "MiniMax H3"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "ComfyUI extension that provides a unified workflow for text-to-video, image-to-video, first/last-frame, and reference video generation using MiniMax H3. Features multi-media input system with @ references and inline dialogue blocks to reduce node wiring complexity.",
+        "why_important": "Simplifies complex video generation workflows by consolidating multiple generation modes into a single, less cluttered interface with unified inputs.",
+        "learnings": "Use @ references and inline dialogue blocks to reduce node complexity when building multi-modal video generation workflows in ComfyUI.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_983846239",
+      "url": "https://github.com/sakalond/StableGen",
+      "author": {
+        "name": "sakalond",
+        "username": "sakalond",
+        "headline": ""
+      },
+      "content": "StableGen: Transform your 3D texturing workflow with the power of generative AI, directly within Blender!",
+      "metrics": {
+        "stars": 929,
+        "forks": 80
+      },
+      "topics": [
+        "blender",
+        "controlnet",
+        "ipadapter",
+        "qwen-image-edit",
+        "stable-diffusion",
+        "texture",
+        "trellis2"
+      ],
+      "published_at": "2025-05-15T02:27:38Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "StableGen: Generative AI 3D texturing workflow directly in Blender",
+        "author_role": "3D Texturing Developer",
+        "keywords": [
+          "Blender",
+          "3D texturing",
+          "generative AI",
+          "texture generation"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "Blender"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Blender extension that transforms 3D texturing workflow by integrating generative AI texture creation directly within Blender's interface. Eliminates external texture generation and import steps.",
+        "why_important": "Streamlines 3D asset creation by keeping AI texture generation inside the primary 3D modeling environment, reducing context switching and iteration time.",
+        "learnings": "Native Blender integration for AI texturing maintains direct feedback loops between geometry and generated textures within a single workspace.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    }
+  ]
+}
