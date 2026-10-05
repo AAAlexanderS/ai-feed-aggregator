@@ -1,0 +1,395 @@
+{
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T16:44:58.529133+00:00",
+  "posts": [
+    {
+      "source": "github",
+      "source_id": "gh_888615536",
+      "url": "https://github.com/1038lab/ComfyUI-RMBG",
+      "author": {
+        "name": "1038lab",
+        "username": "1038lab",
+        "headline": ""
+      },
+      "content": "ComfyUI-RMBG: A ComfyUI custom node designed for advanced image background removal and object, face, clothes, and fashion segmentation, utilizing multiple models including RMBG-2.0, INSPYRENET, BEN, BEN2, BiRefNet, SDMatte, SAM, SAM2, SAM3 and GroundingDINO.",
+      "metrics": {
+        "stars": 2162,
+        "forks": 135
+      },
+      "topics": [
+        "comfyui",
+        "comfyui-nodes",
+        "image",
+        "mask",
+        "remove-background",
+        "segmentation",
+        "stable-diffusion"
+      ],
+      "published_at": "2024-11-14T17:48:27Z",
+      "ai": {
+        "domain": "ui_ux_design",
+        "title": "ComfyUI-RMBG: Multi-model background removal node with SAM2, BiRefNet, GroundingDINO",
+        "author_role": "ComfyUI Extension Developer",
+        "keywords": [
+          "ComfyUI",
+          "background removal",
+          "SAM2",
+          "BiRefNet",
+          "GroundingDINO",
+          "segmentation",
+          "RMBG-2.0"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "ComfyUI",
+          "RMBG-2.0",
+          "INSPYRENET",
+          "BEN",
+          "BiRefNet",
+          "SAM2",
+          "SAM3",
+          "GroundingDINO"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "开发了一个ComfyUI自定义节点，集成了多个先进的背景移除和分割模型，包括RMBG-2.0、SAM2、BiRefNet等。支持对象、人脸、服装等多种分割场景。",
+        "why_important": "为设计师提供了在ComfyUI工作流中进行高质量背景移除和对象分割的统一接口，无需在多个工具间切换。",
+        "learnings": "通过整合10+个专业分割模型到单一ComfyUI节点，可以针对不同素材类型选择最优算法。",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1159261054",
+      "url": "https://github.com/Agents365-ai/video-podcast-maker",
+      "author": {
+        "name": "Agents365-ai",
+        "username": "Agents365-ai",
+        "headline": ""
+      },
+      "content": "video-podcast-maker: Topic → 4K narrated video for coding agents. v5.3.0: local TTS (edge free + azure, no external engine), manifest-based Asset Engine, Remotion composition, cost-gated AI generation, Bilibili/YouTube/Xiaohongshu/Douyin/WeChat Channels",
+      "metrics": {
+        "stars": 1652,
+        "forks": 173
+      },
+      "topics": [
+        "agent-skill",
+        "ai-video",
+        "bilibili",
+        "claude-code",
+        "idea-to-video",
+        "remotion",
+        "text-to-speech",
+        "video-generation"
+      ],
+      "published_at": "2026-02-16T14:15:27Z",
+      "ai": {
+        "domain": "film_video",
+        "title": "video-podcast-maker: 主题到4K解说视频，支持本地TTS和多平台适配",
+        "author_role": "Video Automation Developer",
+        "keywords": [
+          "视频生成",
+          "TTS",
+          "Remotion",
+          "成本控制",
+          "Bilibili",
+          "YouTube",
+          "多平台"
+        ],
+        "workflow_stage": "rendering / export",
+        "tools_mentioned": [
+          "Remotion",
+          "edge TTS",
+          "Azure TTS",
+          "Asset Engine"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "自动化视频播客制作工具，从主题到4K解说视频。v5.3.0支持本地TTS（edge免费+Azure）、基于manifest的资源引擎、Remotion组合和成本控制的AI生成，适配B站/YouTube等多平台。",
+        "why_important": "通过manifest驱动的资源引擎和成本门控，实现了从脚本到多平台适配视频的完全自动化流程。",
+        "learnings": "使用Remotion进行视频合成配合本地TTS引擎，可以在零外部API成本下生成高质量解说视频。",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1320384572",
+      "url": "https://github.com/Bingeljell/image-to-3dlab",
+      "author": {
+        "name": "Bingeljell",
+        "username": "Bingeljell",
+        "headline": ""
+      },
+      "content": "image-to-3dlab: Local image or text → game-ready 3D on your own machine. Retopology, repaint, rigging and animation helpers, in a web viewer and a CLI. Runs Pixal3D, TRELLIS.2, Hunyuan3D and SF3D. Apple Silicon and NVIDIA. Every result carries its licence.",
+      "metrics": {
+        "stars": 537,
+        "forks": 52
+      },
+      "topics": [
+        "3d-generation",
+        "3d-models",
+        "apple-silicon",
+        "blender",
+        "cuda",
+        "game-assets",
+        "game-development",
+        "gamedev",
+        "generative-ai",
+        "hunyuan3d",
+        "image-to-3d",
+        "indie-game-dev",
+        "local-first",
+        "metal",
+        "mlx",
+        "retopology",
+        "rigging",
+        "stable-fast-3d",
+        "text-to-3d",
+        "trellis"
+      ],
+      "published_at": "2026-08-02T16:36:25Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "image-to-3dlab: 本地图像/文字转游戏级3D，含重拓扑、绑定和动画工具",
+        "author_role": "3D Pipeline Developer",
+        "keywords": [
+          "text-to-3D",
+          "retopology",
+          "rigging",
+          "animation",
+          "Pixal3D",
+          "TRELLIS.2",
+          "Hunyuan3D"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "Pixal3D",
+          "TRELLIS.2",
+          "Hunyuan3D",
+          "SF3D"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "本地运行的图像/文字到游戏就绪3D资产工具。集成重拓扑、重绘、绑定和动画辅助功能，提供Web查看器和CLI。运行Pixal3D、TRELLIS.2、Hunyuan3D和SF3D，支持Apple Silicon和NVIDIA。",
+        "why_important": "提供从AI生成到游戏就绪的完整3D资产pipeline，包括通常需要手动处理的重拓扑和绑定步骤。",
+        "learnings": "集成多个text-to-3D模型并配合自动化重拓扑和绑定工具，可以显著缩短从概念到可用游戏资产的时间。",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_672651553",
+      "url": "https://github.com/MrNeRF/LichtFeld-Studio",
+      "author": {
+        "name": "MrNeRF",
+        "username": "MrNeRF",
+        "headline": ""
+      },
+      "content": "LichtFeld-Studio: Train, inspect, edit, automate, and export 3D Gaussian Splatting scenes from a single native application.",
+      "metrics": {
+        "stars": 3811,
+        "forks": 481
+      },
+      "topics": [
+        "computer-graphics",
+        "computer-vision",
+        "cuda",
+        "gaussian-splatting",
+        "optimization"
+      ],
+      "published_at": "2023-07-30T19:55:48Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "LichtFeld-Studio: Native 3D Gaussian Splatting training and export application",
+        "author_role": "3DGS Tool Developer",
+        "keywords": [
+          "3D Gaussian Splatting",
+          "training",
+          "export",
+          "native application",
+          "3DGS"
+        ],
+        "workflow_stage": "rendering / export",
+        "tools_mentioned": [
+          "LichtFeld-Studio",
+          "3D Gaussian Splatting"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "开发了一个原生桌面应用，用于训练、检查、编辑和导出3D Gaussian Splatting场景。提供自动化工作流和统一界面。",
+        "why_important": "将3DGS的完整pipeline整合到单一应用中，降低了技术门槛，提升了从训练到导出的效率。",
+        "learnings": "通过原生应用而非命令行工具，可以显著简化3DGS场景的制作和编辑流程。",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1145022970",
+      "url": "https://github.com/HBAI-Ltd/Toonflow-app",
+      "author": {
+        "name": "HBAI-Ltd",
+        "username": "HBAI-Ltd",
+        "headline": ""
+      },
+      "content": "Toonflow-app: Toonflow 是开源 AI 创作平台，融合无限画布、AI Agent 与可视化工作流，支持图像生成、视频生成、智能分镜及短剧创作。支持本地部署、自由接入模型，提供跨平台桌面端，并可通过 MCP 与插件扩展创作能力。Open-source AI creative platform with an infinite canvas, AI agents and visual workflows for image generation, video generation and filmmaking, with a canvas-based approach similar to LibTV and TapNow.",
+      "metrics": {
+        "stars": 16488,
+        "forks": 2930
+      },
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-content-creation",
+        "ai-filmmaking",
+        "generative-ai",
+        "image-generation",
+        "image-to-video",
+        "infinite-canvas",
+        "libtv",
+        "llm",
+        "node-based-editor",
+        "open-source",
+        "storyboarding",
+        "tapnow",
+        "text-to-image",
+        "text-to-video",
+        "video-generation",
+        "workflow-automation"
+      ],
+      "published_at": "2026-01-29T10:25:45Z",
+      "ai": {
+        "domain": "film_video",
+        "title": "Toonflow: 开源AI创作平台，无限画布+可视化工作流支持视频生成与智能分镜",
+        "author_role": "AI Creative Platform Developer",
+        "keywords": [
+          "无限画布",
+          "AI Agent",
+          "可视化工作流",
+          "视频生成",
+          "智能分镜",
+          "短剧创作"
+        ],
+        "workflow_stage": "concept / ideation",
+        "tools_mentioned": [
+          "Toonflow",
+          "MCP"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "开源AI创作平台，融合无限画布、AI Agent与可视化工作流。支持图像生成、视频生成、智能分镜及短剧创作，可本地部署并自由接入模型。",
+        "why_important": "提供类似LibTV和TapNow的画布式创作方法，将分镜、生成和剪辑整合到统一可视化界面。",
+        "learnings": "无限画布结合AI Agent能够显著提升从概念到成片的迭代速度，特别适合短剧和分镜创作。",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_944414751",
+      "url": "https://github.com/ahujasid/mcp-for-blender",
+      "author": {
+        "name": "ahujasid",
+        "username": "ahujasid",
+        "headline": ""
+      },
+      "content": "mcp-for-blender: Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.",
+      "metrics": {
+        "stars": 30022,
+        "forks": 2728
+      },
+      "topics": [
+        "3d-modeling",
+        "ai",
+        "blender",
+        "blender-addon",
+        "blender-mcp",
+        "claude",
+        "generative-ai",
+        "llm",
+        "mcp",
+        "model-context-protocol",
+        "python"
+      ],
+      "published_at": "2025-03-07T09:58:58Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "mcp-for-blender: 用任意LLM通过MCP协议控制Blender 3D",
+        "author_role": "Blender Plugin Developer",
+        "keywords": [
+          "Blender",
+          "MCP",
+          "LLM",
+          "3D automation",
+          "plugin"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "Blender",
+          "MCP",
+          "LLM"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "社区插件，通过MCP协议让任意LLM控制Blender 3D建模和动画。非官方项目。",
+        "why_important": "将AI能力直接集成到Blender工作流中，实现通过自然语言描述进行3D建模和场景编辑。",
+        "learnings": "MCP协议可以作为LLM与专业3D软件之间的标准化接口，降低AI辅助建模的技术门槛。",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1276940779",
+      "url": "https://github.com/iart-ai/motion-skills",
+      "author": {
+        "name": "iart-ai",
+        "username": "iart-ai",
+        "headline": ""
+      },
+      "content": "motion-skills: 50 open-source skills that teach your AI coding agent to make motion graphics, animation & video — kinetic typography, data-viz, explainers, TikTok/Reels, WebGL, Manim. 14 installable packs. By iart.ai, the AI motion agent.",
+      "metrics": {
+        "stars": 703,
+        "forks": 57
+      },
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "motion-graphics",
+        "remotion",
+        "skills"
+      ],
+      "published_at": "2026-06-22T12:40:08Z",
+      "ai": {
+        "domain": "motion_design",
+        "title": "motion-skills: 50个开源技能包教AI编码Agent制作动态图形和视频",
+        "author_role": "Motion Design Automation Developer",
+        "keywords": [
+          "motion graphics",
+          "animation",
+          "kinetic typography",
+          "data visualization",
+          "WebGL",
+          "Manim",
+          "AI agent"
+        ],
+        "workflow_stage": "animation / motion",
+        "tools_mentioned": [
+          "WebGL",
+          "Manim",
+          "AI coding agent"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "50个开源技能包，教AI编码Agent制作动态图形、动画和视频，包括动态排版、数据可视化、解说视频、TikTok/Reels、WebGL、Manim等。提供14个可安装包。",
+        "why_important": "将专业运动设计知识模块化为AI Agent可学习的技能包，降低动态图形制作的技术门槛。",
+        "learnings": "通过结构化的技能包而非零散的提示，可以让AI Agent系统性地掌握从基础到高级的运动设计能力。",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    }
+  ]
+}
