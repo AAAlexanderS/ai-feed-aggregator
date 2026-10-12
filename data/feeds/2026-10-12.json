@@ -1,0 +1,222 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T17:17:41.615768+00:00",
+  "posts": [
+    {
+      "source": "github",
+      "source_id": "gh_1033418385",
+      "url": "https://github.com/diodiogod/TTS-Audio-Suite",
+      "author": {
+        "name": "diodiogod",
+        "username": "diodiogod",
+        "headline": ""
+      },
+      "content": "TTS-Audio-Suite: A ComfyUI custom node integration for local multi-engine multi-language Text-to-Speech and Voice Conversion. Supports: RVC, Echo-TTS, Qwen3-TTS, Cozy Voice 3, Step Audio EditX, IndexTTS-2, Chatterbox (classic and multilingual), F5-TTS, Higgs Audio 2, 3, and VibeVoice with unlimited text length, SRT timing, Character support, and many audio tools",
+      "metrics": {
+        "stars": 1225,
+        "forks": 147
+      },
+      "topics": [
+        "ai-audio",
+        "audio",
+        "audio-editing",
+        "audio-generation",
+        "audio-processing",
+        "chatterbox",
+        "comfyui",
+        "cozy-voice-3",
+        "echo-tts",
+        "f5",
+        "f5-tts",
+        "higgs-audio",
+        "indextts-2",
+        "qwen3-tts",
+        "rvc",
+        "text-to-speech",
+        "tts",
+        "vibevoice",
+        "voice-cloning",
+        "voice-conversion"
+      ],
+      "published_at": "2025-08-06T19:33:01Z",
+      "ai": {
+        "domain": "film_video",
+        "title": "TTS-Audio-Suite: ComfyUI용 다중 엔진 로컬 TTS 및 보이스 변환 노드",
+        "author_role": "ComfyUI Audio Extension Developer",
+        "keywords": [
+          "ComfyUI",
+          "TTS",
+          "RVC",
+          "F5-TTS",
+          "voice-conversion",
+          "SRT",
+          "audio"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "ComfyUI",
+          "RVC",
+          "Echo-TTS",
+          "Qwen3-TTS",
+          "Cozy Voice 3",
+          "F5-TTS",
+          "Higgs Audio"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "ComfyUI에 다중 TTS 엔진(RVC, Echo-TTS, F5-TTS 등)과 음성 변환 기능을 통합한 커스텀 노드입니다. 무제한 텍스트 길이, SRT 타이밍 지원, 캐릭터 설정 등 다양한 오디오 도구를 제공합니다.",
+        "why_important": "영상 제작자가 ComfyUI 워크플로우 내에서 다양한 TTS 엔진을 활용해 캐릭터별 음성을 로컬에서 생성하고 타이밍을 조정할 수 있습니다.",
+        "learnings": "여러 TTS 엔진을 ComfyUI 노드로 통합하여 영상 제작 파이프라인에서 음성 생성부터 타이밍 조정까지 일관되게 처리할 수 있습니다.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_922873328",
+      "url": "https://github.com/willmiao/ComfyUI-Lora-Manager",
+      "author": {
+        "name": "willmiao",
+        "username": "willmiao",
+        "headline": ""
+      },
+      "content": "ComfyUI-Lora-Manager: LoRA Manager for ComfyUI - A powerful extension for organizing, previewing, and integrating LoRA models with metadata and workflow support.",
+      "metrics": {
+        "stars": 1529,
+        "forks": 148
+      },
+      "topics": [],
+      "published_at": "2025-01-27T08:39:04Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "ComfyUI-Lora-Manager: LoRA 모델 메타데이터 관리 및 워크플로우 통합 확장",
+        "author_role": "ComfyUI Extension Developer",
+        "keywords": [
+          "ComfyUI",
+          "LoRA",
+          "metadata",
+          "workflow",
+          "extension"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "ComfyUI",
+          "LoRA"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "ComfyUI용 LoRA 모델 관리 확장 프로그램으로, LoRA 모델의 정리, 미리보기, 메타데이터 관리 및 워크플로우 통합을 지원합니다. ComfyUI 사용자가 다수의 LoRA 모델을 효율적으로 관리하고 워크플로우에 통합할 수 있는 기능을 제공합니다.",
+        "why_important": "ComfyUI에서 여러 LoRA 모델을 사용하는 크리에이터가 메타데이터 기반으로 모델을 체계적으로 관리하고 워크플로우에 빠르게 적용할 수 있습니다.",
+        "learnings": "LoRA 모델의 메타데이터를 활용한 조직화와 워크플로우 통합으로 반복 작업 시간을 단축할 수 있습니다.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_957116428",
+      "url": "https://github.com/1038lab/ComfyUI-QwenVL",
+      "author": {
+        "name": "1038lab",
+        "username": "1038lab",
+        "headline": ""
+      },
+      "content": "ComfyUI-QwenVL: ComfyUI-QwenVL custom node: Integrates the Qwen-VL series, including Qwen2.5-VL, Qwen3-VL, Qwen3.5-VL, Qwen3.6-VL (MoE), and Qwen3.8-VL, with GGUF support for advanced multimodal AI in text generation, image understanding, and video analysis.",
+      "metrics": {
+        "stars": 910,
+        "forks": 146
+      },
+      "topics": [
+        "comfyui",
+        "customnodes",
+        "qwen-vl",
+        "qwen3-vl"
+      ],
+      "published_at": "2025-03-29T15:42:39Z",
+      "ai": {
+        "domain": "ui_ux_design",
+        "title": "ComfyUI-QwenVL: Qwen 멀티모달 AI 시리즈를 ComfyUI에 통합한 커스텀 노드",
+        "author_role": "ComfyUI Multimodal Extension Developer",
+        "keywords": [
+          "ComfyUI",
+          "Qwen-VL",
+          "multimodal",
+          "GGUF",
+          "image-understanding",
+          "video-analysis"
+        ],
+        "workflow_stage": "concept / ideation",
+        "tools_mentioned": [
+          "ComfyUI",
+          "Qwen2.5-VL",
+          "Qwen3-VL",
+          "Qwen3.5-VL",
+          "Qwen3.6-VL",
+          "Qwen3.8-VL"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Qwen-VL 시리즈(Qwen2.5-VL부터 Qwen3.8-VL까지)를 ComfyUI에 통합한 커스텀 노드로, GGUF 지원과 함께 텍스트 생성, 이미지 이해, 비디오 분석 기능을 제공합니다. 멀티모달 AI를 ComfyUI 워크플로우에서 직접 활용할 수 있습니다.",
+        "why_important": "디자이너와 크리에이터가 ComfyUI 내에서 이미지와 비디오를 분석하고 텍스트 기반 생성 작업을 멀티모달 AI로 수행할 수 있습니다.",
+        "learnings": "GGUF 포맷 지원으로 로컬 환경에서 경량화된 Qwen-VL 모델을 ComfyUI 워크플로우에 직접 적용 가능합니다.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 7
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1016509116",
+      "url": "https://github.com/YILS-LIN/short-video-factory",
+      "author": {
+        "name": "YILS-LIN",
+        "username": "YILS-LIN",
+        "headline": ""
+      },
+      "content": "short-video-factory: 一键生成产品营销与泛内容短视频，AI批量自动剪辑，高颜值跨平台桌面端工具 One click generation of product marketing and general content short videos, AI batch automatic cliping, beautiful cross platform desktop tool",
+      "metrics": {
+        "stars": 5598,
+        "forks": 777
+      },
+      "topics": [
+        "ai",
+        "automatic",
+        "automation",
+        "clipping",
+        "cross-platform",
+        "desktop",
+        "linux",
+        "mac",
+        "marketing",
+        "pc",
+        "product",
+        "shortvideo",
+        "tiktok",
+        "windows"
+      ],
+      "published_at": "2025-07-09T05:55:44Z",
+      "ai": {
+        "domain": "film_video",
+        "title": "short-video-factory: AI 배치 자동 편집으로 제품 마케팅 숏폼 비디오 생성 데스크톱 도구",
+        "author_role": "AI Video Automation Developer",
+        "keywords": [
+          "short-video",
+          "AI",
+          "batch-editing",
+          "marketing",
+          "desktop-tool"
+        ],
+        "workflow_stage": "rendering / export",
+        "tools_mentioned": [
+          "short-video-factory"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "제품 마케팅과 범용 콘텐츠 숏폼 비디오를 원클릭으로 생성하는 AI 배치 자동 편집 데스크톱 도구입니다. 크로스 플랫폼 지원과 함께 대량의 숏폼 비디오를 자동으로 편집하고 생성할 수 있습니다.",
+        "why_important": "마케팅 크리에이터가 대량의 숏폼 비디오를 AI 자동화로 빠르게 제작하고 다양한 플랫폼에 배포할 수 있습니다.",
+        "learnings": "배치 처리 방식의 AI 자동 편집으로 반복적인 숏폼 비디오 제작 시간을 대폭 단축할 수 있습니다.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    }
+  ]
+}
