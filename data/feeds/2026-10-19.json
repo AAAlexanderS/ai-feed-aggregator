@@ -1,0 +1,274 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T15:14:12.639655+00:00",
+  "posts": [
+    {
+      "source": "github",
+      "source_id": "gh_795775446",
+      "url": "https://github.com/harry7557558/spirula-studio",
+      "author": {
+        "name": "harry7557558",
+        "username": "harry7557558",
+        "headline": ""
+      },
+      "content": "spirula-studio: Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.",
+      "metrics": {
+        "stars": 1778,
+        "forks": 163
+      },
+      "topics": [
+        "360-camera",
+        "3d-gaussian-splatting",
+        "3d-reconstruction",
+        "3dgs",
+        "3dgs-acceleration",
+        "computer-vision",
+        "cross-vendor",
+        "cuda",
+        "gaussian-splatting",
+        "mesh-generation",
+        "quantized-training",
+        "structure-from-motion",
+        "vram-optimization",
+        "vulkan"
+      ],
+      "published_at": "2024-05-04T03:03:05Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA",
+        "author_role": "3DGS developer",
+        "keywords": [
+          "3D Gaussian Splatting",
+          "Vulkan",
+          "CUDA",
+          "video-to-3D",
+          "mesh conversion",
+          "cross-platform"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "Vulkan",
+          "CUDA",
+          "3D Gaussian Splatting"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Cross-vendor 3D Gaussian Splatting training tool that processes video input to splat representations and converts to mesh. Supports both Vulkan and CUDA backends for hardware flexibility.",
+        "why_important": "Provides hardware-agnostic 3DGS training pipeline from video capture to usable mesh assets, removing vendor lock-in.",
+        "learnings": "3DGS training can run on both Vulkan and CUDA, enabling complete video-to-splat-to-mesh pipeline regardless of GPU vendor.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1421389432",
+      "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
+      "author": {
+        "name": "LiCinCan",
+        "username": "LiCinCan",
+        "headline": ""
+      },
+      "content": "blender-ai-mcp-addon: AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+      "metrics": {
+        "stars": 870,
+        "forks": 379
+      },
+      "topics": [
+        "ai-assistant",
+        "blender",
+        "blender-addon",
+        "blender-ai",
+        "blender-automation",
+        "blender-extension",
+        "blender-mcp",
+        "blender-plugin",
+        "blender-python",
+        "blender-scripting",
+        "bpy",
+        "chatgpt",
+        "gpt",
+        "llm",
+        "mcp",
+        "mcp-for-blender",
+        "mcp-server",
+        "model-context-protocol",
+        "opencode",
+        "python"
+      ],
+      "published_at": "2026-10-15T22:30:47Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows",
+        "author_role": "Blender plugin developer",
+        "keywords": [
+          "Blender",
+          "MCP",
+          "AI assistant",
+          "bpy",
+          "Python scripting",
+          "multi-agent",
+          "3D workflow"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "Blender",
+          "OpenAI",
+          "ChatGPT",
+          "Claude",
+          "Gemini",
+          "Ollama",
+          "MCP"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Blender addon integrating MCP server protocol for AI-driven 3D workflows with visual chat, scene manipulation tools, and multi-agent automation. Supports multiple LLM providers and bpy Python scripting assistance.",
+        "why_important": "Bridges AI assistants directly into Blender's 3D environment with standardized MCP protocol, enabling conversational scene editing and scripting help.",
+        "learnings": "MCP server protocol can be embedded in Blender addons to enable multi-LLM scene manipulation and Python scripting assistance within the 3D viewport.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1368569221",
+      "url": "https://github.com/sixtysevenlf/dsh-blender-plugin",
+      "author": {
+        "name": "sixtysevenlf",
+        "username": "sixtysevenlf",
+        "headline": ""
+      },
+      "content": "dsh-blender-plugin: DSH × Blender 直连实时插件：15 个模型工具让 AI 驱动 GUI Blender；v2.4 起编辑模式点/线/面、姿态骨骼也能随选中送进 DSH 草稿（含多选/集合模式与 human/agent 判定），随包建模 skill，支持 WSL / Windows / macOS。",
+      "metrics": {
+        "stars": 760,
+        "forks": 33
+      },
+      "topics": [
+        "3d-modeling",
+        "ai-agent",
+        "automation",
+        "blender",
+        "bpy",
+        "cycles",
+        "dsh",
+        "dsh-plugin",
+        "tooling"
+      ],
+      "published_at": "2026-09-13T16:07:04Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "DSH × Blender 直连实时插件：15 个模型工具让 AI 驱动 GUI Blender；v2.4 起编辑模式点/线/面、姿态骨骼也能随选中送进 DSH 草稿",
+        "author_role": "Blender plugin developer",
+        "keywords": [
+          "Blender",
+          "DSH",
+          "实时插件",
+          "编辑模式",
+          "骨骼",
+          "多选",
+          "建模 skill"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "Blender",
+          "DSH",
+          "WSL",
+          "Windows",
+          "macOS"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "DSH 与 Blender 的实时直连插件，提供 15 个 AI 模型工具驱动 Blender GUI。v2.4 版本支持编辑模式下的点/线/面选择、姿态骨骼实时发送到 DSH 草稿，包含多选和集合模式及人机判定功能。",
+        "why_important": "实现 AI 工具与 Blender 编辑模式的实时双向通信，可将选中的几何元素和骨骼直接送入 AI 工作流。",
+        "learnings": "Blender 编辑模式的点/线/面选择和骨骼姿态可实时发送到 DSH AI 系统，支持跨平台（WSL/Windows/macOS）多选和集合操作。",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1207010600",
+      "url": "https://github.com/visualbruno/3DGenStudio",
+      "author": {
+        "name": "visualbruno",
+        "username": "visualbruno",
+        "headline": ""
+      },
+      "content": "3DGenStudio: Orchestrate complete 3D generation pipelines — from text-to-image, image editing, mesh generation, UV unwrapping, to texturing — all in a single visual workspace powered by ComfyUI and external APIs.",
+      "metrics": {
+        "stars": 727,
+        "forks": 107
+      },
+      "topics": [],
+      "published_at": "2026-04-10T13:34:31Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "Orchestrate complete 3D generation pipelines in ComfyUI - text-to-image to texturing",
+        "author_role": "3D pipeline developer",
+        "keywords": [
+          "ComfyUI",
+          "3D generation",
+          "text-to-image",
+          "mesh generation",
+          "UV unwrapping",
+          "texturing",
+          "pipeline automation"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "ComfyUI",
+          "external APIs"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Visual workspace orchestrating end-to-end 3D asset generation in ComfyUI, chaining text-to-image, image editing, mesh generation, UV unwrapping, and texturing. Integrates external APIs into unified ComfyUI workflows.",
+        "why_important": "Unifies fragmented 3D generation steps into single visual pipeline, eliminating manual hand-offs between tools for text-to-textured-mesh workflow.",
+        "learnings": "Complete 3D asset pipeline from text prompt to textured mesh can be orchestrated in ComfyUI by chaining image generation, mesh extraction, UV unwrapping, and texturing nodes with external API calls.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1292436887",
+      "url": "https://github.com/lbouaraba/comfyui-krea2edit",
+      "author": {
+        "name": "lbouaraba",
+        "username": "lbouaraba",
+        "headline": ""
+      },
+      "content": "comfyui-krea2edit: Instruction-based, identity-preserving image editing for Krea 2 in ComfyUI — nodes + workflows for the Krea 2 Identity Edit LoRA",
+      "metrics": {
+        "stars": 722,
+        "forks": 59
+      },
+      "topics": [],
+      "published_at": "2026-07-07T14:23:26Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "Instruction-based, identity-preserving image editing for Krea 2 in ComfyUI",
+        "author_role": "ComfyUI developer",
+        "keywords": [
+          "ComfyUI",
+          "Krea 2",
+          "Identity Edit LoRA",
+          "instruction-based editing",
+          "image editing nodes"
+        ],
+        "workflow_stage": "iteration / refinement",
+        "tools_mentioned": [
+          "ComfyUI",
+          "Krea 2",
+          "LoRA"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Custom ComfyUI nodes implementing Krea 2's Identity Edit LoRA for instruction-based image editing while preserving subject identity. Includes workflow examples for identity-consistent editing operations.",
+        "why_important": "Enables identity-preserving iterative editing directly in ComfyUI workflows, critical for character consistency across image variations.",
+        "learnings": "Krea 2's Identity Edit LoRA can be integrated into ComfyUI through custom nodes for instruction-driven editing that maintains subject identity.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    }
+  ]
+}
