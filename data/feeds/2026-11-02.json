@@ -1,0 +1,529 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T17:44:51.096324+00:00",
+  "posts": [
+    {
+      "source": "github",
+      "source_id": "gh_1158621117",
+      "url": "https://github.com/artokun/comfyui-mcp",
+      "author": {
+        "name": "artokun",
+        "username": "artokun",
+        "headline": ""
+      },
+      "content": "comfyui-mcp: Local-first, agent-native control plane for ComfyUI — MCP server + sidebar agent that generates images, video & audio, authors and runs workflows, and edits your live graph in natural language on ANY LLM (Claude, ChatGPT, Gemini, offline Ollama, or any hosted model). 178 tools, 36 AI skills, 55 installer packs. Local, LAN, VPS, or Comfy Cloud.",
+      "metrics": {
+        "stars": 887,
+        "forks": 140
+      },
+      "topics": [
+        "agent-skills",
+        "ai-agent",
+        "claude-code",
+        "claude-plugin",
+        "comfyui",
+        "comfyui-extension",
+        "comfyui-mcp",
+        "comfyui-mcp-server",
+        "flux",
+        "image-generation",
+        "local-first",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "offline",
+        "ollama",
+        "self-hosted",
+        "stable-diffusion",
+        "video-generation",
+        "wan"
+      ],
+      "published_at": "2026-02-15T17:08:48Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "comfyui-mcp: Local MCP server + sidebar agent controls ComfyUI with 178 tools",
+        "author_role": "ComfyUI Developer",
+        "keywords": [
+          "ComfyUI",
+          "MCP",
+          "natural language",
+          "workflow automation",
+          "Claude",
+          "ChatGPT",
+          "Ollama"
+        ],
+        "workflow_stage": "iteration / refinement",
+        "tools_mentioned": [
+          "ComfyUI",
+          "MCP",
+          "Claude",
+          "ChatGPT",
+          "Gemini",
+          "Ollama"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Local-first MCP server that connects any LLM (Claude, ChatGPT, Gemini, Ollama) to ComfyUI with 178 tools and 36 AI skills. Enables natural language workflow authoring, live graph editing, and generation control across images, video, and audio through a unified sidebar agent interface.",
+        "why_important": "Removes the node-wiring barrier for ComfyUI users by letting them author and modify complex workflows conversationally with any LLM, locally or remotely.",
+        "learnings": "MCP protocol can wrap 178 ComfyUI operations into natural language tools, enabling agent-driven workflow generation and real-time graph manipulation without manual node placement.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1315384578",
+      "url": "https://github.com/NomaDamas/CozyClay",
+      "author": {
+        "name": "NomaDamas",
+        "username": "NomaDamas",
+        "headline": ""
+      },
+      "content": "CozyClay: Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the same shots to an AI video model.",
+      "metrics": {
+        "stars": 1408,
+        "forks": 164
+      },
+      "topics": [
+        "3d",
+        "3d-animation",
+        "ai",
+        "ai-video",
+        "animation",
+        "blender",
+        "camera-control",
+        "llm-agent",
+        "motion-generation",
+        "previs",
+        "previsualization",
+        "previz",
+        "python",
+        "react-three-fiber",
+        "storyboard",
+        "threejs",
+        "typescript",
+        "virtual-production",
+        "webgl"
+      ],
+      "published_at": "2026-07-28T19:57:47Z",
+      "ai": {
+        "domain": "film_video",
+        "title": "CozyClay: Browser-based previs tool for blocking scenes then AI video",
+        "author_role": "Previs Developer",
+        "keywords": [
+          "previs",
+          "browser",
+          "camera moves",
+          "scene blocking",
+          "AI video",
+          "shot consistency"
+        ],
+        "workflow_stage": "concept / ideation",
+        "tools_mentioned": [
+          "CozyClay"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Open source browser previs software for blocking scenes, posing characters, and authoring camera moves and cuts. The same shot setup can then be exported to AI video models for final generation.",
+        "why_important": "Solves the shot consistency problem in AI video generation by letting creators define camera moves and blocking in previs, then transfer that intent to generation models.",
+        "learnings": "Browser-based previs can define camera trajectories and shot composition upfront, then pass that structured data to AI video models to maintain consistent framing and movement.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1323984334",
+      "url": "https://github.com/nkxx188/ComfyUI-MiniMaxH3-Easy",
+      "author": {
+        "name": "nkxx188",
+        "username": "nkxx188",
+        "headline": ""
+      },
+      "content": "ComfyUI-MiniMaxH3-Easy: The easiest way to use MiniMax H3. One compact workflow for T2V, I2V, first/last-frame, and reference video generation, with a unified multi-media input, powerful @ references, and inline dialogue blocks. Less wiring. More creative control.",
+      "metrics": {
+        "stars": 882,
+        "forks": 60
+      },
+      "topics": [],
+      "published_at": "2026-08-05T11:45:52Z",
+      "ai": {
+        "domain": "film_video",
+        "title": "ComfyUI-MiniMaxH3-Easy: Unified T2V/I2V workflow with frame control & references",
+        "author_role": "ComfyUI Plugin Developer",
+        "keywords": [
+          "MiniMax H3",
+          "T2V",
+          "I2V",
+          "first-frame",
+          "last-frame",
+          "reference video",
+          "ComfyUI"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "ComfyUI",
+          "MiniMax H3"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Single compact ComfyUI workflow consolidating MiniMax H3's text-to-video, image-to-video, first/last-frame control, and reference video generation. Features unified multi-media input, @ reference syntax, and inline dialogue blocks to reduce node complexity.",
+        "why_important": "Simplifies MiniMax H3 video generation by consolidating multiple modes into one workflow, reducing wiring overhead and making frame-level control more accessible.",
+        "learnings": "@ reference syntax and inline dialogue blocks can unify disparate video generation modes (T2V, I2V, frame control) into a single compact ComfyUI workflow with less manual node connection.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1427823436",
+      "url": "https://github.com/islandmed/SculptForge",
+      "author": {
+        "name": "islandmed",
+        "username": "islandmed",
+        "headline": ""
+      },
+      "content": "SculptForge: The free, open-source alternative to ZBrush. Sculpting for Linux, macOS and Windows with free built-in AI (image/text to 3D), Send to Unreal, game-ready LODs, Gaussian splats and OpenUSD.",
+      "metrics": {
+        "stars": 444,
+        "forks": 51
+      },
+      "topics": [
+        "3d",
+        "cpp",
+        "dear-imgui",
+        "digital-sculpting",
+        "fbx",
+        "game-development",
+        "gaussian-splatting",
+        "gltf",
+        "image-to-3d",
+        "mcp",
+        "opengl",
+        "openusd",
+        "sculpting",
+        "text-to-3d",
+        "unreal-engine",
+        "zbrush-alternative"
+      ],
+      "published_at": "2026-10-21T03:18:08Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "SculptForge: Free ZBrush alternative with built-in AI, Unreal integration, LODs",
+        "author_role": "3D Sculpting Tool Developer",
+        "keywords": [
+          "sculpting",
+          "ZBrush alternative",
+          "AI",
+          "text to 3D",
+          "image to 3D",
+          "Unreal Engine",
+          "LODs",
+          "Gaussian splats",
+          "OpenUSD"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "SculptForge",
+          "Unreal Engine",
+          "OpenUSD"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Free, open-source alternative to ZBrush for Linux, macOS, and Windows with built-in AI for image/text to 3D conversion. Includes direct Unreal Engine export, game-ready LOD generation, Gaussian splat support, and OpenUSD compatibility.",
+        "why_important": "Combines sculpting, AI-driven 3D generation, and game engine integration in one free tool, eliminating the need for multiple applications in the 3D asset creation pipeline.",
+        "learnings": "Embedding text/image-to-3D AI directly into a sculpting tool with game-ready LOD generation and Unreal integration can streamline the asset-to-engine workflow into a single application.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_616620075",
+      "url": "https://github.com/tin2tin/Pallaidium",
+      "author": {
+        "name": "tin2tin",
+        "username": "tin2tin",
+        "headline": ""
+      },
+      "content": "Pallaidium: PALLAIDIUM — a generative AI movie studio, seamlessly integrated into the Blender Video Editor (VSE), enabling end-to-end production from script to screen and back.",
+      "metrics": {
+        "stars": 1552,
+        "forks": 162
+      },
+      "topics": [
+        "ai",
+        "aicinema",
+        "blender",
+        "chatterbox",
+        "diffusion",
+        "flux",
+        "generative",
+        "ltx",
+        "movie",
+        "qwen",
+        "studio",
+        "text2audio",
+        "text2image",
+        "text2speech",
+        "text2video",
+        "turbo",
+        "wan",
+        "z-image"
+      ],
+      "published_at": "2023-03-20T18:40:16Z",
+      "ai": {
+        "domain": "film_video",
+        "title": "Pallaidium: Generative AI movie studio integrated into Blender VSE",
+        "author_role": "Blender VSE Developer",
+        "keywords": [
+          "Blender",
+          "VSE",
+          "generative AI",
+          "movie production",
+          "script to screen",
+          "video editor"
+        ],
+        "workflow_stage": "iteration / refinement",
+        "tools_mentioned": [
+          "Blender",
+          "VSE"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Generative AI movie studio embedded in Blender's Video Sequence Editor (VSE), enabling end-to-end production from script to final output. Integrates AI generation directly into the timeline-based editing workflow.",
+        "why_important": "Bridges the gap between AI generation and traditional non-linear editing by embedding generative tools into Blender VSE's timeline, allowing iterative refinement in a familiar editing environment.",
+        "learnings": "Embedding generative AI into Blender VSE's timeline enables script-to-screen workflows where AI-generated assets can be refined iteratively within the same video editing interface.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_983846239",
+      "url": "https://github.com/sakalond/StableGen",
+      "author": {
+        "name": "sakalond",
+        "username": "sakalond",
+        "headline": ""
+      },
+      "content": "StableGen: Transform your 3D texturing workflow with the power of generative AI, directly within Blender!",
+      "metrics": {
+        "stars": 1303,
+        "forks": 121
+      },
+      "topics": [
+        "blender",
+        "controlnet",
+        "ipadapter",
+        "qwen-image-edit",
+        "stable-diffusion",
+        "texture",
+        "trellis2"
+      ],
+      "published_at": "2025-05-15T02:27:38Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "StableGen: Generative AI texturing directly inside Blender",
+        "author_role": "Blender Add-on Developer",
+        "keywords": [
+          "Blender",
+          "texturing",
+          "generative AI",
+          "3D workflow",
+          "Stable Diffusion"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "Blender",
+          "Stable Diffusion"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Blender add-on that transforms 3D texturing workflow by integrating generative AI directly into Blender's interface. Enables AI-driven texture generation and application within the modeling environment.",
+        "why_important": "Eliminates the need to export UVs to external tools for AI texturing, keeping the entire 3D texturing workflow inside Blender for faster iteration.",
+        "learnings": "Embedding generative AI texture generation directly into Blender allows for in-context UV painting and real-time preview without external round-tripping.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_820087727",
+      "url": "https://github.com/onlook-dev/onlook",
+      "author": {
+        "name": "onlook-dev",
+        "username": "onlook-dev",
+        "headline": ""
+      },
+      "content": "onlook: The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code.",
+      "metrics": {
+        "stars": 27083,
+        "forks": 2139
+      },
+      "topics": [
+        "ai",
+        "claude-code",
+        "codex",
+        "cursor",
+        "design",
+        "design-system",
+        "design-to-code",
+        "design-tool",
+        "figma",
+        "frontend",
+        "ide",
+        "nextjs",
+        "react",
+        "supabase",
+        "tailwindcss",
+        "typescript",
+        "ui",
+        "vibe-coding",
+        "vibecoding",
+        "visual-engineering"
+      ],
+      "published_at": "2024-06-25T19:16:02Z",
+      "ai": {
+        "domain": "ui_ux_design",
+        "title": "Onlook: AI-first design tool that visually edits real code",
+        "author_role": "Design Tool Developer",
+        "keywords": [
+          "design tool",
+          "visual editing",
+          "real code",
+          "AI",
+          "developer tool",
+          "design-to-code"
+        ],
+        "workflow_stage": "layout / composition",
+        "tools_mentioned": [
+          "Onlook"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Open-source AI-first design tool for visual engineers to build, style, and edit code visually with AI assistance. Operates directly on real code rather than design abstractions, bridging design and development workflows.",
+        "why_important": "Removes the design-to-code translation layer by letting designers manipulate actual production code visually, with AI helping to maintain code quality and patterns.",
+        "learnings": "Visual editing of real code with AI assistance can eliminate handoff friction by making production code the source of truth, not design mockups.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1159938129",
+      "url": "https://github.com/ZSeven-W/openpencil",
+      "author": {
+        "name": "ZSeven-W",
+        "username": "ZSeven-W",
+        "headline": ""
+      },
+      "content": "openpencil: The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.",
+      "metrics": {
+        "stars": 7027,
+        "forks": 607
+      },
+      "topics": [
+        "agent",
+        "agent-team",
+        "ai",
+        "claude",
+        "claude-code",
+        "codex",
+        "dsh-plugin",
+        "fimga",
+        "flutter",
+        "mcp",
+        "opencode",
+        "openpencil",
+        "pencil",
+        "react",
+        "react-native",
+        "rust",
+        "skill",
+        "ui",
+        "vibecoding",
+        "vibedesign"
+      ],
+      "published_at": "2026-02-17T10:51:46Z",
+      "ai": {
+        "domain": "ui_ux_design",
+        "title": "openpencil: First open-source AI-native vector design tool with Agent Teams",
+        "author_role": "Vector Design Tool Developer",
+        "keywords": [
+          "vector design",
+          "AI-native",
+          "Agent Teams",
+          "design-as-code",
+          "prompt to UI",
+          "live canvas"
+        ],
+        "workflow_stage": "layout / composition",
+        "tools_mentioned": [
+          "openpencil"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "First open-source AI-native vector design tool featuring concurrent Agent Teams and design-as-code approach. Turns prompts into UI directly on a live canvas, enabling conversational interface design.",
+        "why_important": "Introduces concurrent Agent Teams to design tools, allowing multiple AI agents to collaborate on interface generation in real-time on a shared canvas.",
+        "learnings": "Design-as-code with concurrent Agent Teams enables prompt-driven UI generation where multiple specialized agents can work simultaneously on different interface elements.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1113573066",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "author": {
+        "name": "hugohe3",
+        "username": "hugohe3",
+        "headline": ""
+      },
+      "content": "ppt-master: AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "metrics": {
+        "stars": 72568,
+        "forks": 5691
+      },
+      "topics": [
+        "ai-agent",
+        "aippt",
+        "office",
+        "powerpoint",
+        "powerpoint-generation",
+        "ppt",
+        "pptx",
+        "presentation",
+        "slide",
+        "slides"
+      ],
+      "published_at": "2025-12-10T06:54:33Z",
+      "ai": {
+        "domain": "motion_design",
+        "title": "ppt-master: AI generates native PowerPoint with shapes, animations, charts, audio",
+        "author_role": "Presentation Automation Developer",
+        "keywords": [
+          "PowerPoint",
+          "native shapes",
+          "transitions",
+          "animations",
+          "charts",
+          "tables",
+          "audio narration",
+          "templates"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "PowerPoint"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "AI converts documents or topics into native PowerPoint decks with real shapes, transitions, animations, data-backed charts/tables, and audio narration from speaker notes. Supports custom .pptx templates for brand consistency.",
+        "why_important": "Generates production-ready PowerPoint decks with native animations and transitions, not just static slides, while maintaining support for custom branding templates.",
+        "learnings": "AI can generate native PowerPoint objects (shapes, transitions, animations, charts) rather than just placing images, enabling full design control and brand consistency through custom templates.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    }
+  ]
+}
