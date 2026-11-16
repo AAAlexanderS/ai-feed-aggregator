@@ -1,0 +1,462 @@
+{
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T17:51:30.927802+00:00",
+  "posts": [
+    {
+      "source": "github",
+      "source_id": "gh_888615536",
+      "url": "https://github.com/1038lab/ComfyUI-RMBG",
+      "author": {
+        "name": "1038lab",
+        "username": "1038lab",
+        "headline": ""
+      },
+      "content": "ComfyUI-RMBG: A ComfyUI custom node designed for advanced image background removal and object, face, clothes, and fashion segmentation, utilizing multiple models including RMBG-2.0, VRMBG-3.0, FeyNoBg, Finegrain Box Segmenter, INSPYRENET, BEN, BEN2, BiRefNet, Lucida, SDMatte, SAM, SAM2, SAM3, Florence-2, YOLOv8/YOLO11, Big-Lama, and GroundingDINO.",
+      "metrics": {
+        "stars": 2235,
+        "forks": 142
+      },
+      "topics": [
+        "comfyui",
+        "comfyui-nodes",
+        "image",
+        "mask",
+        "remove-background",
+        "segmentation",
+        "stable-diffusion"
+      ],
+      "published_at": "2024-11-14T17:48:27Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "ComfyUI-RMBG: Advanced background removal with RMBG-2.0, VRMBG-3.0, BiRefNet, SAM2, SAM3, Florence-2",
+        "author_role": "ComfyUI Node Developer",
+        "keywords": [
+          "background removal",
+          "segmentation",
+          "ComfyUI",
+          "RMBG-2.0",
+          "BiRefNet",
+          "SAM2",
+          "Florence-2"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "ComfyUI",
+          "RMBG-2.0",
+          "VRMBG-3.0",
+          "BiRefNet",
+          "SAM2",
+          "SAM3",
+          "Florence-2",
+          "YOLO11"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "ComfyUI custom node for background removal and object/face/clothes segmentation using multiple models. Supports RMBG-2.0, VRMBG-3.0, BiRefNet, SAM2, SAM3, Florence-2, YOLO11, and other specialized segmentation models.",
+        "why_important": "Provides production-ready segmentation options with multiple model backends for different use cases in a single ComfyUI node.",
+        "learnings": "Multiple segmentation models can be integrated into a single ComfyUI node to handle different object types and quality requirements.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1455416555",
+      "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
+      "author": {
+        "name": "hitkeeen",
+        "username": "hitkeeen",
+        "headline": ""
+      },
+      "content": "blender-ai-mcp-addon: AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+      "metrics": {
+        "stars": 2115,
+        "forks": 53
+      },
+      "topics": [
+        "ai-agents",
+        "ai-assistant",
+        "blender",
+        "blender-addon",
+        "blender-ai",
+        "blender-automation",
+        "blender-mcp",
+        "blender-plugin",
+        "blender-scripting",
+        "bpy",
+        "chatgpt",
+        "claude",
+        "gemini",
+        "llm",
+        "mcp",
+        "mcp-for-blender",
+        "mcp-server",
+        "model-context-protocol",
+        "ollama",
+        "opencode"
+      ],
+      "published_at": "2026-11-12T14:32:15Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "blender-ai-mcp-addon: AI assistant and MCP server for Blender with multi-agent workflows",
+        "author_role": "Blender AI Developer",
+        "keywords": [
+          "Blender",
+          "MCP",
+          "AI assistant",
+          "multi-agent",
+          "bpy scripting"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "Blender",
+          "ChatGPT",
+          "Claude",
+          "Gemini",
+          "Ollama",
+          "OpenCode",
+          "MCP"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "AI assistant and MCP server for Blender featuring visual chat, scene tools, and multi-agent workflows. Compatible with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode for bpy Python scripting.",
+        "why_important": "Multi-model AI integration for Blender enables complex 3D workflows through natural language and agent orchestration.",
+        "learnings": "MCP server architecture can support multiple AI models simultaneously for Blender scripting and scene manipulation.",
+        "worth_bookmarking": true,
+        "credibility_score": 8,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1235403234",
+      "url": "https://github.com/nexu-io/openmotion",
+      "author": {
+        "name": "nexu-io",
+        "username": "nexu-io",
+        "headline": ""
+      },
+      "content": "openmotion: The open-source Claude Motion & CapCut alternative. Turn a reference video into editable motion graphics with your brand kit. Export MP4s for YouTube, YouTube Shorts, Instagram Reels, and TikTok. A full-stack agentic video studio with 300+ Motion.md guides and support for 22 agents, including Claude Code, Codex, DSH, and WorkBuddy.",
+      "metrics": {
+        "stars": 10045,
+        "forks": 976
+      },
+      "topics": [
+        "agent-skills",
+        "ai",
+        "ai-agents",
+        "animation",
+        "claude-code",
+        "codex",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "ffmpeg",
+        "generative-ai",
+        "html",
+        "javascript",
+        "local-first",
+        "mcp",
+        "motion-graphics",
+        "openmotion",
+        "typescript",
+        "video-editing",
+        "video-generation"
+      ],
+      "published_at": "2026-05-11T09:40:38Z",
+      "ai": {
+        "domain": "motion_design",
+        "title": "openmotion: Turn reference video into editable motion graphics with brand kit, export for social",
+        "author_role": "Motion Graphics Developer",
+        "keywords": [
+          "motion graphics",
+          "video editing",
+          "brand kit",
+          "social media",
+          "agentic"
+        ],
+        "workflow_stage": "animation / motion",
+        "tools_mentioned": [
+          "Claude Code",
+          "Codex",
+          "DSH",
+          "WorkBuddy"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Open-source alternative to Claude Motion & CapCut that converts reference videos into editable motion graphics with brand kit integration. Export MP4s for YouTube, Instagram Reels, and TikTok with support for 22 AI agents.",
+        "why_important": "Provides open-source motion graphics workflow from reference video to platform-specific exports with brand consistency.",
+        "learnings": "Reference video can be transformed into editable motion graphics using agentic workflows with brand kit enforcement across social platforms.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 9
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_922873328",
+      "url": "https://github.com/willmiao/ComfyUI-Lora-Manager",
+      "author": {
+        "name": "willmiao",
+        "username": "willmiao",
+        "headline": ""
+      },
+      "content": "ComfyUI-Lora-Manager: Visual model, recipe, and workflow manager with deep ComfyUI integration: custom loader and metadata nodes, one-click workflow actions, downloads, organization, and standalone support.",
+      "metrics": {
+        "stars": 1599,
+        "forks": 165
+      },
+      "topics": [],
+      "published_at": "2025-01-27T08:39:04Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "ComfyUI-Lora-Manager: Visual model, recipe, and workflow manager with deep ComfyUI integration",
+        "author_role": "ComfyUI Developer",
+        "keywords": [
+          "ComfyUI",
+          "LoRA",
+          "workflow manager",
+          "custom nodes",
+          "metadata"
+        ],
+        "workflow_stage": "iteration / refinement",
+        "tools_mentioned": [
+          "ComfyUI",
+          "LoRA"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "A ComfyUI extension that provides visual management for models, recipes, and workflows with custom loader and metadata nodes. Includes one-click workflow actions, downloads, organization, and standalone support.",
+        "why_important": "Streamlines model and workflow management in ComfyUI, reducing friction in iterative creative processes.",
+        "learnings": "Custom nodes can be built to integrate model management directly into ComfyUI workflows with metadata tracking.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_672651553",
+      "url": "https://github.com/MrNeRF/LichtFeld-Studio",
+      "author": {
+        "name": "MrNeRF",
+        "username": "MrNeRF",
+        "headline": ""
+      },
+      "content": "LichtFeld-Studio: Train, inspect, edit, automate, and export 3D Gaussian Splatting scenes from a single native application.",
+      "metrics": {
+        "stars": 4000,
+        "forks": 522
+      },
+      "topics": [
+        "computer-graphics",
+        "computer-vision",
+        "cuda",
+        "gaussian-splatting",
+        "optimization"
+      ],
+      "published_at": "2023-07-30T19:55:48Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "LichtFeld-Studio: Train, inspect, edit, automate, and export 3DGS scenes from single native app",
+        "author_role": "3D Gaussian Splatting Developer",
+        "keywords": [
+          "3D Gaussian Splatting",
+          "3DGS",
+          "training",
+          "editing",
+          "export"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "LichtFeld-Studio",
+          "3DGS"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Native application for training, inspecting, editing, automating, and exporting 3D Gaussian Splatting scenes. Single unified interface for complete 3DGS workflow.",
+        "why_important": "Consolidates fragmented 3DGS workflows into a single native application, eliminating pipeline friction.",
+        "learnings": "3DGS workflows can be unified in a single native app covering training through export instead of juggling multiple tools.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1145022970",
+      "url": "https://github.com/HBAI-Ltd/Toonflow-app",
+      "author": {
+        "name": "HBAI-Ltd",
+        "username": "HBAI-Ltd",
+        "headline": ""
+      },
+      "content": "Toonflow-app: 短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作、智能分镜、角色与场景资产管理、图像生成和视频生成。融合无限画布、AI Agent 与可视化工作流，支持本地部署、自选模型、跨平台客户端、MCP 与插件扩展。Open-source AI short drama and motion comic creation tool with an infinite canvas, AI agents, storyboarding, image and video generation. Self-hosted and extensible, with a canvas-based approach similar to LibTV and TapNow.",
+      "metrics": {
+        "stars": 22009,
+        "forks": 3984
+      },
+      "topics": [
+        "ai-agents",
+        "ai-comic",
+        "ai-content-creation",
+        "ai-filmmaking",
+        "ai-short-drama",
+        "generative-ai",
+        "image-generation",
+        "image-to-video",
+        "infinite-canvas",
+        "libtv",
+        "motion-comics",
+        "node-based-editor",
+        "open-source",
+        "short-drama",
+        "storyboarding",
+        "tapnow",
+        "text-to-image",
+        "text-to-video",
+        "video-generation",
+        "workflow-automation"
+      ],
+      "published_at": "2026-01-29T10:25:45Z",
+      "ai": {
+        "domain": "film_video",
+        "title": "Toonflow-app: AI视频创作平台，集成剧本、分镜、资产管理、图像与视频生成",
+        "author_role": "AI Video Platform Developer",
+        "keywords": [
+          "短剧",
+          "分镜",
+          "AI视频",
+          "无限画布",
+          "工作流",
+          "本地部署"
+        ],
+        "workflow_stage": "concept / ideation",
+        "tools_mentioned": [
+          "Toonflow",
+          "AI Agent",
+          "MCP"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "开源AI视频创作平台，支持剧本创作、智能分镜、角色与场景资产管理、图像和视频生成。融合无限画布、AI Agent与可视化工作流，支持本地部署和自选模型。",
+        "why_important": "提供端到端的短剧和漫剧制作流程，从剧本到视频生成，支持本地部署和模型自选。",
+        "learnings": "无限画布结合AI Agent可以在单一平台内完成从剧本到视频的完整短剧制作流程。",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_944414751",
+      "url": "https://github.com/ahujasid/mcp-for-blender",
+      "author": {
+        "name": "ahujasid",
+        "username": "ahujasid",
+        "headline": ""
+      },
+      "content": "mcp-for-blender: Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.",
+      "metrics": {
+        "stars": 34639,
+        "forks": 3162
+      },
+      "topics": [
+        "3d-modeling",
+        "ai",
+        "blender",
+        "blender-addon",
+        "blender-mcp",
+        "claude",
+        "generative-ai",
+        "llm",
+        "mcp",
+        "model-context-protocol",
+        "python"
+      ],
+      "published_at": "2025-03-07T09:58:58Z",
+      "ai": {
+        "domain": "3d_rendering",
+        "title": "mcp-for-blender: Community plugin to control Blender 3D with any LLM",
+        "author_role": "Blender Plugin Developer",
+        "keywords": [
+          "Blender",
+          "MCP",
+          "LLM",
+          "AI control",
+          "3D"
+        ],
+        "workflow_stage": "asset creation",
+        "tools_mentioned": [
+          "Blender",
+          "MCP",
+          "LLM"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Community plugin enabling control of Blender 3D through any LLM using the Model Context Protocol. Allows natural language control of 3D modeling operations.",
+        "why_important": "Bridges LLM capabilities with Blender's Python API, enabling AI-assisted 3D workflows through natural language.",
+        "learnings": "MCP can be used to create LLM interfaces for complex 3D software like Blender without official API integration.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    },
+    {
+      "source": "github",
+      "source_id": "gh_1113327297",
+      "url": "https://github.com/digitalsamba/claude-code-video-toolkit",
+      "author": {
+        "name": "digitalsamba",
+        "username": "digitalsamba",
+        "headline": ""
+      },
+      "content": "claude-code-video-toolkit: Make videos with Claude Code: script, AI voiceover, music, video clips and render, on open-source models that cost cents",
+      "metrics": {
+        "stars": 2595,
+        "forks": 449
+      },
+      "topics": [
+        "agent-skills",
+        "ai-video",
+        "ai-video-generator",
+        "blender",
+        "claude",
+        "claude-code",
+        "developer-tools",
+        "elevenlabs",
+        "ltx-video",
+        "mcp",
+        "open-source",
+        "playwright",
+        "programmatic-video",
+        "qwen-tts",
+        "remotion",
+        "text-to-speech",
+        "text-to-video",
+        "video-editing",
+        "video-production",
+        "youtube-shorts"
+      ],
+      "published_at": "2025-12-09T20:33:03Z",
+      "ai": {
+        "domain": "film_video",
+        "title": "claude-code-video-toolkit: Script, AI voiceover, music, video clips and render with Claude Code",
+        "author_role": "Video Automation Developer",
+        "keywords": [
+          "Claude Code",
+          "video generation",
+          "voiceover",
+          "open-source models",
+          "automation"
+        ],
+        "workflow_stage": "rendering / export",
+        "tools_mentioned": [
+          "Claude Code",
+          "open-source models"
+        ],
+        "has_demo_or_repo": true,
+        "summary": "Make videos with Claude Code using scripting, AI voiceover, music, video clips and rendering on open-source models. Cost-effective pipeline costing cents per video.",
+        "why_important": "Demonstrates concrete cost-effective video generation pipeline using Claude Code and open-source models.",
+        "learnings": "Claude Code can orchestrate complete video pipelines from script to render using open-source models at minimal cost.",
+        "worth_bookmarking": true,
+        "credibility_score": 7,
+        "creative_workflow_value": 8
+      }
+    }
+  ]
+}
